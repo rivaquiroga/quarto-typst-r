@@ -11,9 +11,5 @@ You will need recents versions of both Quarto and R:
 - R >= 4.2
 - [Quarto >= 1.6](https://quarto.org/docs/get-started/)
 
-We will use the following packages: `quarto`, `knitr`, `tidyverse`, `gt`.
-
-## Materials
-
-In this section we will add links to the datasets and other resources we will use during the workshop.
+We will use the following packages: `quarto`, `knitr`, `tidyverse`, `gt`, `gapminder`, `palmerpenguins`.
 
