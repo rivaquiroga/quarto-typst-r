@@ -6,7 +6,7 @@ This event is part of the Workshops for Ukraine 🇺🇦 series organized by Dar
 
 ## Preparing for the workshop
 
-You will need recents versions of both Quarto and R: 
+You will need recent versions of both Quarto and R: 
 
 - R >= 4.2
 - [Quarto >= 1.6](https://quarto.org/docs/get-started/)
