@@ -1,0 +1,4474 @@
+country,year,internet_usage,subregion_un
+Aruba,2000,15.4,Latin America and the Caribbean
+Aruba,2001,17.1,Latin America and the Caribbean
+Aruba,2002,18.8,Latin America and the Caribbean
+Aruba,2003,20.8,Latin America and the Caribbean
+Aruba,2004,23,Latin America and the Caribbean
+Aruba,2005,25.4,Latin America and the Caribbean
+Aruba,2006,28,Latin America and the Caribbean
+Aruba,2007,30.9,Latin America and the Caribbean
+Aruba,2008,52,Latin America and the Caribbean
+Aruba,2009,58,Latin America and the Caribbean
+Aruba,2010,62,Latin America and the Caribbean
+Aruba,2011,69,Latin America and the Caribbean
+Aruba,2012,74,Latin America and the Caribbean
+Aruba,2013,78.9,Latin America and the Caribbean
+Aruba,2014,83.8,Latin America and the Caribbean
+Aruba,2015,88.7,Latin America and the Caribbean
+Aruba,2016,93.5,Latin America and the Caribbean
+Aruba,2017,97.2,Latin America and the Caribbean
+Aruba,2018,NA,Latin America and the Caribbean
+Aruba,2019,NA,Latin America and the Caribbean
+Aruba,2020,NA,Latin America and the Caribbean
+Afghanistan,2000,NA,Southern Asia
+Afghanistan,2001,0.00472,Southern Asia
+Afghanistan,2002,0.00456,Southern Asia
+Afghanistan,2003,0.0879,Southern Asia
+Afghanistan,2004,0.106,Southern Asia
+Afghanistan,2005,1.22,Southern Asia
+Afghanistan,2006,2.11,Southern Asia
+Afghanistan,2007,1.9,Southern Asia
+Afghanistan,2008,1.84,Southern Asia
+Afghanistan,2009,3.55,Southern Asia
+Afghanistan,2010,4,Southern Asia
+Afghanistan,2011,5,Southern Asia
+Afghanistan,2012,5.45,Southern Asia
+Afghanistan,2013,5.9,Southern Asia
+Afghanistan,2014,7,Southern Asia
+Afghanistan,2015,8.26,Southern Asia
+Afghanistan,2016,11,Southern Asia
+Afghanistan,2017,13.5,Southern Asia
+Afghanistan,2018,16.8,Southern Asia
+Afghanistan,2019,17.6,Southern Asia
+Afghanistan,2020,18.4,Southern Asia
+Angola,2000,0.105,Sub-Saharan Africa
+Angola,2001,0.136,Sub-Saharan Africa
+Angola,2002,0.27,Sub-Saharan Africa
+Angola,2003,0.371,Sub-Saharan Africa
+Angola,2004,0.465,Sub-Saharan Africa
+Angola,2005,1.14,Sub-Saharan Africa
+Angola,2006,1.5,Sub-Saharan Africa
+Angola,2007,1.7,Sub-Saharan Africa
+Angola,2008,1.9,Sub-Saharan Africa
+Angola,2009,2.3,Sub-Saharan Africa
+Angola,2010,2.8,Sub-Saharan Africa
+Angola,2011,4.7,Sub-Saharan Africa
+Angola,2012,7.7,Sub-Saharan Africa
+Angola,2013,13,Sub-Saharan Africa
+Angola,2014,21.4,Sub-Saharan Africa
+Angola,2015,22,Sub-Saharan Africa
+Angola,2016,23.2,Sub-Saharan Africa
+Angola,2017,26,Sub-Saharan Africa
+Angola,2018,29,Sub-Saharan Africa
+Angola,2019,32.1,Sub-Saharan Africa
+Angola,2020,32.6,Sub-Saharan Africa
+Albania,2000,0.114,Southern Europe
+Albania,2001,0.326,Southern Europe
+Albania,2002,0.39,Southern Europe
+Albania,2003,0.972,Southern Europe
+Albania,2004,2.42,Southern Europe
+Albania,2005,6.04,Southern Europe
+Albania,2006,9.61,Southern Europe
+Albania,2007,15,Southern Europe
+Albania,2008,23.9,Southern Europe
+Albania,2009,41.2,Southern Europe
+Albania,2010,45,Southern Europe
+Albania,2011,47,Southern Europe
+Albania,2012,49.4,Southern Europe
+Albania,2013,51.8,Southern Europe
+Albania,2014,54.3,Southern Europe
+Albania,2015,56.9,Southern Europe
+Albania,2016,59.6,Southern Europe
+Albania,2017,62.4,Southern Europe
+Albania,2018,65.4,Southern Europe
+Albania,2019,68.6,Southern Europe
+Albania,2020,72.2,Southern Europe
+Andorra,2000,10.5,Southern Europe
+Andorra,2001,NA,Southern Europe
+Andorra,2002,11.3,Southern Europe
+Andorra,2003,13.5,Southern Europe
+Andorra,2004,26.8,Southern Europe
+Andorra,2005,37.6,Southern Europe
+Andorra,2006,48.9,Southern Europe
+Andorra,2007,70.9,Southern Europe
+Andorra,2008,70,Southern Europe
+Andorra,2009,78.5,Southern Europe
+Andorra,2010,81,Southern Europe
+Andorra,2011,81,Southern Europe
+Andorra,2012,82.7,Southern Europe
+Andorra,2013,84.4,Southern Europe
+Andorra,2014,86.1,Southern Europe
+Andorra,2015,87.9,Southern Europe
+Andorra,2016,89.7,Southern Europe
+Andorra,2017,91.6,Southern Europe
+Andorra,2018,NA,Southern Europe
+Andorra,2019,90.7,Southern Europe
+Andorra,2020,93.2,Southern Europe
+UAE,2000,23.6,Western Asia
+UAE,2001,26.3,Western Asia
+UAE,2002,28.3,Western Asia
+UAE,2003,29.5,Western Asia
+UAE,2004,30.1,Western Asia
+UAE,2005,40,Western Asia
+UAE,2006,52,Western Asia
+UAE,2007,61,Western Asia
+UAE,2008,63,Western Asia
+UAE,2009,64,Western Asia
+UAE,2010,68,Western Asia
+UAE,2011,78,Western Asia
+UAE,2012,85,Western Asia
+UAE,2013,88,Western Asia
+UAE,2014,90.4,Western Asia
+UAE,2015,90.5,Western Asia
+UAE,2016,90.6,Western Asia
+UAE,2017,94.8,Western Asia
+UAE,2018,98.5,Western Asia
+UAE,2019,99.2,Western Asia
+UAE,2020,100,Western Asia
+Argentina,2000,7.04,Latin America and the Caribbean
+Argentina,2001,9.78,Latin America and the Caribbean
+Argentina,2002,10.9,Latin America and the Caribbean
+Argentina,2003,11.9,Latin America and the Caribbean
+Argentina,2004,16,Latin America and the Caribbean
+Argentina,2005,17.7,Latin America and the Caribbean
+Argentina,2006,20.9,Latin America and the Caribbean
+Argentina,2007,25.9,Latin America and the Caribbean
+Argentina,2008,28.1,Latin America and the Caribbean
+Argentina,2009,34,Latin America and the Caribbean
+Argentina,2010,45,Latin America and the Caribbean
+Argentina,2011,51,Latin America and the Caribbean
+Argentina,2012,55.8,Latin America and the Caribbean
+Argentina,2013,59.9,Latin America and the Caribbean
+Argentina,2014,64.7,Latin America and the Caribbean
+Argentina,2015,68,Latin America and the Caribbean
+Argentina,2016,71,Latin America and the Caribbean
+Argentina,2017,74.3,Latin America and the Caribbean
+Argentina,2018,77.7,Latin America and the Caribbean
+Argentina,2019,79.9,Latin America and the Caribbean
+Argentina,2020,85.5,Latin America and the Caribbean
+Armenia,2000,1.3,Western Asia
+Armenia,2001,1.63,Western Asia
+Armenia,2002,1.96,Western Asia
+Armenia,2003,4.58,Western Asia
+Armenia,2004,4.9,Western Asia
+Armenia,2005,5.25,Western Asia
+Armenia,2006,5.63,Western Asia
+Armenia,2007,6.02,Western Asia
+Armenia,2008,6.21,Western Asia
+Armenia,2009,15.3,Western Asia
+Armenia,2010,25,Western Asia
+Armenia,2011,32,Western Asia
+Armenia,2012,37.5,Western Asia
+Armenia,2013,41.9,Western Asia
+Armenia,2014,54.6,Western Asia
+Armenia,2015,59.1,Western Asia
+Armenia,2016,64.3,Western Asia
+Armenia,2017,64.7,Western Asia
+Armenia,2018,68.2,Western Asia
+Armenia,2019,66.5,Western Asia
+Armenia,2020,76.5,Western Asia
+American Samoa,2000,NA,Polynesia
+American Samoa,2001,NA,Polynesia
+American Samoa,2002,NA,Polynesia
+American Samoa,2003,NA,Polynesia
+American Samoa,2004,NA,Polynesia
+American Samoa,2005,NA,Polynesia
+American Samoa,2006,NA,Polynesia
+American Samoa,2007,NA,Polynesia
+American Samoa,2008,NA,Polynesia
+American Samoa,2009,NA,Polynesia
+American Samoa,2010,NA,Polynesia
+American Samoa,2011,NA,Polynesia
+American Samoa,2012,NA,Polynesia
+American Samoa,2013,NA,Polynesia
+American Samoa,2014,NA,Polynesia
+American Samoa,2015,NA,Polynesia
+American Samoa,2016,NA,Polynesia
+American Samoa,2017,NA,Polynesia
+American Samoa,2018,NA,Polynesia
+American Samoa,2019,NA,Polynesia
+American Samoa,2020,NA,Polynesia
+Antigua and Barbuda,2000,6.48,Latin America and the Caribbean
+Antigua and Barbuda,2001,8.9,Latin America and the Caribbean
+Antigua and Barbuda,2002,12.5,Latin America and the Caribbean
+Antigua and Barbuda,2003,17.2,Latin America and the Caribbean
+Antigua and Barbuda,2004,24.3,Latin America and the Caribbean
+Antigua and Barbuda,2005,27,Latin America and the Caribbean
+Antigua and Barbuda,2006,30,Latin America and the Caribbean
+Antigua and Barbuda,2007,34,Latin America and the Caribbean
+Antigua and Barbuda,2008,38,Latin America and the Caribbean
+Antigua and Barbuda,2009,42,Latin America and the Caribbean
+Antigua and Barbuda,2010,47,Latin America and the Caribbean
+Antigua and Barbuda,2011,52,Latin America and the Caribbean
+Antigua and Barbuda,2012,58,Latin America and the Caribbean
+Antigua and Barbuda,2013,63.4,Latin America and the Caribbean
+Antigua and Barbuda,2014,67.8,Latin America and the Caribbean
+Antigua and Barbuda,2015,70,Latin America and the Caribbean
+Antigua and Barbuda,2016,73,Latin America and the Caribbean
+Antigua and Barbuda,2017,NA,Latin America and the Caribbean
+Antigua and Barbuda,2018,NA,Latin America and the Caribbean
+Antigua and Barbuda,2019,95.7,Latin America and the Caribbean
+Antigua and Barbuda,2020,95.7,Latin America and the Caribbean
+Australia,2000,46.8,Australia and New Zealand
+Australia,2001,52.7,Australia and New Zealand
+Australia,2002,NA,Australia and New Zealand
+Australia,2003,NA,Australia and New Zealand
+Australia,2004,NA,Australia and New Zealand
+Australia,2005,63,Australia and New Zealand
+Australia,2006,66,Australia and New Zealand
+Australia,2007,69.5,Australia and New Zealand
+Australia,2008,71.7,Australia and New Zealand
+Australia,2009,74.3,Australia and New Zealand
+Australia,2010,76,Australia and New Zealand
+Australia,2011,79.5,Australia and New Zealand
+Australia,2012,79,Australia and New Zealand
+Australia,2013,83.5,Australia and New Zealand
+Australia,2014,84,Australia and New Zealand
+Australia,2015,84.6,Australia and New Zealand
+Australia,2016,86.5,Australia and New Zealand
+Australia,2017,86.5,Australia and New Zealand
+Australia,2018,90,Australia and New Zealand
+Australia,2019,93.6,Australia and New Zealand
+Australia,2020,96.4,Australia and New Zealand
+Austria,2000,33.7,Western Europe
+Austria,2001,39.2,Western Europe
+Austria,2002,36.6,Western Europe
+Austria,2003,42.7,Western Europe
+Austria,2004,54.3,Western Europe
+Austria,2005,58,Western Europe
+Austria,2006,63.6,Western Europe
+Austria,2007,69.4,Western Europe
+Austria,2008,72.9,Western Europe
+Austria,2009,73.5,Western Europe
+Austria,2010,75.2,Western Europe
+Austria,2011,78.7,Western Europe
+Austria,2012,80,Western Europe
+Austria,2013,80.6,Western Europe
+Austria,2014,81,Western Europe
+Austria,2015,83.9,Western Europe
+Austria,2016,84.3,Western Europe
+Austria,2017,87.9,Western Europe
+Austria,2018,87.5,Western Europe
+Austria,2019,87.8,Western Europe
+Austria,2020,87.5,Western Europe
+Azerbaijan,2000,0.148,Western Asia
+Azerbaijan,2001,0.306,Western Asia
+Azerbaijan,2002,5,Western Asia
+Azerbaijan,2003,NA,Western Asia
+Azerbaijan,2004,NA,Western Asia
+Azerbaijan,2005,8.03,Western Asia
+Azerbaijan,2006,12,Western Asia
+Azerbaijan,2007,14.5,Western Asia
+Azerbaijan,2008,17.1,Western Asia
+Azerbaijan,2009,27.4,Western Asia
+Azerbaijan,2010,46,Western Asia
+Azerbaijan,2011,50,Western Asia
+Azerbaijan,2012,54.2,Western Asia
+Azerbaijan,2013,73,Western Asia
+Azerbaijan,2014,75,Western Asia
+Azerbaijan,2015,77,Western Asia
+Azerbaijan,2016,78.2,Western Asia
+Azerbaijan,2017,79,Western Asia
+Azerbaijan,2018,79.8,Western Asia
+Azerbaijan,2019,81.1,Western Asia
+Azerbaijan,2020,84.6,Western Asia
+Burundi,2000,0.0772,Sub-Saharan Africa
+Burundi,2001,0.106,Sub-Saharan Africa
+Burundi,2002,0.118,Sub-Saharan Africa
+Burundi,2003,0.201,Sub-Saharan Africa
+Burundi,2004,0.349,Sub-Saharan Africa
+Burundi,2005,0.542,Sub-Saharan Africa
+Burundi,2006,0.658,Sub-Saharan Africa
+Burundi,2007,0.7,Sub-Saharan Africa
+Burundi,2008,0.81,Sub-Saharan Africa
+Burundi,2009,0.9,Sub-Saharan Africa
+Burundi,2010,1,Sub-Saharan Africa
+Burundi,2011,1.11,Sub-Saharan Africa
+Burundi,2012,1.22,Sub-Saharan Africa
+Burundi,2013,1.26,Sub-Saharan Africa
+Burundi,2014,1.4,Sub-Saharan Africa
+Burundi,2015,2,Sub-Saharan Africa
+Burundi,2016,2.2,Sub-Saharan Africa
+Burundi,2017,2.66,Sub-Saharan Africa
+Burundi,2018,2.7,Sub-Saharan Africa
+Burundi,2019,2.73,Sub-Saharan Africa
+Burundi,2020,3.79,Sub-Saharan Africa
+Belgium,2000,29.4,Western Europe
+Belgium,2001,31.3,Western Europe
+Belgium,2002,46.3,Western Europe
+Belgium,2003,50,Western Europe
+Belgium,2004,53.9,Western Europe
+Belgium,2005,55.8,Western Europe
+Belgium,2006,62,Western Europe
+Belgium,2007,66.8,Western Europe
+Belgium,2008,68.9,Western Europe
+Belgium,2009,74.5,Western Europe
+Belgium,2010,77.6,Western Europe
+Belgium,2011,81.6,Western Europe
+Belgium,2012,80.7,Western Europe
+Belgium,2013,82.2,Western Europe
+Belgium,2014,85,Western Europe
+Belgium,2015,85.1,Western Europe
+Belgium,2016,86.5,Western Europe
+Belgium,2017,87.7,Western Europe
+Belgium,2018,88.6,Western Europe
+Belgium,2019,90.3,Western Europe
+Belgium,2020,91.5,Western Europe
+Benin,2000,0.225,Sub-Saharan Africa
+Benin,2001,0.363,Sub-Saharan Africa
+Benin,2002,0.703,Sub-Saharan Africa
+Benin,2003,0.951,Sub-Saharan Africa
+Benin,2004,1.18,Sub-Saharan Africa
+Benin,2005,1.27,Sub-Saharan Africa
+Benin,2006,1.54,Sub-Saharan Africa
+Benin,2007,1.79,Sub-Saharan Africa
+Benin,2008,1.85,Sub-Saharan Africa
+Benin,2009,2.24,Sub-Saharan Africa
+Benin,2010,3.13,Sub-Saharan Africa
+Benin,2011,4.15,Sub-Saharan Africa
+Benin,2012,4.5,Sub-Saharan Africa
+Benin,2013,4.9,Sub-Saharan Africa
+Benin,2014,6,Sub-Saharan Africa
+Benin,2015,11.3,Sub-Saharan Africa
+Benin,2016,14.5,Sub-Saharan Africa
+Benin,2017,18.7,Sub-Saharan Africa
+Benin,2018,19,Sub-Saharan Africa
+Benin,2019,22.4,Sub-Saharan Africa
+Benin,2020,28.2,Sub-Saharan Africa
+Burkina Faso,2000,0.0771,Sub-Saharan Africa
+Burkina Faso,2001,0.158,Sub-Saharan Africa
+Burkina Faso,2002,0.201,Sub-Saharan Africa
+Burkina Faso,2003,0.373,Sub-Saharan Africa
+Burkina Faso,2004,0.4,Sub-Saharan Africa
+Burkina Faso,2005,0.47,Sub-Saharan Africa
+Burkina Faso,2006,0.633,Sub-Saharan Africa
+Burkina Faso,2007,0.75,Sub-Saharan Africa
+Burkina Faso,2008,0.92,Sub-Saharan Africa
+Burkina Faso,2009,1.13,Sub-Saharan Africa
+Burkina Faso,2010,2.4,Sub-Saharan Africa
+Burkina Faso,2011,3,Sub-Saharan Africa
+Burkina Faso,2012,3.73,Sub-Saharan Africa
+Burkina Faso,2013,5,Sub-Saharan Africa
+Burkina Faso,2014,6,Sub-Saharan Africa
+Burkina Faso,2015,6.55,Sub-Saharan Africa
+Burkina Faso,2016,7.14,Sub-Saharan Africa
+Burkina Faso,2017,7.79,Sub-Saharan Africa
+Burkina Faso,2018,8.5,Sub-Saharan Africa
+Burkina Faso,2019,9.27,Sub-Saharan Africa
+Burkina Faso,2020,13.9,Sub-Saharan Africa
+Bangladesh,2000,0.071,Southern Asia
+Bangladesh,2001,0.13,Southern Asia
+Bangladesh,2002,0.14,Southern Asia
+Bangladesh,2003,0.164,Southern Asia
+Bangladesh,2004,0.199,Southern Asia
+Bangladesh,2005,0.242,Southern Asia
+Bangladesh,2006,1,Southern Asia
+Bangladesh,2007,1.8,Southern Asia
+Bangladesh,2008,2.5,Southern Asia
+Bangladesh,2009,3.1,Southern Asia
+Bangladesh,2010,3.7,Southern Asia
+Bangladesh,2011,4.5,Southern Asia
+Bangladesh,2012,5,Southern Asia
+Bangladesh,2013,6.63,Southern Asia
+Bangladesh,2014,11.9,Southern Asia
+Bangladesh,2015,12.9,Southern Asia
+Bangladesh,2016,18.1,Southern Asia
+Bangladesh,2017,19.8,Southern Asia
+Bangladesh,2018,23.4,Southern Asia
+Bangladesh,2019,27.8,Southern Asia
+Bangladesh,2020,32.9,Southern Asia
+Bulgaria,2000,5.37,Eastern Europe
+Bulgaria,2001,7.61,Eastern Europe
+Bulgaria,2002,9.08,Eastern Europe
+Bulgaria,2003,12,Eastern Europe
+Bulgaria,2004,18.1,Eastern Europe
+Bulgaria,2005,20,Eastern Europe
+Bulgaria,2006,27.1,Eastern Europe
+Bulgaria,2007,33.6,Eastern Europe
+Bulgaria,2008,39.7,Eastern Europe
+Bulgaria,2009,45,Eastern Europe
+Bulgaria,2010,46.2,Eastern Europe
+Bulgaria,2011,48,Eastern Europe
+Bulgaria,2012,51.9,Eastern Europe
+Bulgaria,2013,53.1,Eastern Europe
+Bulgaria,2014,55.5,Eastern Europe
+Bulgaria,2015,56.7,Eastern Europe
+Bulgaria,2016,59.8,Eastern Europe
+Bulgaria,2017,63.4,Eastern Europe
+Bulgaria,2018,64.8,Eastern Europe
+Bulgaria,2019,67.9,Eastern Europe
+Bulgaria,2020,70.2,Eastern Europe
+Bahrain,2000,6.15,Western Asia
+Bahrain,2001,15,Western Asia
+Bahrain,2002,18.1,Western Asia
+Bahrain,2003,21.6,Western Asia
+Bahrain,2004,21.5,Western Asia
+Bahrain,2005,21.3,Western Asia
+Bahrain,2006,28.2,Western Asia
+Bahrain,2007,32.9,Western Asia
+Bahrain,2008,52,Western Asia
+Bahrain,2009,53,Western Asia
+Bahrain,2010,55,Western Asia
+Bahrain,2011,77,Western Asia
+Bahrain,2012,88,Western Asia
+Bahrain,2013,90,Western Asia
+Bahrain,2014,90.5,Western Asia
+Bahrain,2015,93.5,Western Asia
+Bahrain,2016,98,Western Asia
+Bahrain,2017,95.9,Western Asia
+Bahrain,2018,98.6,Western Asia
+Bahrain,2019,99.7,Western Asia
+Bahrain,2020,99.7,Western Asia
+Bahamas,2000,8,Latin America and the Caribbean
+Bahamas,2001,11.8,Latin America and the Caribbean
+Bahamas,2002,18,Latin America and the Caribbean
+Bahamas,2003,20,Latin America and the Caribbean
+Bahamas,2004,22,Latin America and the Caribbean
+Bahamas,2005,25,Latin America and the Caribbean
+Bahamas,2006,26,Latin America and the Caribbean
+Bahamas,2007,27,Latin America and the Caribbean
+Bahamas,2008,31.5,Latin America and the Caribbean
+Bahamas,2009,33.9,Latin America and the Caribbean
+Bahamas,2010,43,Latin America and the Caribbean
+Bahamas,2011,65,Latin America and the Caribbean
+Bahamas,2012,71.7,Latin America and the Caribbean
+Bahamas,2013,72,Latin America and the Caribbean
+Bahamas,2014,76.9,Latin America and the Caribbean
+Bahamas,2015,78,Latin America and the Caribbean
+Bahamas,2016,80,Latin America and the Caribbean
+Bahamas,2017,80.6,Latin America and the Caribbean
+Bahamas,2018,83,Latin America and the Caribbean
+Bahamas,2019,90.7,Latin America and the Caribbean
+Bahamas,2020,92.5,Latin America and the Caribbean
+Bosnia and Herzegovina,2000,1.08,Southern Europe
+Bosnia and Herzegovina,2001,1.2,Southern Europe
+Bosnia and Herzegovina,2002,2.65,Southern Europe
+Bosnia and Herzegovina,2003,3.97,Southern Europe
+Bosnia and Herzegovina,2004,15.5,Southern Europe
+Bosnia and Herzegovina,2005,21.3,Southern Europe
+Bosnia and Herzegovina,2006,25.1,Southern Europe
+Bosnia and Herzegovina,2007,27.9,Southern Europe
+Bosnia and Herzegovina,2008,34.7,Southern Europe
+Bosnia and Herzegovina,2009,37.7,Southern Europe
+Bosnia and Herzegovina,2010,42.8,Southern Europe
+Bosnia and Herzegovina,2011,43.9,Southern Europe
+Bosnia and Herzegovina,2012,45.1,Southern Europe
+Bosnia and Herzegovina,2013,48.5,Southern Europe
+Bosnia and Herzegovina,2014,49.9,Southern Europe
+Bosnia and Herzegovina,2015,52.6,Southern Europe
+Bosnia and Herzegovina,2016,60.3,Southern Europe
+Bosnia and Herzegovina,2017,64.9,Southern Europe
+Bosnia and Herzegovina,2018,70.1,Southern Europe
+Bosnia and Herzegovina,2019,69.9,Southern Europe
+Bosnia and Herzegovina,2020,73.2,Southern Europe
+Belarus,2000,1.86,Eastern Europe
+Belarus,2001,4.3,Eastern Europe
+Belarus,2002,8.95,Eastern Europe
+Belarus,2003,NA,Eastern Europe
+Belarus,2004,NA,Eastern Europe
+Belarus,2005,NA,Eastern Europe
+Belarus,2006,16.2,Eastern Europe
+Belarus,2007,19.7,Eastern Europe
+Belarus,2008,23,Eastern Europe
+Belarus,2009,27.4,Eastern Europe
+Belarus,2010,31.8,Eastern Europe
+Belarus,2011,39.6,Eastern Europe
+Belarus,2012,46.9,Eastern Europe
+Belarus,2013,54.2,Eastern Europe
+Belarus,2014,59,Eastern Europe
+Belarus,2015,62.2,Eastern Europe
+Belarus,2016,71.1,Eastern Europe
+Belarus,2017,74.4,Eastern Europe
+Belarus,2018,79.1,Eastern Europe
+Belarus,2019,82.8,Eastern Europe
+Belarus,2020,85.1,Eastern Europe
+Belize,2000,5.96,Latin America and the Caribbean
+Belize,2001,NA,Latin America and the Caribbean
+Belize,2002,5.68,Latin America and the Caribbean
+Belize,2003,NA,Latin America and the Caribbean
+Belize,2004,9.8,Latin America and the Caribbean
+Belize,2005,17,Latin America and the Caribbean
+Belize,2006,24,Latin America and the Caribbean
+Belize,2007,24.6,Latin America and the Caribbean
+Belize,2008,26.3,Latin America and the Caribbean
+Belize,2009,27.2,Latin America and the Caribbean
+Belize,2010,28.2,Latin America and the Caribbean
+Belize,2011,30.7,Latin America and the Caribbean
+Belize,2012,31,Latin America and the Caribbean
+Belize,2013,33.6,Latin America and the Caribbean
+Belize,2014,38.7,Latin America and the Caribbean
+Belize,2015,41.6,Latin America and the Caribbean
+Belize,2016,44.6,Latin America and the Caribbean
+Belize,2017,47.1,Latin America and the Caribbean
+Belize,2018,49.8,Latin America and the Caribbean
+Belize,2019,57.1,Latin America and the Caribbean
+Belize,2020,59.5,Latin America and the Caribbean
+Bermuda,2000,42.9,Northern America
+Bermuda,2001,47.5,Northern America
+Bermuda,2002,52,Northern America
+Bermuda,2003,56.5,Northern America
+Bermuda,2004,61,Northern America
+Bermuda,2005,65.4,Northern America
+Bermuda,2006,69.9,Northern America
+Bermuda,2007,74.4,Northern America
+Bermuda,2008,82.3,Northern America
+Bermuda,2009,83.3,Northern America
+Bermuda,2010,84.2,Northern America
+Bermuda,2011,88.3,Northern America
+Bermuda,2012,91.3,Northern America
+Bermuda,2013,95.3,Northern America
+Bermuda,2014,96.8,Northern America
+Bermuda,2015,98.3,Northern America
+Bermuda,2016,98,Northern America
+Bermuda,2017,98.4,Northern America
+Bermuda,2018,NA,Northern America
+Bermuda,2019,NA,Northern America
+Bermuda,2020,NA,Northern America
+Bolivia,2000,1.44,Latin America and the Caribbean
+Bolivia,2001,2.12,Latin America and the Caribbean
+Bolivia,2002,3.12,Latin America and the Caribbean
+Bolivia,2003,3.51,Latin America and the Caribbean
+Bolivia,2004,4.44,Latin America and the Caribbean
+Bolivia,2005,5.23,Latin America and the Caribbean
+Bolivia,2006,6.2,Latin America and the Caribbean
+Bolivia,2007,10.5,Latin America and the Caribbean
+Bolivia,2008,12.5,Latin America and the Caribbean
+Bolivia,2009,16.8,Latin America and the Caribbean
+Bolivia,2010,22.4,Latin America and the Caribbean
+Bolivia,2011,30,Latin America and the Caribbean
+Bolivia,2012,35.3,Latin America and the Caribbean
+Bolivia,2013,37,Latin America and the Caribbean
+Bolivia,2014,34.6,Latin America and the Caribbean
+Bolivia,2015,37.5,Latin America and the Caribbean
+Bolivia,2016,39.7,Latin America and the Caribbean
+Bolivia,2017,43.8,Latin America and the Caribbean
+Bolivia,2018,44.3,Latin America and the Caribbean
+Bolivia,2019,47.5,Latin America and the Caribbean
+Bolivia,2020,59.9,Latin America and the Caribbean
+Brazil,2000,2.87,Latin America and the Caribbean
+Brazil,2001,4.53,Latin America and the Caribbean
+Brazil,2002,9.15,Latin America and the Caribbean
+Brazil,2003,13.2,Latin America and the Caribbean
+Brazil,2004,19.1,Latin America and the Caribbean
+Brazil,2005,21,Latin America and the Caribbean
+Brazil,2006,28.2,Latin America and the Caribbean
+Brazil,2007,30.9,Latin America and the Caribbean
+Brazil,2008,33.8,Latin America and the Caribbean
+Brazil,2009,39.2,Latin America and the Caribbean
+Brazil,2010,40.6,Latin America and the Caribbean
+Brazil,2011,45.7,Latin America and the Caribbean
+Brazil,2012,48.6,Latin America and the Caribbean
+Brazil,2013,51,Latin America and the Caribbean
+Brazil,2014,54.6,Latin America and the Caribbean
+Brazil,2015,58.3,Latin America and the Caribbean
+Brazil,2016,60.9,Latin America and the Caribbean
+Brazil,2017,67.5,Latin America and the Caribbean
+Brazil,2018,70.4,Latin America and the Caribbean
+Brazil,2019,73.9,Latin America and the Caribbean
+Brazil,2020,81.3,Latin America and the Caribbean
+Barbados,2000,3.97,Latin America and the Caribbean
+Barbados,2001,11.9,Latin America and the Caribbean
+Barbados,2002,27.8,Latin America and the Caribbean
+Barbados,2003,39.7,Latin America and the Caribbean
+Barbados,2004,49.8,Latin America and the Caribbean
+Barbados,2005,52.5,Latin America and the Caribbean
+Barbados,2006,55.3,Latin America and the Caribbean
+Barbados,2007,58.2,Latin America and the Caribbean
+Barbados,2008,61.4,Latin America and the Caribbean
+Barbados,2009,64.7,Latin America and the Caribbean
+Barbados,2010,65.1,Latin America and the Caribbean
+Barbados,2011,66.5,Latin America and the Caribbean
+Barbados,2012,71.2,Latin America and the Caribbean
+Barbados,2013,71.8,Latin America and the Caribbean
+Barbados,2014,75.2,Latin America and the Caribbean
+Barbados,2015,76.1,Latin America and the Caribbean
+Barbados,2016,79.5,Latin America and the Caribbean
+Barbados,2017,81.8,Latin America and the Caribbean
+Barbados,2018,82.5,Latin America and the Caribbean
+Barbados,2019,83.2,Latin America and the Caribbean
+Barbados,2020,82.5,Latin America and the Caribbean
+Brunei,2000,9,South-eastern Asia
+Brunei,2001,12.9,South-eastern Asia
+Brunei,2002,15.3,South-eastern Asia
+Brunei,2003,19.6,South-eastern Asia
+Brunei,2004,29.7,South-eastern Asia
+Brunei,2005,36.5,South-eastern Asia
+Brunei,2006,42.2,South-eastern Asia
+Brunei,2007,44.7,South-eastern Asia
+Brunei,2008,46,South-eastern Asia
+Brunei,2009,49,South-eastern Asia
+Brunei,2010,53,South-eastern Asia
+Brunei,2011,56,South-eastern Asia
+Brunei,2012,60.3,South-eastern Asia
+Brunei,2013,64.5,South-eastern Asia
+Brunei,2014,68.8,South-eastern Asia
+Brunei,2015,71.2,South-eastern Asia
+Brunei,2016,90,South-eastern Asia
+Brunei,2017,94.9,South-eastern Asia
+Brunei,2018,95,South-eastern Asia
+Brunei,2019,95,South-eastern Asia
+Brunei,2020,96.1,South-eastern Asia
+Bhutan,2000,0.401,Southern Asia
+Bhutan,2001,0.865,Southern Asia
+Bhutan,2002,1.68,Southern Asia
+Bhutan,2003,2.44,Southern Asia
+Bhutan,2004,3.16,Southern Asia
+Bhutan,2005,3.85,Southern Asia
+Bhutan,2006,4.52,Southern Asia
+Bhutan,2007,5.92,Southern Asia
+Bhutan,2008,6.55,Southern Asia
+Bhutan,2009,7.17,Southern Asia
+Bhutan,2010,13.6,Southern Asia
+Bhutan,2011,14.4,Southern Asia
+Bhutan,2012,15.6,Southern Asia
+Bhutan,2013,22.4,Southern Asia
+Bhutan,2014,30.3,Southern Asia
+Bhutan,2015,39.8,Southern Asia
+Bhutan,2016,46.5,Southern Asia
+Bhutan,2017,54.3,Southern Asia
+Bhutan,2018,63.5,Southern Asia
+Bhutan,2019,74.2,Southern Asia
+Bhutan,2020,79.9,Southern Asia
+Botswana,2000,2.9,Sub-Saharan Africa
+Botswana,2001,3.43,Sub-Saharan Africa
+Botswana,2002,3.39,Sub-Saharan Africa
+Botswana,2003,3.35,Sub-Saharan Africa
+Botswana,2004,3.3,Sub-Saharan Africa
+Botswana,2005,3.26,Sub-Saharan Africa
+Botswana,2006,4.29,Sub-Saharan Africa
+Botswana,2007,5.28,Sub-Saharan Africa
+Botswana,2008,6.25,Sub-Saharan Africa
+Botswana,2009,6.15,Sub-Saharan Africa
+Botswana,2010,6,Sub-Saharan Africa
+Botswana,2011,9,Sub-Saharan Africa
+Botswana,2012,16,Sub-Saharan Africa
+Botswana,2013,30,Sub-Saharan Africa
+Botswana,2014,36.7,Sub-Saharan Africa
+Botswana,2015,37.3,Sub-Saharan Africa
+Botswana,2016,39.4,Sub-Saharan Africa
+Botswana,2017,41.4,Sub-Saharan Africa
+Botswana,2018,58,Sub-Saharan Africa
+Botswana,2019,64.8,Sub-Saharan Africa
+Botswana,2020,72.7,Sub-Saharan Africa
+Central African Republic,2000,0.0534,Sub-Saharan Africa
+Central African Republic,2001,0.0785,Sub-Saharan Africa
+Central African Republic,2002,0.129,Sub-Saharan Africa
+Central African Republic,2003,0.152,Sub-Saharan Africa
+Central African Republic,2004,0.223,Sub-Saharan Africa
+Central African Republic,2005,0.268,Sub-Saharan Africa
+Central African Republic,2006,0.311,Sub-Saharan Africa
+Central African Republic,2007,0.376,Sub-Saharan Africa
+Central African Republic,2008,1,Sub-Saharan Africa
+Central African Republic,2009,1.8,Sub-Saharan Africa
+Central African Republic,2010,2,Sub-Saharan Africa
+Central African Republic,2011,2.2,Sub-Saharan Africa
+Central African Republic,2012,2.4,Sub-Saharan Africa
+Central African Republic,2013,2.5,Sub-Saharan Africa
+Central African Republic,2014,2.7,Sub-Saharan Africa
+Central African Republic,2015,2.9,Sub-Saharan Africa
+Central African Republic,2016,3.1,Sub-Saharan Africa
+Central African Republic,2017,4,Sub-Saharan Africa
+Central African Republic,2018,5.1,Sub-Saharan Africa
+Central African Republic,2019,7.51,Sub-Saharan Africa
+Central African Republic,2020,8.57,Sub-Saharan Africa
+Canada,2000,51.3,Northern America
+Canada,2001,60.2,Northern America
+Canada,2002,61.6,Northern America
+Canada,2003,64.2,Northern America
+Canada,2004,66,Northern America
+Canada,2005,71.7,Northern America
+Canada,2006,72.4,Northern America
+Canada,2007,73.2,Northern America
+Canada,2008,76.7,Northern America
+Canada,2009,80.3,Northern America
+Canada,2010,80.3,Northern America
+Canada,2011,83,Northern America
+Canada,2012,83,Northern America
+Canada,2013,85.8,Northern America
+Canada,2014,87.1,Northern America
+Canada,2015,90,Northern America
+Canada,2016,91.2,Northern America
+Canada,2017,92.7,Northern America
+Canada,2018,94.6,Northern America
+Canada,2019,91.9,Northern America
+Canada,2020,92.3,Northern America
+Switzerland,2000,47.1,Western Europe
+Switzerland,2001,55.1,Western Europe
+Switzerland,2002,61.4,Western Europe
+Switzerland,2003,65.1,Western Europe
+Switzerland,2004,67.8,Western Europe
+Switzerland,2005,70.1,Western Europe
+Switzerland,2006,75.7,Western Europe
+Switzerland,2007,77.2,Western Europe
+Switzerland,2008,79.2,Western Europe
+Switzerland,2009,81.3,Western Europe
+Switzerland,2010,83.9,Western Europe
+Switzerland,2011,85.2,Western Europe
+Switzerland,2012,85.2,Western Europe
+Switzerland,2013,86.3,Western Europe
+Switzerland,2014,87.4,Western Europe
+Switzerland,2015,87.5,Western Europe
+Switzerland,2016,89.1,Western Europe
+Switzerland,2017,89.7,Western Europe
+Switzerland,2018,91.8,Western Europe
+Switzerland,2019,93.1,Western Europe
+Switzerland,2020,94.3,Western Europe
+Chile,2000,16.6,Latin America and the Caribbean
+Chile,2001,19.1,Latin America and the Caribbean
+Chile,2002,22.1,Latin America and the Caribbean
+Chile,2003,25.5,Latin America and the Caribbean
+Chile,2004,28.2,Latin America and the Caribbean
+Chile,2005,31.2,Latin America and the Caribbean
+Chile,2006,34.5,Latin America and the Caribbean
+Chile,2007,35.9,Latin America and the Caribbean
+Chile,2008,37.3,Latin America and the Caribbean
+Chile,2009,41.6,Latin America and the Caribbean
+Chile,2010,45,Latin America and the Caribbean
+Chile,2011,52.2,Latin America and the Caribbean
+Chile,2012,55,Latin America and the Caribbean
+Chile,2013,58,Latin America and the Caribbean
+Chile,2014,61.1,Latin America and the Caribbean
+Chile,2015,76.6,Latin America and the Caribbean
+Chile,2016,83.6,Latin America and the Caribbean
+Chile,2017,82.3,Latin America and the Caribbean
+Chile,2018,84.9,Latin America and the Caribbean
+Chile,2019,85,Latin America and the Caribbean
+Chile,2020,86.4,Latin America and the Caribbean
+China,2000,1.78,Eastern Asia
+China,2001,2.64,Eastern Asia
+China,2002,4.6,Eastern Asia
+China,2003,6.2,Eastern Asia
+China,2004,7.3,Eastern Asia
+China,2005,8.52,Eastern Asia
+China,2006,10.5,Eastern Asia
+China,2007,16,Eastern Asia
+China,2008,22.6,Eastern Asia
+China,2009,28.9,Eastern Asia
+China,2010,34.3,Eastern Asia
+China,2011,38.3,Eastern Asia
+China,2012,42.3,Eastern Asia
+China,2013,45.8,Eastern Asia
+China,2014,47.9,Eastern Asia
+China,2015,50.3,Eastern Asia
+China,2016,53.2,Eastern Asia
+China,2017,54.3,Eastern Asia
+China,2018,59.2,Eastern Asia
+China,2019,64.1,Eastern Asia
+China,2020,70.1,Eastern Asia
+Cote d'Ivoire,2000,0.231,Sub-Saharan Africa
+Cote d'Ivoire,2001,0.396,Sub-Saharan Africa
+Cote d'Ivoire,2002,0.498,Sub-Saharan Africa
+Cote d'Ivoire,2003,0.759,Sub-Saharan Africa
+Cote d'Ivoire,2004,0.849,Sub-Saharan Africa
+Cote d'Ivoire,2005,1.04,Sub-Saharan Africa
+Cote d'Ivoire,2006,1.52,Sub-Saharan Africa
+Cote d'Ivoire,2007,1.8,Sub-Saharan Africa
+Cote d'Ivoire,2008,1.9,Sub-Saharan Africa
+Cote d'Ivoire,2009,2,Sub-Saharan Africa
+Cote d'Ivoire,2010,2.7,Sub-Saharan Africa
+Cote d'Ivoire,2011,2.9,Sub-Saharan Africa
+Cote d'Ivoire,2012,4.4,Sub-Saharan Africa
+Cote d'Ivoire,2013,6.6,Sub-Saharan Africa
+Cote d'Ivoire,2014,10,Sub-Saharan Africa
+Cote d'Ivoire,2015,16.7,Sub-Saharan Africa
+Cote d'Ivoire,2016,41.2,Sub-Saharan Africa
+Cote d'Ivoire,2017,43.8,Sub-Saharan Africa
+Cote d'Ivoire,2018,37.5,Sub-Saharan Africa
+Cote d'Ivoire,2019,36.3,Sub-Saharan Africa
+Cote d'Ivoire,2020,41.4,Sub-Saharan Africa
+Cameroon,2000,0.252,Sub-Saharan Africa
+Cameroon,2001,0.277,Sub-Saharan Africa
+Cameroon,2002,0.361,Sub-Saharan Africa
+Cameroon,2003,0.588,Sub-Saharan Africa
+Cameroon,2004,0.976,Sub-Saharan Africa
+Cameroon,2005,1.4,Sub-Saharan Africa
+Cameroon,2006,2.03,Sub-Saharan Africa
+Cameroon,2007,2.93,Sub-Saharan Africa
+Cameroon,2008,3.4,Sub-Saharan Africa
+Cameroon,2009,3.84,Sub-Saharan Africa
+Cameroon,2010,4.3,Sub-Saharan Africa
+Cameroon,2011,5,Sub-Saharan Africa
+Cameroon,2012,7.5,Sub-Saharan Africa
+Cameroon,2013,10,Sub-Saharan Africa
+Cameroon,2014,16.2,Sub-Saharan Africa
+Cameroon,2015,18.3,Sub-Saharan Africa
+Cameroon,2016,20.6,Sub-Saharan Africa
+Cameroon,2017,23.2,Sub-Saharan Africa
+Cameroon,2018,29.7,Sub-Saharan Africa
+Cameroon,2019,36.5,Sub-Saharan Africa
+Cameroon,2020,45.5,Sub-Saharan Africa
+"Congo, Dem. Rep.",2000,0.0059,Sub-Saharan Africa
+"Congo, Dem. Rep.",2001,0.0115,Sub-Saharan Africa
+"Congo, Dem. Rep.",2002,0.0928,Sub-Saharan Africa
+"Congo, Dem. Rep.",2003,0.135,Sub-Saharan Africa
+"Congo, Dem. Rep.",2004,0.196,Sub-Saharan Africa
+"Congo, Dem. Rep.",2005,0.238,Sub-Saharan Africa
+"Congo, Dem. Rep.",2006,0.296,Sub-Saharan Africa
+"Congo, Dem. Rep.",2007,0.37,Sub-Saharan Africa
+"Congo, Dem. Rep.",2008,0.44,Sub-Saharan Africa
+"Congo, Dem. Rep.",2009,0.56,Sub-Saharan Africa
+"Congo, Dem. Rep.",2010,0.72,Sub-Saharan Africa
+"Congo, Dem. Rep.",2011,1.2,Sub-Saharan Africa
+"Congo, Dem. Rep.",2012,1.68,Sub-Saharan Africa
+"Congo, Dem. Rep.",2013,2.2,Sub-Saharan Africa
+"Congo, Dem. Rep.",2014,3,Sub-Saharan Africa
+"Congo, Dem. Rep.",2015,3.8,Sub-Saharan Africa
+"Congo, Dem. Rep.",2016,6.21,Sub-Saharan Africa
+"Congo, Dem. Rep.",2017,8.62,Sub-Saharan Africa
+"Congo, Dem. Rep.",2018,11.7,Sub-Saharan Africa
+"Congo, Dem. Rep.",2019,16.5,Sub-Saharan Africa
+"Congo, Dem. Rep.",2020,22.9,Sub-Saharan Africa
+"Congo, Rep.",2000,0.0263,Sub-Saharan Africa
+"Congo, Rep.",2001,0.0322,Sub-Saharan Africa
+"Congo, Rep.",2002,0.157,Sub-Saharan Africa
+"Congo, Rep.",2003,0.46,Sub-Saharan Africa
+"Congo, Rep.",2004,1.08,Sub-Saharan Africa
+"Congo, Rep.",2005,1.46,Sub-Saharan Africa
+"Congo, Rep.",2006,2.01,Sub-Saharan Africa
+"Congo, Rep.",2007,2.76,Sub-Saharan Africa
+"Congo, Rep.",2008,4.29,Sub-Saharan Africa
+"Congo, Rep.",2009,4.5,Sub-Saharan Africa
+"Congo, Rep.",2010,5,Sub-Saharan Africa
+"Congo, Rep.",2011,5.6,Sub-Saharan Africa
+"Congo, Rep.",2012,6.11,Sub-Saharan Africa
+"Congo, Rep.",2013,6.6,Sub-Saharan Africa
+"Congo, Rep.",2014,7.11,Sub-Saharan Africa
+"Congo, Rep.",2015,7.62,Sub-Saharan Africa
+"Congo, Rep.",2016,8.12,Sub-Saharan Africa
+"Congo, Rep.",2017,8.65,Sub-Saharan Africa
+"Congo, Rep.",2018,NA,Sub-Saharan Africa
+"Congo, Rep.",2019,NA,Sub-Saharan Africa
+"Congo, Rep.",2020,NA,Sub-Saharan Africa
+Colombia,2000,2.21,Latin America and the Caribbean
+Colombia,2001,2.85,Latin America and the Caribbean
+Colombia,2002,4.6,Latin America and the Caribbean
+Colombia,2003,7.39,Latin America and the Caribbean
+Colombia,2004,9.12,Latin America and the Caribbean
+Colombia,2005,11,Latin America and the Caribbean
+Colombia,2006,15.3,Latin America and the Caribbean
+Colombia,2007,21.8,Latin America and the Caribbean
+Colombia,2008,25.6,Latin America and the Caribbean
+Colombia,2009,30,Latin America and the Caribbean
+Colombia,2010,36.5,Latin America and the Caribbean
+Colombia,2011,40.4,Latin America and the Caribbean
+Colombia,2012,49,Latin America and the Caribbean
+Colombia,2013,51.7,Latin America and the Caribbean
+Colombia,2014,52.6,Latin America and the Caribbean
+Colombia,2015,55.9,Latin America and the Caribbean
+Colombia,2016,58.1,Latin America and the Caribbean
+Colombia,2017,62.3,Latin America and the Caribbean
+Colombia,2018,64.1,Latin America and the Caribbean
+Colombia,2019,65,Latin America and the Caribbean
+Colombia,2020,69.8,Latin America and the Caribbean
+Comoros,2000,0.272,Sub-Saharan Africa
+Comoros,2001,0.443,Sub-Saharan Africa
+Comoros,2002,0.555,Sub-Saharan Africa
+Comoros,2003,0.848,Sub-Saharan Africa
+Comoros,2004,1.33,Sub-Saharan Africa
+Comoros,2005,2,Sub-Saharan Africa
+Comoros,2006,2.2,Sub-Saharan Africa
+Comoros,2007,2.5,Sub-Saharan Africa
+Comoros,2008,3,Sub-Saharan Africa
+Comoros,2009,3.5,Sub-Saharan Africa
+Comoros,2010,5.1,Sub-Saharan Africa
+Comoros,2011,5.5,Sub-Saharan Africa
+Comoros,2012,5.98,Sub-Saharan Africa
+Comoros,2013,6.5,Sub-Saharan Africa
+Comoros,2014,6.98,Sub-Saharan Africa
+Comoros,2015,7.46,Sub-Saharan Africa
+Comoros,2016,7.94,Sub-Saharan Africa
+Comoros,2017,8.48,Sub-Saharan Africa
+Comoros,2018,NA,Sub-Saharan Africa
+Comoros,2019,16.4,Sub-Saharan Africa
+Comoros,2020,21.2,Sub-Saharan Africa
+Cape Verde,2000,1.82,Sub-Saharan Africa
+Cape Verde,2001,2.69,Sub-Saharan Africa
+Cape Verde,2002,3.52,Sub-Saharan Africa
+Cape Verde,2003,4.32,Sub-Saharan Africa
+Cape Verde,2004,5.32,Sub-Saharan Africa
+Cape Verde,2005,6.07,Sub-Saharan Africa
+Cape Verde,2006,6.81,Sub-Saharan Africa
+Cape Verde,2007,8.28,Sub-Saharan Africa
+Cape Verde,2008,14,Sub-Saharan Africa
+Cape Verde,2009,21,Sub-Saharan Africa
+Cape Verde,2010,30,Sub-Saharan Africa
+Cape Verde,2011,32,Sub-Saharan Africa
+Cape Verde,2012,34.7,Sub-Saharan Africa
+Cape Verde,2013,37.5,Sub-Saharan Africa
+Cape Verde,2014,40.3,Sub-Saharan Africa
+Cape Verde,2015,42.7,Sub-Saharan Africa
+Cape Verde,2016,50.3,Sub-Saharan Africa
+Cape Verde,2017,57.2,Sub-Saharan Africa
+Cape Verde,2018,59.5,Sub-Saharan Africa
+Cape Verde,2019,61.9,Sub-Saharan Africa
+Cape Verde,2020,63.2,Sub-Saharan Africa
+Costa Rica,2000,5.8,Latin America and the Caribbean
+Costa Rica,2001,9.56,Latin America and the Caribbean
+Costa Rica,2002,19.9,Latin America and the Caribbean
+Costa Rica,2003,20.3,Latin America and the Caribbean
+Costa Rica,2004,20.8,Latin America and the Caribbean
+Costa Rica,2005,22.1,Latin America and the Caribbean
+Costa Rica,2006,25.1,Latin America and the Caribbean
+Costa Rica,2007,28.4,Latin America and the Caribbean
+Costa Rica,2008,32.3,Latin America and the Caribbean
+Costa Rica,2009,34.3,Latin America and the Caribbean
+Costa Rica,2010,36.5,Latin America and the Caribbean
+Costa Rica,2011,39.2,Latin America and the Caribbean
+Costa Rica,2012,47.5,Latin America and the Caribbean
+Costa Rica,2013,46,Latin America and the Caribbean
+Costa Rica,2014,53,Latin America and the Caribbean
+Costa Rica,2015,59.8,Latin America and the Caribbean
+Costa Rica,2016,65.9,Latin America and the Caribbean
+Costa Rica,2017,71.6,Latin America and the Caribbean
+Costa Rica,2018,73.5,Latin America and the Caribbean
+Costa Rica,2019,81.2,Latin America and the Caribbean
+Costa Rica,2020,80.5,Latin America and the Caribbean
+Cuba,2000,0.541,Latin America and the Caribbean
+Cuba,2001,1.08,Latin America and the Caribbean
+Cuba,2002,3.77,Latin America and the Caribbean
+Cuba,2003,5.24,Latin America and the Caribbean
+Cuba,2004,8.41,Latin America and the Caribbean
+Cuba,2005,9.74,Latin America and the Caribbean
+Cuba,2006,11.2,Latin America and the Caribbean
+Cuba,2007,11.7,Latin America and the Caribbean
+Cuba,2008,12.9,Latin America and the Caribbean
+Cuba,2009,14.3,Latin America and the Caribbean
+Cuba,2010,15.9,Latin America and the Caribbean
+Cuba,2011,16,Latin America and the Caribbean
+Cuba,2012,21.2,Latin America and the Caribbean
+Cuba,2013,27.9,Latin America and the Caribbean
+Cuba,2014,29.1,Latin America and the Caribbean
+Cuba,2015,37.3,Latin America and the Caribbean
+Cuba,2016,43,Latin America and the Caribbean
+Cuba,2017,57.1,Latin America and the Caribbean
+Cuba,2018,62.7,Latin America and the Caribbean
+Cuba,2019,68,Latin America and the Caribbean
+Cuba,2020,71.1,Latin America and the Caribbean
+Cayman Islands,2000,NA,Latin America and the Caribbean
+Cayman Islands,2001,NA,Latin America and the Caribbean
+Cayman Islands,2002,NA,Latin America and the Caribbean
+Cayman Islands,2003,NA,Latin America and the Caribbean
+Cayman Islands,2004,NA,Latin America and the Caribbean
+Cayman Islands,2005,38,Latin America and the Caribbean
+Cayman Islands,2006,44.5,Latin America and the Caribbean
+Cayman Islands,2007,52,Latin America and the Caribbean
+Cayman Islands,2008,61,Latin America and the Caribbean
+Cayman Islands,2009,64.5,Latin America and the Caribbean
+Cayman Islands,2010,66,Latin America and the Caribbean
+Cayman Islands,2011,69.5,Latin America and the Caribbean
+Cayman Islands,2012,69.7,Latin America and the Caribbean
+Cayman Islands,2013,71.4,Latin America and the Caribbean
+Cayman Islands,2014,74.1,Latin America and the Caribbean
+Cayman Islands,2015,77,Latin America and the Caribbean
+Cayman Islands,2016,79,Latin America and the Caribbean
+Cayman Islands,2017,81.1,Latin America and the Caribbean
+Cayman Islands,2018,NA,Latin America and the Caribbean
+Cayman Islands,2019,NA,Latin America and the Caribbean
+Cayman Islands,2020,NA,Latin America and the Caribbean
+Cyprus,2000,15.3,Western Asia
+Cyprus,2001,18.8,Western Asia
+Cyprus,2002,28.3,Western Asia
+Cyprus,2003,30.1,Western Asia
+Cyprus,2004,33.8,Western Asia
+Cyprus,2005,32.8,Western Asia
+Cyprus,2006,35.8,Western Asia
+Cyprus,2007,40.8,Western Asia
+Cyprus,2008,42.3,Western Asia
+Cyprus,2009,49.8,Western Asia
+Cyprus,2010,53,Western Asia
+Cyprus,2011,56.9,Western Asia
+Cyprus,2012,60.7,Western Asia
+Cyprus,2013,65.5,Western Asia
+Cyprus,2014,69.3,Western Asia
+Cyprus,2015,71.7,Western Asia
+Cyprus,2016,75.9,Western Asia
+Cyprus,2017,80.7,Western Asia
+Cyprus,2018,84.4,Western Asia
+Cyprus,2019,86.1,Western Asia
+Cyprus,2020,90.8,Western Asia
+Czech Republic,2000,9.78,Eastern Europe
+Czech Republic,2001,14.7,Eastern Europe
+Czech Republic,2002,23.9,Eastern Europe
+Czech Republic,2003,34.3,Eastern Europe
+Czech Republic,2004,35.5,Eastern Europe
+Czech Republic,2005,35.3,Eastern Europe
+Czech Republic,2006,47.9,Eastern Europe
+Czech Republic,2007,51.9,Eastern Europe
+Czech Republic,2008,63,Eastern Europe
+Czech Republic,2009,64.4,Eastern Europe
+Czech Republic,2010,68.8,Eastern Europe
+Czech Republic,2011,70.5,Eastern Europe
+Czech Republic,2012,73.4,Eastern Europe
+Czech Republic,2013,74.1,Eastern Europe
+Czech Republic,2014,74.2,Eastern Europe
+Czech Republic,2015,75.7,Eastern Europe
+Czech Republic,2016,76.5,Eastern Europe
+Czech Republic,2017,78.7,Eastern Europe
+Czech Republic,2018,80.7,Eastern Europe
+Czech Republic,2019,80.9,Eastern Europe
+Czech Republic,2020,81.3,Eastern Europe
+Germany,2000,30.2,Western Europe
+Germany,2001,31.7,Western Europe
+Germany,2002,48.8,Western Europe
+Germany,2003,55.9,Western Europe
+Germany,2004,64.7,Western Europe
+Germany,2005,68.7,Western Europe
+Germany,2006,72.2,Western Europe
+Germany,2007,75.2,Western Europe
+Germany,2008,78,Western Europe
+Germany,2009,79,Western Europe
+Germany,2010,82,Western Europe
+Germany,2011,81.3,Western Europe
+Germany,2012,82.3,Western Europe
+Germany,2013,84.2,Western Europe
+Germany,2014,86.2,Western Europe
+Germany,2015,87.6,Western Europe
+Germany,2016,84.2,Western Europe
+Germany,2017,84.4,Western Europe
+Germany,2018,87,Western Europe
+Germany,2019,88.1,Western Europe
+Germany,2020,89.8,Western Europe
+Djibouti,2000,0.195,Sub-Saharan Africa
+Djibouti,2001,0.344,Sub-Saharan Africa
+Djibouti,2002,0.487,Sub-Saharan Africa
+Djibouti,2003,0.626,Sub-Saharan Africa
+Djibouti,2004,0.781,Sub-Saharan Africa
+Djibouti,2005,0.954,Sub-Saharan Africa
+Djibouti,2006,1.27,Sub-Saharan Africa
+Djibouti,2007,1.62,Sub-Saharan Africa
+Djibouti,2008,2.26,Sub-Saharan Africa
+Djibouti,2009,4,Sub-Saharan Africa
+Djibouti,2010,6.5,Sub-Saharan Africa
+Djibouti,2011,7,Sub-Saharan Africa
+Djibouti,2012,9.4,Sub-Saharan Africa
+Djibouti,2013,12.7,Sub-Saharan Africa
+Djibouti,2014,17,Sub-Saharan Africa
+Djibouti,2015,22.9,Sub-Saharan Africa
+Djibouti,2016,30.8,Sub-Saharan Africa
+Djibouti,2017,55.7,Sub-Saharan Africa
+Djibouti,2018,58,Sub-Saharan Africa
+Djibouti,2019,59.3,Sub-Saharan Africa
+Djibouti,2020,61.3,Sub-Saharan Africa
+Dominica,2000,8.81,Latin America and the Caribbean
+Dominica,2001,13.2,Latin America and the Caribbean
+Dominica,2002,18.4,Latin America and the Caribbean
+Dominica,2003,23.6,Latin America and the Caribbean
+Dominica,2004,30.3,Latin America and the Caribbean
+Dominica,2005,38.5,Latin America and the Caribbean
+Dominica,2006,39.4,Latin America and the Caribbean
+Dominica,2007,40.3,Latin America and the Caribbean
+Dominica,2008,41.2,Latin America and the Caribbean
+Dominica,2009,42,Latin America and the Caribbean
+Dominica,2010,47.5,Latin America and the Caribbean
+Dominica,2011,48.6,Latin America and the Caribbean
+Dominica,2012,49.8,Latin America and the Caribbean
+Dominica,2013,51,Latin America and the Caribbean
+Dominica,2014,57.5,Latin America and the Caribbean
+Dominica,2015,65,Latin America and the Caribbean
+Dominica,2016,67,Latin America and the Caribbean
+Dominica,2017,69.6,Latin America and the Caribbean
+Dominica,2018,NA,Latin America and the Caribbean
+Dominica,2019,73.4,Latin America and the Caribbean
+Dominica,2020,77.1,Latin America and the Caribbean
+Denmark,2000,39.2,Northern Europe
+Denmark,2001,43,Northern Europe
+Denmark,2002,64.3,Northern Europe
+Denmark,2003,76.3,Northern Europe
+Denmark,2004,80.9,Northern Europe
+Denmark,2005,82.7,Northern Europe
+Denmark,2006,86.7,Northern Europe
+Denmark,2007,85,Northern Europe
+Denmark,2008,85,Northern Europe
+Denmark,2009,86.8,Northern Europe
+Denmark,2010,88.7,Northern Europe
+Denmark,2011,89.8,Northern Europe
+Denmark,2012,92.3,Northern Europe
+Denmark,2013,94.6,Northern Europe
+Denmark,2014,96,Northern Europe
+Denmark,2015,96.3,Northern Europe
+Denmark,2016,97,Northern Europe
+Denmark,2017,97.1,Northern Europe
+Denmark,2018,97.3,Northern Europe
+Denmark,2019,98,Northern Europe
+Denmark,2020,96.5,Northern Europe
+Dominican Republic,2000,3.7,Latin America and the Caribbean
+Dominican Republic,2001,4.43,Latin America and the Caribbean
+Dominican Republic,2002,6.82,Latin America and the Caribbean
+Dominican Republic,2003,7.9,Latin America and the Caribbean
+Dominican Republic,2004,8.87,Latin America and the Caribbean
+Dominican Republic,2005,11.5,Latin America and the Caribbean
+Dominican Republic,2006,14.8,Latin America and the Caribbean
+Dominican Republic,2007,17.7,Latin America and the Caribbean
+Dominican Republic,2008,20.8,Latin America and the Caribbean
+Dominican Republic,2009,27.7,Latin America and the Caribbean
+Dominican Republic,2010,31.4,Latin America and the Caribbean
+Dominican Republic,2011,38,Latin America and the Caribbean
+Dominican Republic,2012,42.3,Latin America and the Caribbean
+Dominican Republic,2013,45.9,Latin America and the Caribbean
+Dominican Republic,2014,49.6,Latin America and the Caribbean
+Dominican Republic,2015,54.2,Latin America and the Caribbean
+Dominican Republic,2016,63.9,Latin America and the Caribbean
+Dominican Republic,2017,67.6,Latin America and the Caribbean
+Dominican Republic,2018,74.8,Latin America and the Caribbean
+Dominican Republic,2019,79.7,Latin America and the Caribbean
+Dominican Republic,2020,82.2,Latin America and the Caribbean
+Algeria,2000,0.492,Northern Africa
+Algeria,2001,0.646,Northern Africa
+Algeria,2002,1.59,Northern Africa
+Algeria,2003,2.2,Northern Africa
+Algeria,2004,4.63,Northern Africa
+Algeria,2005,5.84,Northern Africa
+Algeria,2006,7.38,Northern Africa
+Algeria,2007,9.45,Northern Africa
+Algeria,2008,10.2,Northern Africa
+Algeria,2009,11.2,Northern Africa
+Algeria,2010,12.5,Northern Africa
+Algeria,2011,14.9,Northern Africa
+Algeria,2012,18.2,Northern Africa
+Algeria,2013,22.5,Northern Africa
+Algeria,2014,29.5,Northern Africa
+Algeria,2015,38.2,Northern Africa
+Algeria,2016,42.9,Northern Africa
+Algeria,2017,47.7,Northern Africa
+Algeria,2018,49,Northern Africa
+Algeria,2019,59,Northern Africa
+Algeria,2020,64,Northern Africa
+Ecuador,2000,1.46,Latin America and the Caribbean
+Ecuador,2001,2.67,Latin America and the Caribbean
+Ecuador,2002,4.26,Latin America and the Caribbean
+Ecuador,2003,4.46,Latin America and the Caribbean
+Ecuador,2004,4.83,Latin America and the Caribbean
+Ecuador,2005,5.99,Latin America and the Caribbean
+Ecuador,2006,7.2,Latin America and the Caribbean
+Ecuador,2007,10.8,Latin America and the Caribbean
+Ecuador,2008,18.8,Latin America and the Caribbean
+Ecuador,2009,24.6,Latin America and the Caribbean
+Ecuador,2010,29,Latin America and the Caribbean
+Ecuador,2011,31.4,Latin America and the Caribbean
+Ecuador,2012,35.1,Latin America and the Caribbean
+Ecuador,2013,40.3,Latin America and the Caribbean
+Ecuador,2014,45.6,Latin America and the Caribbean
+Ecuador,2015,48.9,Latin America and the Caribbean
+Ecuador,2016,54.1,Latin America and the Caribbean
+Ecuador,2017,55.8,Latin America and the Caribbean
+Ecuador,2018,57.5,Latin America and the Caribbean
+Ecuador,2019,59.2,Latin America and the Caribbean
+Ecuador,2020,70.7,Latin America and the Caribbean
+Egypt,2000,0.641,Northern Africa
+Egypt,2001,0.839,Northern Africa
+Egypt,2002,2.72,Northern Africa
+Egypt,2003,4.04,Northern Africa
+Egypt,2004,11.9,Northern Africa
+Egypt,2005,12.8,Northern Africa
+Egypt,2006,13.7,Northern Africa
+Egypt,2007,16,Northern Africa
+Egypt,2008,18,Northern Africa
+Egypt,2009,20,Northern Africa
+Egypt,2010,21.6,Northern Africa
+Egypt,2011,25.6,Northern Africa
+Egypt,2012,26.4,Northern Africa
+Egypt,2013,29.4,Northern Africa
+Egypt,2014,33.9,Northern Africa
+Egypt,2015,37.8,Northern Africa
+Egypt,2016,41.2,Northern Africa
+Egypt,2017,45,Northern Africa
+Egypt,2018,46.9,Northern Africa
+Egypt,2019,57.3,Northern Africa
+Egypt,2020,71.9,Northern Africa
+Eritrea,2000,0.137,Sub-Saharan Africa
+Eritrea,2001,0.158,Sub-Saharan Africa
+Eritrea,2002,0.227,Sub-Saharan Africa
+Eritrea,2003,NA,Sub-Saharan Africa
+Eritrea,2004,NA,Sub-Saharan Africa
+Eritrea,2005,NA,Sub-Saharan Africa
+Eritrea,2006,NA,Sub-Saharan Africa
+Eritrea,2007,0.41,Sub-Saharan Africa
+Eritrea,2008,0.47,Sub-Saharan Africa
+Eritrea,2009,0.54,Sub-Saharan Africa
+Eritrea,2010,0.61,Sub-Saharan Africa
+Eritrea,2011,0.7,Sub-Saharan Africa
+Eritrea,2012,0.8,Sub-Saharan Africa
+Eritrea,2013,0.9,Sub-Saharan Africa
+Eritrea,2014,0.99,Sub-Saharan Africa
+Eritrea,2015,1.08,Sub-Saharan Africa
+Eritrea,2016,1.18,Sub-Saharan Africa
+Eritrea,2017,1.31,Sub-Saharan Africa
+Eritrea,2018,NA,Sub-Saharan Africa
+Eritrea,2019,8.83,Sub-Saharan Africa
+Eritrea,2020,14.2,Sub-Saharan Africa
+Spain,2000,13.6,Southern Europe
+Spain,2001,18.1,Southern Europe
+Spain,2002,20.4,Southern Europe
+Spain,2003,39.9,Southern Europe
+Spain,2004,44,Southern Europe
+Spain,2005,47.9,Southern Europe
+Spain,2006,50.4,Southern Europe
+Spain,2007,55.1,Southern Europe
+Spain,2008,59.6,Southern Europe
+Spain,2009,62.4,Southern Europe
+Spain,2010,65.8,Southern Europe
+Spain,2011,67.1,Southern Europe
+Spain,2012,69.8,Southern Europe
+Spain,2013,71.6,Southern Europe
+Spain,2014,76.2,Southern Europe
+Spain,2015,78.7,Southern Europe
+Spain,2016,80.6,Southern Europe
+Spain,2017,84.6,Southern Europe
+Spain,2018,86.1,Southern Europe
+Spain,2019,90.7,Southern Europe
+Spain,2020,93.2,Southern Europe
+Estonia,2000,28.6,Northern Europe
+Estonia,2001,31.5,Northern Europe
+Estonia,2002,41.5,Northern Europe
+Estonia,2003,45.3,Northern Europe
+Estonia,2004,53.2,Northern Europe
+Estonia,2005,61.5,Northern Europe
+Estonia,2006,63.5,Northern Europe
+Estonia,2007,66.2,Northern Europe
+Estonia,2008,70.6,Northern Europe
+Estonia,2009,72.5,Northern Europe
+Estonia,2010,74.1,Northern Europe
+Estonia,2011,76.5,Northern Europe
+Estonia,2012,78.4,Northern Europe
+Estonia,2013,80,Northern Europe
+Estonia,2014,84.2,Northern Europe
+Estonia,2015,88.4,Northern Europe
+Estonia,2016,87.2,Northern Europe
+Estonia,2017,88.1,Northern Europe
+Estonia,2018,89.4,Northern Europe
+Estonia,2019,90.2,Northern Europe
+Estonia,2020,89.1,Northern Europe
+Ethiopia,2000,0.0153,Sub-Saharan Africa
+Ethiopia,2001,0.0372,Sub-Saharan Africa
+Ethiopia,2002,0.0724,Sub-Saharan Africa
+Ethiopia,2003,0.106,Sub-Saharan Africa
+Ethiopia,2004,0.155,Sub-Saharan Africa
+Ethiopia,2005,0.22,Sub-Saharan Africa
+Ethiopia,2006,0.311,Sub-Saharan Africa
+Ethiopia,2007,0.37,Sub-Saharan Africa
+Ethiopia,2008,0.45,Sub-Saharan Africa
+Ethiopia,2009,0.54,Sub-Saharan Africa
+Ethiopia,2010,0.75,Sub-Saharan Africa
+Ethiopia,2011,1.1,Sub-Saharan Africa
+Ethiopia,2012,2.9,Sub-Saharan Africa
+Ethiopia,2013,4.6,Sub-Saharan Africa
+Ethiopia,2014,7.7,Sub-Saharan Africa
+Ethiopia,2015,13.9,Sub-Saharan Africa
+Ethiopia,2016,15.4,Sub-Saharan Africa
+Ethiopia,2017,15.6,Sub-Saharan Africa
+Ethiopia,2018,15.9,Sub-Saharan Africa
+Ethiopia,2019,16.2,Sub-Saharan Africa
+Ethiopia,2020,16.4,Sub-Saharan Africa
+Finland,2000,37.2,Northern Europe
+Finland,2001,43.1,Northern Europe
+Finland,2002,62.4,Northern Europe
+Finland,2003,69.2,Northern Europe
+Finland,2004,72.4,Northern Europe
+Finland,2005,74.5,Northern Europe
+Finland,2006,79.7,Northern Europe
+Finland,2007,80.8,Northern Europe
+Finland,2008,83.7,Northern Europe
+Finland,2009,82.5,Northern Europe
+Finland,2010,86.9,Northern Europe
+Finland,2011,88.7,Northern Europe
+Finland,2012,89.9,Northern Europe
+Finland,2013,91.5,Northern Europe
+Finland,2014,86.5,Northern Europe
+Finland,2015,86.4,Northern Europe
+Finland,2016,87.7,Northern Europe
+Finland,2017,87.5,Northern Europe
+Finland,2018,88.9,Northern Europe
+Finland,2019,89.6,Northern Europe
+Finland,2020,92.2,Northern Europe
+Fiji,2000,1.5,Melanesia
+Fiji,2001,1.86,Melanesia
+Fiji,2002,6.15,Melanesia
+Fiji,2003,6.73,Melanesia
+Fiji,2004,7.41,Melanesia
+Fiji,2005,8.45,Melanesia
+Fiji,2006,9.6,Melanesia
+Fiji,2007,10.9,Melanesia
+Fiji,2008,13,Melanesia
+Fiji,2009,17,Melanesia
+Fiji,2010,20,Melanesia
+Fiji,2011,28,Melanesia
+Fiji,2012,33.7,Melanesia
+Fiji,2013,35.2,Melanesia
+Fiji,2014,37.4,Melanesia
+Fiji,2015,42.5,Melanesia
+Fiji,2016,49.4,Melanesia
+Fiji,2017,65.8,Melanesia
+Fiji,2018,68.9,Melanesia
+Fiji,2019,77.2,Melanesia
+Fiji,2020,84.9,Melanesia
+France,2000,14.3,Western Europe
+France,2001,26.3,Western Europe
+France,2002,30.2,Western Europe
+France,2003,36.1,Western Europe
+France,2004,39.1,Western Europe
+France,2005,42.9,Western Europe
+France,2006,46.9,Western Europe
+France,2007,66.1,Western Europe
+France,2008,70.7,Western Europe
+France,2009,71.6,Western Europe
+France,2010,77.3,Western Europe
+France,2011,77.8,Western Europe
+France,2012,81.4,Western Europe
+France,2013,81.9,Western Europe
+France,2014,83.8,Western Europe
+France,2015,78,Western Europe
+France,2016,79.3,Western Europe
+France,2017,80.5,Western Europe
+France,2018,82,Western Europe
+France,2019,83.3,Western Europe
+France,2020,84.7,Western Europe
+Faeroe Islands,2000,32.9,Northern Europe
+Faeroe Islands,2001,43.2,Northern Europe
+Faeroe Islands,2002,53.3,Northern Europe
+Faeroe Islands,2003,58.9,Northern Europe
+Faeroe Islands,2004,66.5,Northern Europe
+Faeroe Islands,2005,67.9,Northern Europe
+Faeroe Islands,2006,69.4,Northern Europe
+Faeroe Islands,2007,76,Northern Europe
+Faeroe Islands,2008,75.6,Northern Europe
+Faeroe Islands,2009,75.2,Northern Europe
+Faeroe Islands,2010,75.2,Northern Europe
+Faeroe Islands,2011,80.7,Northern Europe
+Faeroe Islands,2012,85.3,Northern Europe
+Faeroe Islands,2013,90,Northern Europe
+Faeroe Islands,2014,93.3,Northern Europe
+Faeroe Islands,2015,94.2,Northern Europe
+Faeroe Islands,2016,95.1,Northern Europe
+Faeroe Islands,2017,97.6,Northern Europe
+Faeroe Islands,2018,NA,Northern Europe
+Faeroe Islands,2019,NA,Northern Europe
+Faeroe Islands,2020,NA,Northern Europe
+"Micronesia, Fed. Sts.",2000,3.73,Micronesia
+"Micronesia, Fed. Sts.",2001,4.66,Micronesia
+"Micronesia, Fed. Sts.",2002,5.57,Micronesia
+"Micronesia, Fed. Sts.",2003,9.23,Micronesia
+"Micronesia, Fed. Sts.",2004,11,Micronesia
+"Micronesia, Fed. Sts.",2005,11.9,Micronesia
+"Micronesia, Fed. Sts.",2006,12.8,Micronesia
+"Micronesia, Fed. Sts.",2007,13.6,Micronesia
+"Micronesia, Fed. Sts.",2008,14.5,Micronesia
+"Micronesia, Fed. Sts.",2009,15.3,Micronesia
+"Micronesia, Fed. Sts.",2010,20,Micronesia
+"Micronesia, Fed. Sts.",2011,22.8,Micronesia
+"Micronesia, Fed. Sts.",2012,26,Micronesia
+"Micronesia, Fed. Sts.",2013,27.8,Micronesia
+"Micronesia, Fed. Sts.",2014,29.6,Micronesia
+"Micronesia, Fed. Sts.",2015,31.5,Micronesia
+"Micronesia, Fed. Sts.",2016,33.4,Micronesia
+"Micronesia, Fed. Sts.",2017,35.3,Micronesia
+"Micronesia, Fed. Sts.",2018,NA,Micronesia
+"Micronesia, Fed. Sts.",2019,39.9,Micronesia
+"Micronesia, Fed. Sts.",2020,40.1,Micronesia
+Gabon,2000,1.22,Sub-Saharan Africa
+Gabon,2001,1.35,Sub-Saharan Africa
+Gabon,2002,1.94,Sub-Saharan Africa
+Gabon,2003,2.66,Sub-Saharan Africa
+Gabon,2004,2.98,Sub-Saharan Africa
+Gabon,2005,4.89,Sub-Saharan Africa
+Gabon,2006,5.49,Sub-Saharan Africa
+Gabon,2007,5.77,Sub-Saharan Africa
+Gabon,2008,7.5,Sub-Saharan Africa
+Gabon,2009,9.5,Sub-Saharan Africa
+Gabon,2010,13,Sub-Saharan Africa
+Gabon,2011,18,Sub-Saharan Africa
+Gabon,2012,24,Sub-Saharan Africa
+Gabon,2013,30.5,Sub-Saharan Africa
+Gabon,2014,38.1,Sub-Saharan Africa
+Gabon,2015,45.8,Sub-Saharan Africa
+Gabon,2016,48.1,Sub-Saharan Africa
+Gabon,2017,50.3,Sub-Saharan Africa
+Gabon,2018,59.6,Sub-Saharan Africa
+Gabon,2019,68.7,Sub-Saharan Africa
+Gabon,2020,70.8,Sub-Saharan Africa
+UK,2000,26.8,Northern Europe
+UK,2001,33.5,Northern Europe
+UK,2002,56.5,Northern Europe
+UK,2003,64.8,Northern Europe
+UK,2004,65.6,Northern Europe
+UK,2005,70,Northern Europe
+UK,2006,68.8,Northern Europe
+UK,2007,75.1,Northern Europe
+UK,2008,78.4,Northern Europe
+UK,2009,83.6,Northern Europe
+UK,2010,85,Northern Europe
+UK,2011,85.4,Northern Europe
+UK,2012,87.5,Northern Europe
+UK,2013,89.8,Northern Europe
+UK,2014,91.6,Northern Europe
+UK,2015,92,Northern Europe
+UK,2016,94.8,Northern Europe
+UK,2017,90.4,Northern Europe
+UK,2018,90.7,Northern Europe
+UK,2019,92.5,Northern Europe
+UK,2020,94.8,Northern Europe
+Georgia,2000,0.485,Western Asia
+Georgia,2001,0.992,Western Asia
+Georgia,2002,1.59,Western Asia
+Georgia,2003,2.56,Western Asia
+Georgia,2004,3.89,Western Asia
+Georgia,2005,6.08,Western Asia
+Georgia,2006,7.53,Western Asia
+Georgia,2007,8.26,Western Asia
+Georgia,2008,10,Western Asia
+Georgia,2009,20.1,Western Asia
+Georgia,2010,26.9,Western Asia
+Georgia,2011,31.5,Western Asia
+Georgia,2012,36.9,Western Asia
+Georgia,2013,43.3,Western Asia
+Georgia,2014,44,Western Asia
+Georgia,2015,47.6,Western Asia
+Georgia,2016,58.5,Western Asia
+Georgia,2017,59.7,Western Asia
+Georgia,2018,62.7,Western Asia
+Georgia,2019,68.8,Western Asia
+Georgia,2020,72.5,Western Asia
+Ghana,2000,0.154,Sub-Saharan Africa
+Ghana,2001,0.2,Sub-Saharan Africa
+Ghana,2002,0.83,Sub-Saharan Africa
+Ghana,2003,1.19,Sub-Saharan Africa
+Ghana,2004,1.72,Sub-Saharan Africa
+Ghana,2005,1.83,Sub-Saharan Africa
+Ghana,2006,2.72,Sub-Saharan Africa
+Ghana,2007,3.85,Sub-Saharan Africa
+Ghana,2008,4.27,Sub-Saharan Africa
+Ghana,2009,5.44,Sub-Saharan Africa
+Ghana,2010,7.8,Sub-Saharan Africa
+Ghana,2011,9,Sub-Saharan Africa
+Ghana,2012,10.6,Sub-Saharan Africa
+Ghana,2013,15,Sub-Saharan Africa
+Ghana,2014,19,Sub-Saharan Africa
+Ghana,2015,23,Sub-Saharan Africa
+Ghana,2016,28,Sub-Saharan Africa
+Ghana,2017,37.9,Sub-Saharan Africa
+Ghana,2018,43,Sub-Saharan Africa
+Ghana,2019,45,Sub-Saharan Africa
+Ghana,2020,56.7,Sub-Saharan Africa
+Gibraltar,2000,19.1,Southern Europe
+Gibraltar,2001,21.2,Southern Europe
+Gibraltar,2002,23.7,Southern Europe
+Gibraltar,2003,28.3,Southern Europe
+Gibraltar,2004,32.9,Southern Europe
+Gibraltar,2005,39.1,Southern Europe
+Gibraltar,2006,45.3,Southern Europe
+Gibraltar,2007,51.6,Southern Europe
+Gibraltar,2008,58,Southern Europe
+Gibraltar,2009,65.1,Southern Europe
+Gibraltar,2010,65,Southern Europe
+Gibraltar,2011,65,Southern Europe
+Gibraltar,2012,65,Southern Europe
+Gibraltar,2013,NA,Southern Europe
+Gibraltar,2014,NA,Southern Europe
+Gibraltar,2015,NA,Southern Europe
+Gibraltar,2016,94.4,Southern Europe
+Gibraltar,2017,NA,Southern Europe
+Gibraltar,2018,NA,Southern Europe
+Gibraltar,2019,NA,Southern Europe
+Gibraltar,2020,NA,Southern Europe
+Guinea,2000,0.0954,Sub-Saharan Africa
+Guinea,2001,0.176,Sub-Saharan Africa
+Guinea,2002,0.402,Sub-Saharan Africa
+Guinea,2003,0.451,Sub-Saharan Africa
+Guinea,2004,0.509,Sub-Saharan Africa
+Guinea,2005,0.542,Sub-Saharan Africa
+Guinea,2006,0.637,Sub-Saharan Africa
+Guinea,2007,0.78,Sub-Saharan Africa
+Guinea,2008,0.92,Sub-Saharan Africa
+Guinea,2009,0.94,Sub-Saharan Africa
+Guinea,2010,1,Sub-Saharan Africa
+Guinea,2011,2,Sub-Saharan Africa
+Guinea,2012,3.1,Sub-Saharan Africa
+Guinea,2013,4.5,Sub-Saharan Africa
+Guinea,2014,6.4,Sub-Saharan Africa
+Guinea,2015,9.2,Sub-Saharan Africa
+Guinea,2016,13.1,Sub-Saharan Africa
+Guinea,2017,18.7,Sub-Saharan Africa
+Guinea,2018,21.8,Sub-Saharan Africa
+Guinea,2019,23.4,Sub-Saharan Africa
+Guinea,2020,28.8,Sub-Saharan Africa
+Gambia,2000,0.922,Sub-Saharan Africa
+Gambia,2001,1.34,Sub-Saharan Africa
+Gambia,2002,1.8,Sub-Saharan Africa
+Gambia,2003,2.44,Sub-Saharan Africa
+Gambia,2004,3.31,Sub-Saharan Africa
+Gambia,2005,3.8,Sub-Saharan Africa
+Gambia,2006,5.24,Sub-Saharan Africa
+Gambia,2007,6.21,Sub-Saharan Africa
+Gambia,2008,6.88,Sub-Saharan Africa
+Gambia,2009,7.63,Sub-Saharan Africa
+Gambia,2010,9.2,Sub-Saharan Africa
+Gambia,2011,10.9,Sub-Saharan Africa
+Gambia,2012,12.4,Sub-Saharan Africa
+Gambia,2013,14,Sub-Saharan Africa
+Gambia,2014,15.6,Sub-Saharan Africa
+Gambia,2015,17.6,Sub-Saharan Africa
+Gambia,2016,19.9,Sub-Saharan Africa
+Gambia,2017,22.5,Sub-Saharan Africa
+Gambia,2018,25.5,Sub-Saharan Africa
+Gambia,2019,28.8,Sub-Saharan Africa
+Gambia,2020,31.6,Sub-Saharan Africa
+Guinea-Bissau,2000,0.23,Sub-Saharan Africa
+Guinea-Bissau,2001,0.3,Sub-Saharan Africa
+Guinea-Bissau,2002,1.02,Sub-Saharan Africa
+Guinea-Bissau,2003,1.35,Sub-Saharan Africa
+Guinea-Bissau,2004,1.81,Sub-Saharan Africa
+Guinea-Bissau,2005,1.9,Sub-Saharan Africa
+Guinea-Bissau,2006,2.06,Sub-Saharan Africa
+Guinea-Bissau,2007,2.21,Sub-Saharan Africa
+Guinea-Bissau,2008,2.35,Sub-Saharan Africa
+Guinea-Bissau,2009,2.3,Sub-Saharan Africa
+Guinea-Bissau,2010,2.45,Sub-Saharan Africa
+Guinea-Bissau,2011,2.67,Sub-Saharan Africa
+Guinea-Bissau,2012,2.89,Sub-Saharan Africa
+Guinea-Bissau,2013,3.1,Sub-Saharan Africa
+Guinea-Bissau,2014,3.32,Sub-Saharan Africa
+Guinea-Bissau,2015,6.1,Sub-Saharan Africa
+Guinea-Bissau,2016,13.8,Sub-Saharan Africa
+Guinea-Bissau,2017,14.8,Sub-Saharan Africa
+Guinea-Bissau,2018,15.7,Sub-Saharan Africa
+Guinea-Bissau,2019,22.9,Sub-Saharan Africa
+Guinea-Bissau,2020,27.9,Sub-Saharan Africa
+Equatorial Guinea,2000,0.132,Sub-Saharan Africa
+Equatorial Guinea,2001,0.165,Sub-Saharan Africa
+Equatorial Guinea,2002,0.321,Sub-Saharan Africa
+Equatorial Guinea,2003,0.521,Sub-Saharan Africa
+Equatorial Guinea,2004,0.844,Sub-Saharan Africa
+Equatorial Guinea,2005,1.15,Sub-Saharan Africa
+Equatorial Guinea,2006,1.28,Sub-Saharan Africa
+Equatorial Guinea,2007,1.56,Sub-Saharan Africa
+Equatorial Guinea,2008,1.82,Sub-Saharan Africa
+Equatorial Guinea,2009,2.13,Sub-Saharan Africa
+Equatorial Guinea,2010,6,Sub-Saharan Africa
+Equatorial Guinea,2011,11.5,Sub-Saharan Africa
+Equatorial Guinea,2012,13.9,Sub-Saharan Africa
+Equatorial Guinea,2013,16.4,Sub-Saharan Africa
+Equatorial Guinea,2014,18.9,Sub-Saharan Africa
+Equatorial Guinea,2015,21.3,Sub-Saharan Africa
+Equatorial Guinea,2016,23.8,Sub-Saharan Africa
+Equatorial Guinea,2017,26.2,Sub-Saharan Africa
+Equatorial Guinea,2018,NA,Sub-Saharan Africa
+Equatorial Guinea,2019,49.1,Sub-Saharan Africa
+Equatorial Guinea,2020,53.8,Sub-Saharan Africa
+Greece,2000,9.14,Southern Europe
+Greece,2001,10.9,Southern Europe
+Greece,2002,14.7,Southern Europe
+Greece,2003,17.8,Southern Europe
+Greece,2004,21.4,Southern Europe
+Greece,2005,24,Southern Europe
+Greece,2006,32.3,Southern Europe
+Greece,2007,35.9,Southern Europe
+Greece,2008,38.2,Southern Europe
+Greece,2009,42.4,Southern Europe
+Greece,2010,44.4,Southern Europe
+Greece,2011,51.6,Southern Europe
+Greece,2012,55.1,Southern Europe
+Greece,2013,59.9,Southern Europe
+Greece,2014,63.2,Southern Europe
+Greece,2015,66.8,Southern Europe
+Greece,2016,69.1,Southern Europe
+Greece,2017,69.9,Southern Europe
+Greece,2018,72.2,Southern Europe
+Greece,2019,75.7,Southern Europe
+Greece,2020,78.1,Southern Europe
+Grenada,2000,4.06,Latin America and the Caribbean
+Grenada,2001,5.13,Latin America and the Caribbean
+Grenada,2002,14.8,Latin America and the Caribbean
+Grenada,2003,18.6,Latin America and the Caribbean
+Grenada,2004,19.6,Latin America and the Caribbean
+Grenada,2005,20.5,Latin America and the Caribbean
+Grenada,2006,21.4,Latin America and the Caribbean
+Grenada,2007,22.3,Latin America and the Caribbean
+Grenada,2008,23.2,Latin America and the Caribbean
+Grenada,2009,24.1,Latin America and the Caribbean
+Grenada,2010,27,Latin America and the Caribbean
+Grenada,2011,30,Latin America and the Caribbean
+Grenada,2012,32,Latin America and the Caribbean
+Grenada,2013,35,Latin America and the Caribbean
+Grenada,2014,51.6,Latin America and the Caribbean
+Grenada,2015,52.5,Latin America and the Caribbean
+Grenada,2016,53.3,Latin America and the Caribbean
+Grenada,2017,54.2,Latin America and the Caribbean
+Grenada,2018,61.4,Latin America and the Caribbean
+Grenada,2019,69.6,Latin America and the Caribbean
+Grenada,2020,74.7,Latin America and the Caribbean
+Greenland,2000,31.7,Northern America
+Greenland,2001,35.5,Northern America
+Greenland,2002,44.2,Northern America
+Greenland,2003,54.5,Northern America
+Greenland,2004,56.1,Northern America
+Greenland,2005,57.7,Northern America
+Greenland,2006,59.4,Northern America
+Greenland,2007,61.1,Northern America
+Greenland,2008,62.8,Northern America
+Greenland,2009,62.8,Northern America
+Greenland,2010,63,Northern America
+Greenland,2011,64,Northern America
+Greenland,2012,64.9,Northern America
+Greenland,2013,65.8,Northern America
+Greenland,2014,66.7,Northern America
+Greenland,2015,67.6,Northern America
+Greenland,2016,68.5,Northern America
+Greenland,2017,69.5,Northern America
+Greenland,2018,NA,Northern America
+Greenland,2019,NA,Northern America
+Greenland,2020,NA,Northern America
+Guatemala,2000,0.712,Latin America and the Caribbean
+Guatemala,2001,1.74,Latin America and the Caribbean
+Guatemala,2002,3.39,Latin America and the Caribbean
+Guatemala,2003,4.55,Latin America and the Caribbean
+Guatemala,2004,5.1,Latin America and the Caribbean
+Guatemala,2005,5.7,Latin America and the Caribbean
+Guatemala,2006,6.5,Latin America and the Caribbean
+Guatemala,2007,7.3,Latin America and the Caribbean
+Guatemala,2008,8.3,Latin America and the Caribbean
+Guatemala,2009,9.3,Latin America and the Caribbean
+Guatemala,2010,10.5,Latin America and the Caribbean
+Guatemala,2011,12.3,Latin America and the Caribbean
+Guatemala,2012,16,Latin America and the Caribbean
+Guatemala,2013,19.7,Latin America and the Caribbean
+Guatemala,2014,23.4,Latin America and the Caribbean
+Guatemala,2015,28.8,Latin America and the Caribbean
+Guatemala,2016,34.5,Latin America and the Caribbean
+Guatemala,2017,37.9,Latin America and the Caribbean
+Guatemala,2018,41.5,Latin America and the Caribbean
+Guatemala,2019,44.4,Latin America and the Caribbean
+Guatemala,2020,47.5,Latin America and the Caribbean
+Guam,2000,16.1,Micronesia
+Guam,2001,25.4,Micronesia
+Guam,2002,31.2,Micronesia
+Guam,2003,33.7,Micronesia
+Guam,2004,36.2,Micronesia
+Guam,2005,38.6,Micronesia
+Guam,2006,43.9,Micronesia
+Guam,2007,46.2,Micronesia
+Guam,2008,48.4,Micronesia
+Guam,2009,50.6,Micronesia
+Guam,2010,54,Micronesia
+Guam,2011,57.7,Micronesia
+Guam,2012,61.5,Micronesia
+Guam,2013,65.4,Micronesia
+Guam,2014,69.3,Micronesia
+Guam,2015,73.1,Micronesia
+Guam,2016,77,Micronesia
+Guam,2017,80.5,Micronesia
+Guam,2018,NA,Micronesia
+Guam,2019,NA,Micronesia
+Guam,2020,NA,Micronesia
+Guyana,2000,0.6,Latin America and the Caribbean
+Guyana,2001,1,Latin America and the Caribbean
+Guyana,2002,1.5,Latin America and the Caribbean
+Guyana,2003,2.4,Latin America and the Caribbean
+Guyana,2004,3.7,Latin America and the Caribbean
+Guyana,2005,5.7,Latin America and the Caribbean
+Guyana,2006,8.9,Latin America and the Caribbean
+Guyana,2007,13.8,Latin America and the Caribbean
+Guyana,2008,18.2,Latin America and the Caribbean
+Guyana,2009,23.9,Latin America and the Caribbean
+Guyana,2010,29.9,Latin America and the Caribbean
+Guyana,2011,30,Latin America and the Caribbean
+Guyana,2012,30.5,Latin America and the Caribbean
+Guyana,2013,31,Latin America and the Caribbean
+Guyana,2014,32,Latin America and the Caribbean
+Guyana,2015,34,Latin America and the Caribbean
+Guyana,2016,35.7,Latin America and the Caribbean
+Guyana,2017,37.3,Latin America and the Caribbean
+Guyana,2018,NA,Latin America and the Caribbean
+Guyana,2019,78.6,Latin America and the Caribbean
+Guyana,2020,81.8,Latin America and the Caribbean
+"Hong Kong, China",2000,27.8,Eastern Asia
+"Hong Kong, China",2001,38.7,Eastern Asia
+"Hong Kong, China",2002,43.1,Eastern Asia
+"Hong Kong, China",2003,52.2,Eastern Asia
+"Hong Kong, China",2004,56.4,Eastern Asia
+"Hong Kong, China",2005,56.9,Eastern Asia
+"Hong Kong, China",2006,60.8,Eastern Asia
+"Hong Kong, China",2007,64.8,Eastern Asia
+"Hong Kong, China",2008,66.7,Eastern Asia
+"Hong Kong, China",2009,69.4,Eastern Asia
+"Hong Kong, China",2010,72,Eastern Asia
+"Hong Kong, China",2011,72.2,Eastern Asia
+"Hong Kong, China",2012,72.9,Eastern Asia
+"Hong Kong, China",2013,74.2,Eastern Asia
+"Hong Kong, China",2014,79.9,Eastern Asia
+"Hong Kong, China",2015,84.9,Eastern Asia
+"Hong Kong, China",2016,87.5,Eastern Asia
+"Hong Kong, China",2017,89.4,Eastern Asia
+"Hong Kong, China",2018,90.5,Eastern Asia
+"Hong Kong, China",2019,91.7,Eastern Asia
+"Hong Kong, China",2020,92.4,Eastern Asia
+Honduras,2000,1.2,Latin America and the Caribbean
+Honduras,2001,1.42,Latin America and the Caribbean
+Honduras,2002,2.6,Latin America and the Caribbean
+Honduras,2003,4.8,Latin America and the Caribbean
+Honduras,2004,5.6,Latin America and the Caribbean
+Honduras,2005,6.5,Latin America and the Caribbean
+Honduras,2006,7.8,Latin America and the Caribbean
+Honduras,2007,9.4,Latin America and the Caribbean
+Honduras,2008,9.6,Latin America and the Caribbean
+Honduras,2009,9.8,Latin America and the Caribbean
+Honduras,2010,11.1,Latin America and the Caribbean
+Honduras,2011,15.9,Latin America and the Caribbean
+Honduras,2012,18.1,Latin America and the Caribbean
+Honduras,2013,17.8,Latin America and the Caribbean
+Honduras,2014,23,Latin America and the Caribbean
+Honduras,2015,27.1,Latin America and the Caribbean
+Honduras,2016,29.5,Latin America and the Caribbean
+Honduras,2017,31.7,Latin America and the Caribbean
+Honduras,2018,36,Latin America and the Caribbean
+Honduras,2019,39.4,Latin America and the Caribbean
+Honduras,2020,43.5,Latin America and the Caribbean
+Croatia,2000,6.64,Southern Europe
+Croatia,2001,11.6,Southern Europe
+Croatia,2002,17.8,Southern Europe
+Croatia,2003,22.8,Southern Europe
+Croatia,2004,30.9,Southern Europe
+Croatia,2005,33.1,Southern Europe
+Croatia,2006,38,Southern Europe
+Croatia,2007,41.4,Southern Europe
+Croatia,2008,44.2,Southern Europe
+Croatia,2009,50.6,Southern Europe
+Croatia,2010,56.5,Southern Europe
+Croatia,2011,57.8,Southern Europe
+Croatia,2012,61.9,Southern Europe
+Croatia,2013,66.7,Southern Europe
+Croatia,2014,68.6,Southern Europe
+Croatia,2015,69.8,Southern Europe
+Croatia,2016,72.7,Southern Europe
+Croatia,2017,67.1,Southern Europe
+Croatia,2018,75.3,Southern Europe
+Croatia,2019,79.1,Southern Europe
+Croatia,2020,78.3,Southern Europe
+Haiti,2000,0.231,Latin America and the Caribbean
+Haiti,2001,0.341,Latin America and the Caribbean
+Haiti,2002,0.893,Latin America and the Caribbean
+Haiti,2003,1.65,Latin America and the Caribbean
+Haiti,2004,5.4,Latin America and the Caribbean
+Haiti,2005,6.38,Latin America and the Caribbean
+Haiti,2006,6.8,Latin America and the Caribbean
+Haiti,2007,7.2,Latin America and the Caribbean
+Haiti,2008,7.6,Latin America and the Caribbean
+Haiti,2009,8.1,Latin America and the Caribbean
+Haiti,2010,8.37,Latin America and the Caribbean
+Haiti,2011,9,Latin America and the Caribbean
+Haiti,2012,9.8,Latin America and the Caribbean
+Haiti,2013,10.6,Latin America and the Caribbean
+Haiti,2014,11.4,Latin America and the Caribbean
+Haiti,2015,14.2,Latin America and the Caribbean
+Haiti,2016,22.8,Latin America and the Caribbean
+Haiti,2017,27.2,Latin America and the Caribbean
+Haiti,2018,32.5,Latin America and the Caribbean
+Haiti,2019,32.5,Latin America and the Caribbean
+Haiti,2020,36.4,Latin America and the Caribbean
+Hungary,2000,7,Eastern Europe
+Hungary,2001,14.5,Eastern Europe
+Hungary,2002,16.7,Eastern Europe
+Hungary,2003,21.6,Eastern Europe
+Hungary,2004,27.7,Eastern Europe
+Hungary,2005,39,Eastern Europe
+Hungary,2006,47.1,Eastern Europe
+Hungary,2007,53.3,Eastern Europe
+Hungary,2008,61,Eastern Europe
+Hungary,2009,62,Eastern Europe
+Hungary,2010,65,Eastern Europe
+Hungary,2011,68,Eastern Europe
+Hungary,2012,70.6,Eastern Europe
+Hungary,2013,72.6,Eastern Europe
+Hungary,2014,75.7,Eastern Europe
+Hungary,2015,72.8,Eastern Europe
+Hungary,2016,79.3,Eastern Europe
+Hungary,2017,76.8,Eastern Europe
+Hungary,2018,76.1,Eastern Europe
+Hungary,2019,80.4,Eastern Europe
+Hungary,2020,84.8,Eastern Europe
+Indonesia,2000,0.926,South-eastern Asia
+Indonesia,2001,2.02,South-eastern Asia
+Indonesia,2002,2.13,South-eastern Asia
+Indonesia,2003,2.39,South-eastern Asia
+Indonesia,2004,2.6,South-eastern Asia
+Indonesia,2005,3.6,South-eastern Asia
+Indonesia,2006,4.76,South-eastern Asia
+Indonesia,2007,5.79,South-eastern Asia
+Indonesia,2008,7.92,South-eastern Asia
+Indonesia,2009,6.92,South-eastern Asia
+Indonesia,2010,10.9,South-eastern Asia
+Indonesia,2011,12.3,South-eastern Asia
+Indonesia,2012,14.5,South-eastern Asia
+Indonesia,2013,14.9,South-eastern Asia
+Indonesia,2014,17.1,South-eastern Asia
+Indonesia,2015,22.1,South-eastern Asia
+Indonesia,2016,25.4,South-eastern Asia
+Indonesia,2017,32.3,South-eastern Asia
+Indonesia,2018,39.9,South-eastern Asia
+Indonesia,2019,47.7,South-eastern Asia
+Indonesia,2020,53.7,South-eastern Asia
+India,2000,0.528,Southern Asia
+India,2001,0.66,Southern Asia
+India,2002,1.54,Southern Asia
+India,2003,1.69,Southern Asia
+India,2004,1.98,Southern Asia
+India,2005,2.39,Southern Asia
+India,2006,2.81,Southern Asia
+India,2007,3.95,Southern Asia
+India,2008,4.38,Southern Asia
+India,2009,5.12,Southern Asia
+India,2010,7.5,Southern Asia
+India,2011,10.1,Southern Asia
+India,2012,11.1,Southern Asia
+India,2013,12.3,Southern Asia
+India,2014,13.5,Southern Asia
+India,2015,14.9,Southern Asia
+India,2016,16.5,Southern Asia
+India,2017,18.2,Southern Asia
+India,2018,20.1,Southern Asia
+India,2019,29.5,Southern Asia
+India,2020,43.4,Southern Asia
+Ireland,2000,17.9,Northern Europe
+Ireland,2001,23.1,Northern Europe
+Ireland,2002,25.9,Northern Europe
+Ireland,2003,34.3,Northern Europe
+Ireland,2004,37,Northern Europe
+Ireland,2005,41.6,Northern Europe
+Ireland,2006,54.8,Northern Europe
+Ireland,2007,61.2,Northern Europe
+Ireland,2008,65.3,Northern Europe
+Ireland,2009,67.4,Northern Europe
+Ireland,2010,69.8,Northern Europe
+Ireland,2011,74.9,Northern Europe
+Ireland,2012,76.9,Northern Europe
+Ireland,2013,78.2,Northern Europe
+Ireland,2014,83.5,Northern Europe
+Ireland,2015,83.5,Northern Europe
+Ireland,2016,83.5,Northern Europe
+Ireland,2017,84.1,Northern Europe
+Ireland,2018,87,Northern Europe
+Ireland,2019,87,Northern Europe
+Ireland,2020,92,Northern Europe
+Iran,2000,0.934,Southern Asia
+Iran,2001,1.48,Southern Asia
+Iran,2002,4.63,Southern Asia
+Iran,2003,6.93,Southern Asia
+Iran,2004,7.49,Southern Asia
+Iran,2005,8.1,Southern Asia
+Iran,2006,8.76,Southern Asia
+Iran,2007,9.47,Southern Asia
+Iran,2008,12,Southern Asia
+Iran,2009,13.8,Southern Asia
+Iran,2010,15.9,Southern Asia
+Iran,2011,19,Southern Asia
+Iran,2012,22.7,Southern Asia
+Iran,2013,29.9,Southern Asia
+Iran,2014,39.4,Southern Asia
+Iran,2015,45.3,Southern Asia
+Iran,2016,53.2,Southern Asia
+Iran,2017,64,Southern Asia
+Iran,2018,70.2,Southern Asia
+Iran,2019,72.5,Southern Asia
+Iran,2020,75.6,Southern Asia
+Iraq,2000,NA,Western Asia
+Iraq,2001,0.1,Western Asia
+Iraq,2002,0.5,Western Asia
+Iraq,2003,0.6,Western Asia
+Iraq,2004,0.9,Western Asia
+Iraq,2005,0.9,Western Asia
+Iraq,2006,0.952,Western Asia
+Iraq,2007,0.93,Western Asia
+Iraq,2008,1,Western Asia
+Iraq,2009,1.06,Western Asia
+Iraq,2010,2.5,Western Asia
+Iraq,2011,5,Western Asia
+Iraq,2012,7.1,Western Asia
+Iraq,2013,9.2,Western Asia
+Iraq,2014,13.2,Western Asia
+Iraq,2015,15.2,Western Asia
+Iraq,2016,19.9,Western Asia
+Iraq,2017,26,Western Asia
+Iraq,2018,33.9,Western Asia
+Iraq,2019,44.3,Western Asia
+Iraq,2020,45.8,Western Asia
+Iceland,2000,44.5,Northern Europe
+Iceland,2001,49.4,Northern Europe
+Iceland,2002,79.1,Northern Europe
+Iceland,2003,83.1,Northern Europe
+Iceland,2004,83.9,Northern Europe
+Iceland,2005,87,Northern Europe
+Iceland,2006,89.5,Northern Europe
+Iceland,2007,90.6,Northern Europe
+Iceland,2008,91,Northern Europe
+Iceland,2009,93,Northern Europe
+Iceland,2010,93.4,Northern Europe
+Iceland,2011,94.8,Northern Europe
+Iceland,2012,96.2,Northern Europe
+Iceland,2013,96.5,Northern Europe
+Iceland,2014,98.2,Northern Europe
+Iceland,2015,98.2,Northern Europe
+Iceland,2016,98.2,Northern Europe
+Iceland,2017,98.3,Northern Europe
+Iceland,2018,99,Northern Europe
+Iceland,2019,99.5,Northern Europe
+Iceland,2020,99.5,Northern Europe
+Israel,2000,20.9,Western Asia
+Israel,2001,17.4,Western Asia
+Israel,2002,17.8,Western Asia
+Israel,2003,19.6,Western Asia
+Israel,2004,22.8,Western Asia
+Israel,2005,25.2,Western Asia
+Israel,2006,27.9,Western Asia
+Israel,2007,48.1,Western Asia
+Israel,2008,59.4,Western Asia
+Israel,2009,63.1,Western Asia
+Israel,2010,67.5,Western Asia
+Israel,2011,68.9,Western Asia
+Israel,2012,70.8,Western Asia
+Israel,2013,70.3,Western Asia
+Israel,2014,75,Western Asia
+Israel,2015,77.4,Western Asia
+Israel,2016,79.7,Western Asia
+Israel,2017,81.6,Western Asia
+Israel,2018,83.7,Western Asia
+Israel,2019,86.8,Western Asia
+Israel,2020,90.1,Western Asia
+Italy,2000,23.1,Southern Europe
+Italy,2001,27.2,Southern Europe
+Italy,2002,28,Southern Europe
+Italy,2003,29,Southern Europe
+Italy,2004,33.2,Southern Europe
+Italy,2005,35,Southern Europe
+Italy,2006,38,Southern Europe
+Italy,2007,40.8,Southern Europe
+Italy,2008,44.5,Southern Europe
+Italy,2009,48.8,Southern Europe
+Italy,2010,53.7,Southern Europe
+Italy,2011,54.4,Southern Europe
+Italy,2012,55.8,Southern Europe
+Italy,2013,58.5,Southern Europe
+Italy,2014,55.6,Southern Europe
+Italy,2015,58.1,Southern Europe
+Italy,2016,61.3,Southern Europe
+Italy,2017,63.1,Southern Europe
+Italy,2018,74.4,Southern Europe
+Italy,2019,67.9,Southern Europe
+Italy,2020,70.5,Southern Europe
+Jamaica,2000,3.12,Latin America and the Caribbean
+Jamaica,2001,3.86,Latin America and the Caribbean
+Jamaica,2002,6.1,Latin America and the Caribbean
+Jamaica,2003,7.8,Latin America and the Caribbean
+Jamaica,2004,10,Latin America and the Caribbean
+Jamaica,2005,12.8,Latin America and the Caribbean
+Jamaica,2006,16.4,Latin America and the Caribbean
+Jamaica,2007,21.1,Latin America and the Caribbean
+Jamaica,2008,23.6,Latin America and the Caribbean
+Jamaica,2009,24.3,Latin America and the Caribbean
+Jamaica,2010,27.7,Latin America and the Caribbean
+Jamaica,2011,37.4,Latin America and the Caribbean
+Jamaica,2012,33.8,Latin America and the Caribbean
+Jamaica,2013,37.1,Latin America and the Caribbean
+Jamaica,2014,40.4,Latin America and the Caribbean
+Jamaica,2015,42.2,Latin America and the Caribbean
+Jamaica,2016,44.4,Latin America and the Caribbean
+Jamaica,2017,55.1,Latin America and the Caribbean
+Jamaica,2018,68.2,Latin America and the Caribbean
+Jamaica,2019,70.8,Latin America and the Caribbean
+Jamaica,2020,79.4,Latin America and the Caribbean
+Jordan,2000,2.62,Western Asia
+Jordan,2001,4.71,Western Asia
+Jordan,2002,6.03,Western Asia
+Jordan,2003,8.47,Western Asia
+Jordan,2004,11.7,Western Asia
+Jordan,2005,12.9,Western Asia
+Jordan,2006,13.9,Western Asia
+Jordan,2007,20,Western Asia
+Jordan,2008,23,Western Asia
+Jordan,2009,26,Western Asia
+Jordan,2010,27.2,Western Asia
+Jordan,2011,34.9,Western Asia
+Jordan,2012,37,Western Asia
+Jordan,2013,41.4,Western Asia
+Jordan,2014,46.2,Western Asia
+Jordan,2015,54.2,Western Asia
+Jordan,2016,56.1,Western Asia
+Jordan,2017,64.5,Western Asia
+Jordan,2018,65.2,Western Asia
+Jordan,2019,70.1,Western Asia
+Jordan,2020,75.4,Western Asia
+Japan,2000,30,Eastern Asia
+Japan,2001,38.5,Eastern Asia
+Japan,2002,46.6,Eastern Asia
+Japan,2003,48.4,Eastern Asia
+Japan,2004,62.4,Eastern Asia
+Japan,2005,66.9,Eastern Asia
+Japan,2006,68.7,Eastern Asia
+Japan,2007,74.3,Eastern Asia
+Japan,2008,75.4,Eastern Asia
+Japan,2009,78,Eastern Asia
+Japan,2010,78.2,Eastern Asia
+Japan,2011,79.1,Eastern Asia
+Japan,2012,79.5,Eastern Asia
+Japan,2013,88.2,Eastern Asia
+Japan,2014,89.1,Eastern Asia
+Japan,2015,91.1,Eastern Asia
+Japan,2016,93.2,Eastern Asia
+Japan,2017,91.7,Eastern Asia
+Japan,2018,88.7,Eastern Asia
+Japan,2019,92.7,Eastern Asia
+Japan,2020,90.2,Eastern Asia
+Kazakhstan,2000,0.669,Central Asia
+Kazakhstan,2001,1.01,Central Asia
+Kazakhstan,2002,1.67,Central Asia
+Kazakhstan,2003,2,Central Asia
+Kazakhstan,2004,2.65,Central Asia
+Kazakhstan,2005,2.96,Central Asia
+Kazakhstan,2006,3.27,Central Asia
+Kazakhstan,2007,4.02,Central Asia
+Kazakhstan,2008,11,Central Asia
+Kazakhstan,2009,18.2,Central Asia
+Kazakhstan,2010,31.6,Central Asia
+Kazakhstan,2011,50.6,Central Asia
+Kazakhstan,2012,61.9,Central Asia
+Kazakhstan,2013,63.3,Central Asia
+Kazakhstan,2014,66,Central Asia
+Kazakhstan,2015,70.8,Central Asia
+Kazakhstan,2016,74.6,Central Asia
+Kazakhstan,2017,76.4,Central Asia
+Kazakhstan,2018,78.9,Central Asia
+Kazakhstan,2019,81.9,Central Asia
+Kazakhstan,2020,85.9,Central Asia
+Kenya,2000,0.318,Sub-Saharan Africa
+Kenya,2001,0.62,Sub-Saharan Africa
+Kenya,2002,1.21,Sub-Saharan Africa
+Kenya,2003,2.94,Sub-Saharan Africa
+Kenya,2004,3.02,Sub-Saharan Africa
+Kenya,2005,3.1,Sub-Saharan Africa
+Kenya,2006,3.6,Sub-Saharan Africa
+Kenya,2007,4.4,Sub-Saharan Africa
+Kenya,2008,5.2,Sub-Saharan Africa
+Kenya,2009,6.1,Sub-Saharan Africa
+Kenya,2010,7.2,Sub-Saharan Africa
+Kenya,2011,8.8,Sub-Saharan Africa
+Kenya,2012,10.5,Sub-Saharan Africa
+Kenya,2013,13,Sub-Saharan Africa
+Kenya,2014,16.5,Sub-Saharan Africa
+Kenya,2015,16.6,Sub-Saharan Africa
+Kenya,2016,16.6,Sub-Saharan Africa
+Kenya,2017,17.8,Sub-Saharan Africa
+Kenya,2018,19.5,Sub-Saharan Africa
+Kenya,2019,22.7,Sub-Saharan Africa
+Kenya,2020,25.5,Sub-Saharan Africa
+Kyrgyz Republic,2000,1.04,Central Asia
+Kyrgyz Republic,2001,3,Central Asia
+Kyrgyz Republic,2002,3,Central Asia
+Kyrgyz Republic,2003,3.91,Central Asia
+Kyrgyz Republic,2004,5.09,Central Asia
+Kyrgyz Republic,2005,10.5,Central Asia
+Kyrgyz Republic,2006,12.3,Central Asia
+Kyrgyz Republic,2007,14,Central Asia
+Kyrgyz Republic,2008,15.7,Central Asia
+Kyrgyz Republic,2009,16,Central Asia
+Kyrgyz Republic,2010,16.3,Central Asia
+Kyrgyz Republic,2011,17.5,Central Asia
+Kyrgyz Republic,2012,19.8,Central Asia
+Kyrgyz Republic,2013,23,Central Asia
+Kyrgyz Republic,2014,28.3,Central Asia
+Kyrgyz Republic,2015,30.2,Central Asia
+Kyrgyz Republic,2016,40.5,Central Asia
+Kyrgyz Republic,2017,50.8,Central Asia
+Kyrgyz Republic,2018,57.1,Central Asia
+Kyrgyz Republic,2019,64.1,Central Asia
+Kyrgyz Republic,2020,72,Central Asia
+Cambodia,2000,0.047,South-eastern Asia
+Cambodia,2001,0.077,South-eastern Asia
+Cambodia,2002,0.227,South-eastern Asia
+Cambodia,2003,0.261,South-eastern Asia
+Cambodia,2004,0.3,South-eastern Asia
+Cambodia,2005,0.317,South-eastern Asia
+Cambodia,2006,0.468,South-eastern Asia
+Cambodia,2007,0.49,South-eastern Asia
+Cambodia,2008,0.51,South-eastern Asia
+Cambodia,2009,0.53,South-eastern Asia
+Cambodia,2010,1.26,South-eastern Asia
+Cambodia,2011,3.1,South-eastern Asia
+Cambodia,2012,4.94,South-eastern Asia
+Cambodia,2013,6,South-eastern Asia
+Cambodia,2014,14,South-eastern Asia
+Cambodia,2015,18,South-eastern Asia
+Cambodia,2016,32.4,South-eastern Asia
+Cambodia,2017,32.9,South-eastern Asia
+Cambodia,2018,NA,South-eastern Asia
+Cambodia,2019,52.3,South-eastern Asia
+Cambodia,2020,53.7,South-eastern Asia
+Kiribati,2000,1.79,Micronesia
+Kiribati,2001,2.34,Micronesia
+Kiribati,2002,2.5,Micronesia
+Kiribati,2003,3,Micronesia
+Kiribati,2004,3.5,Micronesia
+Kiribati,2005,4,Micronesia
+Kiribati,2006,4.5,Micronesia
+Kiribati,2007,6,Micronesia
+Kiribati,2008,7,Micronesia
+Kiribati,2009,8.97,Micronesia
+Kiribati,2010,9.07,Micronesia
+Kiribati,2011,10,Micronesia
+Kiribati,2012,10.7,Micronesia
+Kiribati,2013,11.5,Micronesia
+Kiribati,2014,12.3,Micronesia
+Kiribati,2015,14.9,Micronesia
+Kiribati,2016,19.4,Micronesia
+Kiribati,2017,25.3,Micronesia
+Kiribati,2018,33,Micronesia
+Kiribati,2019,43,Micronesia
+Kiribati,2020,45.1,Micronesia
+St. Kitts and Nevis,2000,5.86,Latin America and the Caribbean
+St. Kitts and Nevis,2001,7.71,Latin America and the Caribbean
+St. Kitts and Nevis,2002,21.2,Latin America and the Caribbean
+St. Kitts and Nevis,2003,23,Latin America and the Caribbean
+St. Kitts and Nevis,2004,24.7,Latin America and the Caribbean
+St. Kitts and Nevis,2005,34,Latin America and the Caribbean
+St. Kitts and Nevis,2006,38.5,Latin America and the Caribbean
+St. Kitts and Nevis,2007,43.5,Latin America and the Caribbean
+St. Kitts and Nevis,2008,49.2,Latin America and the Caribbean
+St. Kitts and Nevis,2009,55.7,Latin America and the Caribbean
+St. Kitts and Nevis,2010,63,Latin America and the Caribbean
+St. Kitts and Nevis,2011,63.2,Latin America and the Caribbean
+St. Kitts and Nevis,2012,64,Latin America and the Caribbean
+St. Kitts and Nevis,2013,64.6,Latin America and the Caribbean
+St. Kitts and Nevis,2014,68,Latin America and the Caribbean
+St. Kitts and Nevis,2015,75.7,Latin America and the Caribbean
+St. Kitts and Nevis,2016,76.8,Latin America and the Caribbean
+St. Kitts and Nevis,2017,80.7,Latin America and the Caribbean
+St. Kitts and Nevis,2018,NA,Latin America and the Caribbean
+St. Kitts and Nevis,2019,79.8,Latin America and the Caribbean
+St. Kitts and Nevis,2020,80.4,Latin America and the Caribbean
+South Korea,2000,44.7,Eastern Asia
+South Korea,2001,56.6,Eastern Asia
+South Korea,2002,59.4,Eastern Asia
+South Korea,2003,65.5,Eastern Asia
+South Korea,2004,72.7,Eastern Asia
+South Korea,2005,73.5,Eastern Asia
+South Korea,2006,78.1,Eastern Asia
+South Korea,2007,78.8,Eastern Asia
+South Korea,2008,81,Eastern Asia
+South Korea,2009,81.6,Eastern Asia
+South Korea,2010,83.7,Eastern Asia
+South Korea,2011,83.8,Eastern Asia
+South Korea,2012,84.1,Eastern Asia
+South Korea,2013,84.8,Eastern Asia
+South Korea,2014,87.6,Eastern Asia
+South Korea,2015,89.9,Eastern Asia
+South Korea,2016,92.8,Eastern Asia
+South Korea,2017,95.1,Eastern Asia
+South Korea,2018,96,Eastern Asia
+South Korea,2019,96.2,Eastern Asia
+South Korea,2020,96.5,Eastern Asia
+Kosovo,2000,NA,Southern Europe
+Kosovo,2001,NA,Southern Europe
+Kosovo,2002,NA,Southern Europe
+Kosovo,2003,NA,Southern Europe
+Kosovo,2004,NA,Southern Europe
+Kosovo,2005,NA,Southern Europe
+Kosovo,2006,NA,Southern Europe
+Kosovo,2007,NA,Southern Europe
+Kosovo,2008,NA,Southern Europe
+Kosovo,2009,NA,Southern Europe
+Kosovo,2010,NA,Southern Europe
+Kosovo,2011,NA,Southern Europe
+Kosovo,2012,NA,Southern Europe
+Kosovo,2013,NA,Southern Europe
+Kosovo,2014,NA,Southern Europe
+Kosovo,2015,NA,Southern Europe
+Kosovo,2016,NA,Southern Europe
+Kosovo,2017,83.9,Southern Europe
+Kosovo,2018,89.4,Southern Europe
+Kosovo,2019,NA,Southern Europe
+Kosovo,2020,NA,Southern Europe
+Kuwait,2000,6.73,Western Asia
+Kuwait,2001,8.55,Western Asia
+Kuwait,2002,10.2,Western Asia
+Kuwait,2003,22.4,Western Asia
+Kuwait,2004,22.9,Western Asia
+Kuwait,2005,25.9,Western Asia
+Kuwait,2006,28.8,Western Asia
+Kuwait,2007,34.8,Western Asia
+Kuwait,2008,42,Western Asia
+Kuwait,2009,50.8,Western Asia
+Kuwait,2010,61.4,Western Asia
+Kuwait,2011,65.8,Western Asia
+Kuwait,2012,70.5,Western Asia
+Kuwait,2013,75.5,Western Asia
+Kuwait,2014,78.7,Western Asia
+Kuwait,2015,82,Western Asia
+Kuwait,2016,85.6,Western Asia
+Kuwait,2017,98,Western Asia
+Kuwait,2018,99.6,Western Asia
+Kuwait,2019,99.5,Western Asia
+Kuwait,2020,99.1,Western Asia
+Lao,2000,0.111,South-eastern Asia
+Lao,2001,0.182,South-eastern Asia
+Lao,2002,0.268,South-eastern Asia
+Lao,2003,0.334,South-eastern Asia
+Lao,2004,0.361,South-eastern Asia
+Lao,2005,0.85,South-eastern Asia
+Lao,2006,1.17,South-eastern Asia
+Lao,2007,1.64,South-eastern Asia
+Lao,2008,3.55,South-eastern Asia
+Lao,2009,6,South-eastern Asia
+Lao,2010,7,South-eastern Asia
+Lao,2011,9,South-eastern Asia
+Lao,2012,10.7,South-eastern Asia
+Lao,2013,12.5,South-eastern Asia
+Lao,2014,14.3,South-eastern Asia
+Lao,2015,18.2,South-eastern Asia
+Lao,2016,21.9,South-eastern Asia
+Lao,2017,25.5,South-eastern Asia
+Lao,2018,36.3,South-eastern Asia
+Lao,2019,47,South-eastern Asia
+Lao,2020,54,South-eastern Asia
+Lebanon,2000,7.95,Western Asia
+Lebanon,2001,6.78,Western Asia
+Lebanon,2002,7,Western Asia
+Lebanon,2003,8,Western Asia
+Lebanon,2004,9,Western Asia
+Lebanon,2005,10.1,Western Asia
+Lebanon,2006,15,Western Asia
+Lebanon,2007,18.7,Western Asia
+Lebanon,2008,22.5,Western Asia
+Lebanon,2009,30.1,Western Asia
+Lebanon,2010,43.7,Western Asia
+Lebanon,2011,52,Western Asia
+Lebanon,2012,61.2,Western Asia
+Lebanon,2013,70.5,Western Asia
+Lebanon,2014,73,Western Asia
+Lebanon,2015,74,Western Asia
+Lebanon,2016,76.1,Western Asia
+Lebanon,2017,78.2,Western Asia
+Lebanon,2018,80.9,Western Asia
+Lebanon,2019,79.8,Western Asia
+Lebanon,2020,83.1,Western Asia
+Liberia,2000,0.0177,Sub-Saharan Africa
+Liberia,2001,0.0338,Sub-Saharan Africa
+Liberia,2002,0.0327,Sub-Saharan Africa
+Liberia,2003,0.0319,Sub-Saharan Africa
+Liberia,2004,0.031,Sub-Saharan Africa
+Liberia,2005,NA,Sub-Saharan Africa
+Liberia,2006,NA,Sub-Saharan Africa
+Liberia,2007,0.551,Sub-Saharan Africa
+Liberia,2008,0.53,Sub-Saharan Africa
+Liberia,2009,2,Sub-Saharan Africa
+Liberia,2010,2.3,Sub-Saharan Africa
+Liberia,2011,2.5,Sub-Saharan Africa
+Liberia,2012,2.6,Sub-Saharan Africa
+Liberia,2013,3.2,Sub-Saharan Africa
+Liberia,2014,5.41,Sub-Saharan Africa
+Liberia,2015,10,Sub-Saharan Africa
+Liberia,2016,15.7,Sub-Saharan Africa
+Liberia,2017,16.3,Sub-Saharan Africa
+Liberia,2018,18.9,Sub-Saharan Africa
+Liberia,2019,23.5,Sub-Saharan Africa
+Liberia,2020,28,Sub-Saharan Africa
+Libya,2000,0.187,Northern Africa
+Libya,2001,0.367,Northern Africa
+Libya,2002,2.24,Northern Africa
+Libya,2003,2.81,Northern Africa
+Libya,2004,3.53,Northern Africa
+Libya,2005,3.92,Northern Africa
+Libya,2006,4.3,Northern Africa
+Libya,2007,4.72,Northern Africa
+Libya,2008,9,Northern Africa
+Libya,2009,10.8,Northern Africa
+Libya,2010,14,Northern Africa
+Libya,2011,14,Northern Africa
+Libya,2012,15.2,Northern Africa
+Libya,2013,16.5,Northern Africa
+Libya,2014,17.8,Northern Africa
+Libya,2015,NA,Northern Africa
+Libya,2016,NA,Northern Africa
+Libya,2017,NA,Northern Africa
+Libya,2018,NA,Northern Africa
+Libya,2019,NA,Northern Africa
+Libya,2020,NA,Northern Africa
+St. Lucia,2000,5.09,Latin America and the Caribbean
+St. Lucia,2001,8.18,Latin America and the Caribbean
+St. Lucia,2002,14.6,Latin America and the Caribbean
+St. Lucia,2003,21,Latin America and the Caribbean
+St. Lucia,2004,21.4,Latin America and the Caribbean
+St. Lucia,2005,21.6,Latin America and the Caribbean
+St. Lucia,2006,24.5,Latin America and the Caribbean
+St. Lucia,2007,27.9,Latin America and the Caribbean
+St. Lucia,2008,30,Latin America and the Caribbean
+St. Lucia,2009,31,Latin America and the Caribbean
+St. Lucia,2010,32.5,Latin America and the Caribbean
+St. Lucia,2011,34,Latin America and the Caribbean
+St. Lucia,2012,45.9,Latin America and the Caribbean
+St. Lucia,2013,49.4,Latin America and the Caribbean
+St. Lucia,2014,53.2,Latin America and the Caribbean
+St. Lucia,2015,57.3,Latin America and the Caribbean
+St. Lucia,2016,61.7,Latin America and the Caribbean
+St. Lucia,2017,66.4,Latin America and the Caribbean
+St. Lucia,2018,71.5,Latin America and the Caribbean
+St. Lucia,2019,77,Latin America and the Caribbean
+St. Lucia,2020,77.5,Latin America and the Caribbean
+Liechtenstein,2000,36.5,Western Europe
+Liechtenstein,2001,45.1,Western Europe
+Liechtenstein,2002,59.5,Western Europe
+Liechtenstein,2003,58.8,Western Europe
+Liechtenstein,2004,64,Western Europe
+Liechtenstein,2005,63.4,Western Europe
+Liechtenstein,2006,64.2,Western Europe
+Liechtenstein,2007,65.1,Western Europe
+Liechtenstein,2008,70,Western Europe
+Liechtenstein,2009,75,Western Europe
+Liechtenstein,2010,80,Western Europe
+Liechtenstein,2011,85,Western Europe
+Liechtenstein,2012,89.4,Western Europe
+Liechtenstein,2013,93.8,Western Europe
+Liechtenstein,2014,95.2,Western Europe
+Liechtenstein,2015,96.6,Western Europe
+Liechtenstein,2016,98.1,Western Europe
+Liechtenstein,2017,99.5,Western Europe
+Liechtenstein,2018,NA,Western Europe
+Liechtenstein,2019,93.1,Western Europe
+Liechtenstein,2020,94.3,Western Europe
+Sri Lanka,2000,0.647,Southern Asia
+Sri Lanka,2001,0.794,Southern Asia
+Sri Lanka,2002,1.05,Southern Asia
+Sri Lanka,2003,1.46,Southern Asia
+Sri Lanka,2004,1.45,Southern Asia
+Sri Lanka,2005,1.79,Southern Asia
+Sri Lanka,2006,2.54,Southern Asia
+Sri Lanka,2007,3.88,Southern Asia
+Sri Lanka,2008,NA,Southern Asia
+Sri Lanka,2009,NA,Southern Asia
+Sri Lanka,2010,NA,Southern Asia
+Sri Lanka,2011,NA,Southern Asia
+Sri Lanka,2012,NA,Southern Asia
+Sri Lanka,2013,NA,Southern Asia
+Sri Lanka,2014,10.5,Southern Asia
+Sri Lanka,2015,15.3,Southern Asia
+Sri Lanka,2016,22.2,Southern Asia
+Sri Lanka,2017,32.3,Southern Asia
+Sri Lanka,2018,46.9,Southern Asia
+Sri Lanka,2019,50.7,Southern Asia
+Sri Lanka,2020,36.2,Southern Asia
+Lesotho,2000,0.212,Sub-Saharan Africa
+Lesotho,2001,0.261,Sub-Saharan Africa
+Lesotho,2002,1.08,Sub-Saharan Africa
+Lesotho,2003,1.53,Sub-Saharan Africa
+Lesotho,2004,2.18,Sub-Saharan Africa
+Lesotho,2005,2.58,Sub-Saharan Africa
+Lesotho,2006,2.98,Sub-Saharan Africa
+Lesotho,2007,3.45,Sub-Saharan Africa
+Lesotho,2008,3.58,Sub-Saharan Africa
+Lesotho,2009,3.72,Sub-Saharan Africa
+Lesotho,2010,3.86,Sub-Saharan Africa
+Lesotho,2011,7,Sub-Saharan Africa
+Lesotho,2012,10,Sub-Saharan Africa
+Lesotho,2013,15,Sub-Saharan Africa
+Lesotho,2014,22,Sub-Saharan Africa
+Lesotho,2015,25,Sub-Saharan Africa
+Lesotho,2016,32.5,Sub-Saharan Africa
+Lesotho,2017,39,Sub-Saharan Africa
+Lesotho,2018,40.8,Sub-Saharan Africa
+Lesotho,2019,42.3,Sub-Saharan Africa
+Lesotho,2020,42.9,Sub-Saharan Africa
+Lithuania,2000,6.43,Northern Europe
+Lithuania,2001,7.18,Northern Europe
+Lithuania,2002,17.7,Northern Europe
+Lithuania,2003,25.9,Northern Europe
+Lithuania,2004,31.2,Northern Europe
+Lithuania,2005,36.2,Northern Europe
+Lithuania,2006,43.9,Northern Europe
+Lithuania,2007,49.9,Northern Europe
+Lithuania,2008,55.2,Northern Europe
+Lithuania,2009,59.8,Northern Europe
+Lithuania,2010,62.1,Northern Europe
+Lithuania,2011,63.6,Northern Europe
+Lithuania,2012,67.2,Northern Europe
+Lithuania,2013,68.5,Northern Europe
+Lithuania,2014,72.1,Northern Europe
+Lithuania,2015,71.4,Northern Europe
+Lithuania,2016,74.4,Northern Europe
+Lithuania,2017,77.6,Northern Europe
+Lithuania,2018,79.7,Northern Europe
+Lithuania,2019,81.6,Northern Europe
+Lithuania,2020,83.1,Northern Europe
+Luxembourg,2000,22.9,Western Europe
+Luxembourg,2001,36.2,Western Europe
+Luxembourg,2002,39.8,Western Europe
+Luxembourg,2003,54.5,Western Europe
+Luxembourg,2004,65.9,Western Europe
+Luxembourg,2005,70,Western Europe
+Luxembourg,2006,72.5,Western Europe
+Luxembourg,2007,78.9,Western Europe
+Luxembourg,2008,82.2,Western Europe
+Luxembourg,2009,87.3,Western Europe
+Luxembourg,2010,90.6,Western Europe
+Luxembourg,2011,90,Western Europe
+Luxembourg,2012,91.9,Western Europe
+Luxembourg,2013,93.8,Western Europe
+Luxembourg,2014,94.7,Western Europe
+Luxembourg,2015,96.4,Western Europe
+Luxembourg,2016,98.1,Western Europe
+Luxembourg,2017,97.4,Western Europe
+Luxembourg,2018,97.1,Western Europe
+Luxembourg,2019,97.1,Western Europe
+Luxembourg,2020,98.5,Western Europe
+Latvia,2000,6.32,Northern Europe
+Latvia,2001,7.22,Northern Europe
+Latvia,2002,21.9,Northern Europe
+Latvia,2003,27,Northern Europe
+Latvia,2004,38.6,Northern Europe
+Latvia,2005,46,Northern Europe
+Latvia,2006,53.6,Northern Europe
+Latvia,2007,59.2,Northern Europe
+Latvia,2008,63.4,Northern Europe
+Latvia,2009,66.8,Northern Europe
+Latvia,2010,68.4,Northern Europe
+Latvia,2011,69.7,Northern Europe
+Latvia,2012,73.1,Northern Europe
+Latvia,2013,75.2,Northern Europe
+Latvia,2014,75.8,Northern Europe
+Latvia,2015,79.2,Northern Europe
+Latvia,2016,79.8,Northern Europe
+Latvia,2017,80.1,Northern Europe
+Latvia,2018,83.6,Northern Europe
+Latvia,2019,86.1,Northern Europe
+Latvia,2020,88.9,Northern Europe
+"Macao, China",2000,13.6,Eastern Asia
+"Macao, China",2001,22.5,Eastern Asia
+"Macao, China",2002,25.2,Eastern Asia
+"Macao, China",2003,25.7,Eastern Asia
+"Macao, China",2004,31.5,Eastern Asia
+"Macao, China",2005,34.9,Eastern Asia
+"Macao, China",2006,46.4,Eastern Asia
+"Macao, China",2007,47.3,Eastern Asia
+"Macao, China",2008,49.2,Eastern Asia
+"Macao, China",2009,54,Eastern Asia
+"Macao, China",2010,55.2,Eastern Asia
+"Macao, China",2011,60.2,Eastern Asia
+"Macao, China",2012,61.3,Eastern Asia
+"Macao, China",2013,65.8,Eastern Asia
+"Macao, China",2014,69.8,Eastern Asia
+"Macao, China",2015,77.6,Eastern Asia
+"Macao, China",2016,81.6,Eastern Asia
+"Macao, China",2017,83.2,Eastern Asia
+"Macao, China",2018,83.8,Eastern Asia
+"Macao, China",2019,86.5,Eastern Asia
+"Macao, China",2020,88.3,Eastern Asia
+Morocco,2000,0.694,Northern Africa
+Morocco,2001,1.37,Northern Africa
+Morocco,2002,2.37,Northern Africa
+Morocco,2003,3.35,Northern Africa
+Morocco,2004,11.6,Northern Africa
+Morocco,2005,15.1,Northern Africa
+Morocco,2006,19.8,Northern Africa
+Morocco,2007,21.5,Northern Africa
+Morocco,2008,33.1,Northern Africa
+Morocco,2009,41.3,Northern Africa
+Morocco,2010,52,Northern Africa
+Morocco,2011,46.1,Northern Africa
+Morocco,2012,55.4,Northern Africa
+Morocco,2013,56,Northern Africa
+Morocco,2014,56.8,Northern Africa
+Morocco,2015,57.1,Northern Africa
+Morocco,2016,58.3,Northern Africa
+Morocco,2017,61.8,Northern Africa
+Morocco,2018,64.8,Northern Africa
+Morocco,2019,84.1,Northern Africa
+Morocco,2020,84.1,Northern Africa
+Monaco,2000,42.2,Western Europe
+Monaco,2001,46.6,Western Europe
+Monaco,2002,48,Western Europe
+Monaco,2003,49.5,Western Europe
+Monaco,2004,52.5,Western Europe
+Monaco,2005,55.5,Western Europe
+Monaco,2006,61.5,Western Europe
+Monaco,2007,64.4,Western Europe
+Monaco,2008,67.3,Western Europe
+Monaco,2009,70.1,Western Europe
+Monaco,2010,75,Western Europe
+Monaco,2011,80.3,Western Europe
+Monaco,2012,87,Western Europe
+Monaco,2013,90.7,Western Europe
+Monaco,2014,92.4,Western Europe
+Monaco,2015,93.4,Western Europe
+Monaco,2016,95.2,Western Europe
+Monaco,2017,97.1,Western Europe
+Monaco,2018,NA,Western Europe
+Monaco,2019,83.3,Western Europe
+Monaco,2020,84.7,Western Europe
+Moldova,2000,1.28,Eastern Europe
+Moldova,2001,1.49,Eastern Europe
+Moldova,2002,3.79,Eastern Europe
+Moldova,2003,7.41,Eastern Europe
+Moldova,2004,10.6,Eastern Europe
+Moldova,2005,14.6,Eastern Europe
+Moldova,2006,19.6,Eastern Europe
+Moldova,2007,20.4,Eastern Europe
+Moldova,2008,23.4,Eastern Europe
+Moldova,2009,27.5,Eastern Europe
+Moldova,2010,29.7,Eastern Europe
+Moldova,2011,32.1,Eastern Europe
+Moldova,2012,34.6,Eastern Europe
+Moldova,2013,37.4,Eastern Europe
+Moldova,2014,40.5,Eastern Europe
+Moldova,2015,43.1,Eastern Europe
+Moldova,2016,46.7,Eastern Europe
+Moldova,2017,49.9,Eastern Europe
+Moldova,2018,50.3,Eastern Europe
+Moldova,2019,57.8,Eastern Europe
+Moldova,2020,59.2,Eastern Europe
+Madagascar,2000,0.196,Sub-Saharan Africa
+Madagascar,2001,0.223,Sub-Saharan Africa
+Madagascar,2002,0.34,Sub-Saharan Africa
+Madagascar,2003,0.423,Sub-Saharan Africa
+Madagascar,2004,0.525,Sub-Saharan Africa
+Madagascar,2005,0.568,Sub-Saharan Africa
+Madagascar,2006,0.608,Sub-Saharan Africa
+Madagascar,2007,0.65,Sub-Saharan Africa
+Madagascar,2008,1.65,Sub-Saharan Africa
+Madagascar,2009,1.63,Sub-Saharan Africa
+Madagascar,2010,1.7,Sub-Saharan Africa
+Madagascar,2011,1.9,Sub-Saharan Africa
+Madagascar,2012,2.3,Sub-Saharan Africa
+Madagascar,2013,3,Sub-Saharan Africa
+Madagascar,2014,3.7,Sub-Saharan Africa
+Madagascar,2015,4.17,Sub-Saharan Africa
+Madagascar,2016,4.71,Sub-Saharan Africa
+Madagascar,2017,6.4,Sub-Saharan Africa
+Madagascar,2018,8.7,Sub-Saharan Africa
+Madagascar,2019,11.8,Sub-Saharan Africa
+Madagascar,2020,13.7,Sub-Saharan Africa
+Maldives,2000,2.2,Southern Asia
+Maldives,2001,3.62,Southern Asia
+Maldives,2002,5.35,Southern Asia
+Maldives,2003,5.98,Southern Asia
+Maldives,2004,6.59,Southern Asia
+Maldives,2005,6.87,Southern Asia
+Maldives,2006,11,Southern Asia
+Maldives,2007,16.3,Southern Asia
+Maldives,2008,23.2,Southern Asia
+Maldives,2009,24.8,Southern Asia
+Maldives,2010,26.5,Southern Asia
+Maldives,2011,34,Southern Asia
+Maldives,2012,38.9,Southern Asia
+Maldives,2013,44.1,Southern Asia
+Maldives,2014,49.3,Southern Asia
+Maldives,2015,54.5,Southern Asia
+Maldives,2016,59.5,Southern Asia
+Maldives,2017,65,Southern Asia
+Maldives,2018,70.9,Southern Asia
+Maldives,2019,77.5,Southern Asia
+Maldives,2020,77.6,Southern Asia
+Mexico,2000,5.08,Latin America and the Caribbean
+Mexico,2001,7.04,Latin America and the Caribbean
+Mexico,2002,11.9,Latin America and the Caribbean
+Mexico,2003,12.9,Latin America and the Caribbean
+Mexico,2004,14.1,Latin America and the Caribbean
+Mexico,2005,17.2,Latin America and the Caribbean
+Mexico,2006,19.5,Latin America and the Caribbean
+Mexico,2007,20.8,Latin America and the Caribbean
+Mexico,2008,21.7,Latin America and the Caribbean
+Mexico,2009,26.3,Latin America and the Caribbean
+Mexico,2010,31.1,Latin America and the Caribbean
+Mexico,2011,37.2,Latin America and the Caribbean
+Mexico,2012,39.8,Latin America and the Caribbean
+Mexico,2013,43.5,Latin America and the Caribbean
+Mexico,2014,44.4,Latin America and the Caribbean
+Mexico,2015,57.4,Latin America and the Caribbean
+Mexico,2016,59.5,Latin America and the Caribbean
+Mexico,2017,53,Latin America and the Caribbean
+Mexico,2018,56.7,Latin America and the Caribbean
+Mexico,2019,69.6,Latin America and the Caribbean
+Mexico,2020,71.5,Latin America and the Caribbean
+Marshall Islands,2000,1.53,Micronesia
+Marshall Islands,2001,1.71,Micronesia
+Marshall Islands,2002,2.34,Micronesia
+Marshall Islands,2003,2.57,Micronesia
+Marshall Islands,2004,3.6,Micronesia
+Marshall Islands,2005,3.88,Micronesia
+Marshall Islands,2006,3.8,Micronesia
+Marshall Islands,2007,3.95,Micronesia
+Marshall Islands,2008,4.6,Micronesia
+Marshall Islands,2009,5.6,Micronesia
+Marshall Islands,2010,7,Micronesia
+Marshall Islands,2011,10,Micronesia
+Marshall Islands,2012,12.5,Micronesia
+Marshall Islands,2013,14,Micronesia
+Marshall Islands,2014,16.8,Micronesia
+Marshall Islands,2015,19.3,Micronesia
+Marshall Islands,2016,29.8,Micronesia
+Marshall Islands,2017,38.7,Micronesia
+Marshall Islands,2018,NA,Micronesia
+Marshall Islands,2019,NA,Micronesia
+Marshall Islands,2020,NA,Micronesia
+North Macedonia,2000,2.49,Southern Europe
+North Macedonia,2001,3.47,Southern Europe
+North Macedonia,2002,17.3,Southern Europe
+North Macedonia,2003,19.1,Southern Europe
+North Macedonia,2004,24.4,Southern Europe
+North Macedonia,2005,26.4,Southern Europe
+North Macedonia,2006,28.6,Southern Europe
+North Macedonia,2007,36.3,Southern Europe
+North Macedonia,2008,46,Southern Europe
+North Macedonia,2009,51.8,Southern Europe
+North Macedonia,2010,51.9,Southern Europe
+North Macedonia,2011,56.7,Southern Europe
+North Macedonia,2012,57.4,Southern Europe
+North Macedonia,2013,65.2,Southern Europe
+North Macedonia,2014,68.1,Southern Europe
+North Macedonia,2015,70.4,Southern Europe
+North Macedonia,2016,72.2,Southern Europe
+North Macedonia,2017,74.5,Southern Europe
+North Macedonia,2018,79.2,Southern Europe
+North Macedonia,2019,81.4,Southern Europe
+North Macedonia,2020,81.4,Southern Europe
+Mali,2000,0.143,Sub-Saharan Africa
+Mali,2001,0.186,Sub-Saharan Africa
+Mali,2002,0.227,Sub-Saharan Africa
+Mali,2003,0.31,Sub-Saharan Africa
+Mali,2004,0.433,Sub-Saharan Africa
+Mali,2005,0.507,Sub-Saharan Africa
+Mali,2006,0.73,Sub-Saharan Africa
+Mali,2007,0.81,Sub-Saharan Africa
+Mali,2008,1.57,Sub-Saharan Africa
+Mali,2009,1.8,Sub-Saharan Africa
+Mali,2010,2,Sub-Saharan Africa
+Mali,2011,2.2,Sub-Saharan Africa
+Mali,2012,2.8,Sub-Saharan Africa
+Mali,2013,3.5,Sub-Saharan Africa
+Mali,2014,7,Sub-Saharan Africa
+Mali,2015,10.3,Sub-Saharan Africa
+Mali,2016,14,Sub-Saharan Africa
+Mali,2017,18.9,Sub-Saharan Africa
+Mali,2018,21.4,Sub-Saharan Africa
+Mali,2019,22.3,Sub-Saharan Africa
+Mali,2020,27.9,Sub-Saharan Africa
+Malta,2000,13.1,Southern Europe
+Malta,2001,17.9,Southern Europe
+Malta,2002,28.9,Southern Europe
+Malta,2003,31.6,Southern Europe
+Malta,2004,34.6,Southern Europe
+Malta,2005,41.2,Southern Europe
+Malta,2006,40.4,Southern Europe
+Malta,2007,46.9,Southern Europe
+Malta,2008,50.1,Southern Europe
+Malta,2009,58.9,Southern Europe
+Malta,2010,63,Southern Europe
+Malta,2011,68,Southern Europe
+Malta,2012,68.2,Southern Europe
+Malta,2013,68.9,Southern Europe
+Malta,2014,73.2,Southern Europe
+Malta,2015,76,Southern Europe
+Malta,2016,78.1,Southern Europe
+Malta,2017,81,Southern Europe
+Malta,2018,81.7,Southern Europe
+Malta,2019,85.8,Southern Europe
+Malta,2020,86.9,Southern Europe
+Myanmar,2000,NA,South-eastern Asia
+Myanmar,2001,2.9e-4,South-eastern Asia
+Myanmar,2002,4.3e-4,South-eastern Asia
+Myanmar,2003,0.0241,South-eastern Asia
+Myanmar,2004,0.0243,South-eastern Asia
+Myanmar,2005,0.0652,South-eastern Asia
+Myanmar,2006,0.182,South-eastern Asia
+Myanmar,2007,0.217,South-eastern Asia
+Myanmar,2008,0.22,South-eastern Asia
+Myanmar,2009,0.22,South-eastern Asia
+Myanmar,2010,0.25,South-eastern Asia
+Myanmar,2011,0.98,South-eastern Asia
+Myanmar,2012,1.4,South-eastern Asia
+Myanmar,2013,1.8,South-eastern Asia
+Myanmar,2014,7.4,South-eastern Asia
+Myanmar,2015,10.9,South-eastern Asia
+Myanmar,2016,16,South-eastern Asia
+Myanmar,2017,23.6,South-eastern Asia
+Myanmar,2018,28.7,South-eastern Asia
+Myanmar,2019,30.6,South-eastern Asia
+Myanmar,2020,42,South-eastern Asia
+Montenegro,2000,NA,Southern Europe
+Montenegro,2001,NA,Southern Europe
+Montenegro,2002,NA,Southern Europe
+Montenegro,2003,NA,Southern Europe
+Montenegro,2004,25.4,Southern Europe
+Montenegro,2005,27.1,Southern Europe
+Montenegro,2006,28.9,Southern Europe
+Montenegro,2007,30.8,Southern Europe
+Montenegro,2008,32.9,Southern Europe
+Montenegro,2009,35.1,Southern Europe
+Montenegro,2010,37.5,Southern Europe
+Montenegro,2011,35.6,Southern Europe
+Montenegro,2012,56.8,Southern Europe
+Montenegro,2013,60.3,Southern Europe
+Montenegro,2014,61,Southern Europe
+Montenegro,2015,68.1,Southern Europe
+Montenegro,2016,69.9,Southern Europe
+Montenegro,2017,71.3,Southern Europe
+Montenegro,2018,71.5,Southern Europe
+Montenegro,2019,73.5,Southern Europe
+Montenegro,2020,77.6,Southern Europe
+Mongolia,2000,1.26,Eastern Asia
+Mongolia,2001,1.65,Eastern Asia
+Mongolia,2002,2.04,Eastern Asia
+Mongolia,2003,NA,Eastern Asia
+Mongolia,2004,NA,Eastern Asia
+Mongolia,2005,NA,Eastern Asia
+Mongolia,2006,NA,Eastern Asia
+Mongolia,2007,9,Eastern Asia
+Mongolia,2008,9.8,Eastern Asia
+Mongolia,2009,10,Eastern Asia
+Mongolia,2010,10.2,Eastern Asia
+Mongolia,2011,12.5,Eastern Asia
+Mongolia,2012,16.4,Eastern Asia
+Mongolia,2013,17.7,Eastern Asia
+Mongolia,2014,19.9,Eastern Asia
+Mongolia,2015,22.5,Eastern Asia
+Mongolia,2016,22.3,Eastern Asia
+Mongolia,2017,23.7,Eastern Asia
+Mongolia,2018,47.1,Eastern Asia
+Mongolia,2019,51.1,Eastern Asia
+Mongolia,2020,65.6,Eastern Asia
+Northern Mariana Islands,2000,NA,Micronesia
+Northern Mariana Islands,2001,NA,Micronesia
+Northern Mariana Islands,2002,NA,Micronesia
+Northern Mariana Islands,2003,NA,Micronesia
+Northern Mariana Islands,2004,NA,Micronesia
+Northern Mariana Islands,2005,NA,Micronesia
+Northern Mariana Islands,2006,NA,Micronesia
+Northern Mariana Islands,2007,NA,Micronesia
+Northern Mariana Islands,2008,NA,Micronesia
+Northern Mariana Islands,2009,NA,Micronesia
+Northern Mariana Islands,2010,NA,Micronesia
+Northern Mariana Islands,2011,NA,Micronesia
+Northern Mariana Islands,2012,NA,Micronesia
+Northern Mariana Islands,2013,NA,Micronesia
+Northern Mariana Islands,2014,NA,Micronesia
+Northern Mariana Islands,2015,NA,Micronesia
+Northern Mariana Islands,2016,NA,Micronesia
+Northern Mariana Islands,2017,NA,Micronesia
+Northern Mariana Islands,2018,NA,Micronesia
+Northern Mariana Islands,2019,NA,Micronesia
+Northern Mariana Islands,2020,NA,Micronesia
+Mozambique,2000,0.11,Sub-Saharan Africa
+Mozambique,2001,0.16,Sub-Saharan Africa
+Mozambique,2002,0.26,Sub-Saharan Africa
+Mozambique,2003,0.42,Sub-Saharan Africa
+Mozambique,2004,0.679,Sub-Saharan Africa
+Mozambique,2005,0.854,Sub-Saharan Africa
+Mozambique,2006,0.843,Sub-Saharan Africa
+Mozambique,2007,0.91,Sub-Saharan Africa
+Mozambique,2008,1.56,Sub-Saharan Africa
+Mozambique,2009,2.68,Sub-Saharan Africa
+Mozambique,2010,4.17,Sub-Saharan Africa
+Mozambique,2011,4.6,Sub-Saharan Africa
+Mozambique,2012,5,Sub-Saharan Africa
+Mozambique,2013,5.5,Sub-Saharan Africa
+Mozambique,2014,6,Sub-Saharan Africa
+Mozambique,2015,6.5,Sub-Saharan Africa
+Mozambique,2016,7,Sub-Saharan Africa
+Mozambique,2017,7.8,Sub-Saharan Africa
+Mozambique,2018,10.9,Sub-Saharan Africa
+Mozambique,2019,14.6,Sub-Saharan Africa
+Mozambique,2020,16.3,Sub-Saharan Africa
+Mauritania,2000,0.192,Sub-Saharan Africa
+Mauritania,2001,0.261,Sub-Saharan Africa
+Mauritania,2002,0.363,Sub-Saharan Africa
+Mauritania,2003,0.424,Sub-Saharan Africa
+Mauritania,2004,0.481,Sub-Saharan Africa
+Mauritania,2005,0.67,Sub-Saharan Africa
+Mauritania,2006,0.98,Sub-Saharan Africa
+Mauritania,2007,1.43,Sub-Saharan Africa
+Mauritania,2008,1.87,Sub-Saharan Africa
+Mauritania,2009,2.28,Sub-Saharan Africa
+Mauritania,2010,4,Sub-Saharan Africa
+Mauritania,2011,4.5,Sub-Saharan Africa
+Mauritania,2012,5,Sub-Saharan Africa
+Mauritania,2013,6.2,Sub-Saharan Africa
+Mauritania,2014,11.8,Sub-Saharan Africa
+Mauritania,2015,17.6,Sub-Saharan Africa
+Mauritania,2016,24.1,Sub-Saharan Africa
+Mauritania,2017,24.2,Sub-Saharan Africa
+Mauritania,2018,35.1,Sub-Saharan Africa
+Mauritania,2019,42.3,Sub-Saharan Africa
+Mauritania,2020,53.5,Sub-Saharan Africa
+Mauritius,2000,7.28,Sub-Saharan Africa
+Mauritius,2001,8.78,Sub-Saharan Africa
+Mauritius,2002,10.3,Sub-Saharan Africa
+Mauritius,2003,12.2,Sub-Saharan Africa
+Mauritius,2004,13.7,Sub-Saharan Africa
+Mauritius,2005,15.2,Sub-Saharan Africa
+Mauritius,2006,16.7,Sub-Saharan Africa
+Mauritius,2007,20.2,Sub-Saharan Africa
+Mauritius,2008,21.8,Sub-Saharan Africa
+Mauritius,2009,22.5,Sub-Saharan Africa
+Mauritius,2010,28.3,Sub-Saharan Africa
+Mauritius,2011,35,Sub-Saharan Africa
+Mauritius,2012,35.4,Sub-Saharan Africa
+Mauritius,2013,40.1,Sub-Saharan Africa
+Mauritius,2014,44.8,Sub-Saharan Africa
+Mauritius,2015,50.1,Sub-Saharan Africa
+Mauritius,2016,52.2,Sub-Saharan Africa
+Mauritius,2017,55.4,Sub-Saharan Africa
+Mauritius,2018,58.6,Sub-Saharan Africa
+Mauritius,2019,61.7,Sub-Saharan Africa
+Mauritius,2020,64.9,Sub-Saharan Africa
+Malawi,2000,0.127,Sub-Saharan Africa
+Malawi,2001,0.164,Sub-Saharan Africa
+Malawi,2002,0.215,Sub-Saharan Africa
+Malawi,2003,0.279,Sub-Saharan Africa
+Malawi,2004,0.348,Sub-Saharan Africa
+Malawi,2005,0.384,Sub-Saharan Africa
+Malawi,2006,0.425,Sub-Saharan Africa
+Malawi,2007,0.966,Sub-Saharan Africa
+Malawi,2008,0.7,Sub-Saharan Africa
+Malawi,2009,1.07,Sub-Saharan Africa
+Malawi,2010,2.26,Sub-Saharan Africa
+Malawi,2011,3.33,Sub-Saharan Africa
+Malawi,2012,4.35,Sub-Saharan Africa
+Malawi,2013,5.05,Sub-Saharan Africa
+Malawi,2014,5.83,Sub-Saharan Africa
+Malawi,2015,6,Sub-Saharan Africa
+Malawi,2016,6.3,Sub-Saharan Africa
+Malawi,2017,7,Sub-Saharan Africa
+Malawi,2018,8,Sub-Saharan Africa
+Malawi,2019,13.4,Sub-Saharan Africa
+Malawi,2020,18.9,Sub-Saharan Africa
+Malaysia,2000,21.4,South-eastern Asia
+Malaysia,2001,26.7,South-eastern Asia
+Malaysia,2002,32.3,South-eastern Asia
+Malaysia,2003,35,South-eastern Asia
+Malaysia,2004,42.3,South-eastern Asia
+Malaysia,2005,48.6,South-eastern Asia
+Malaysia,2006,51.6,South-eastern Asia
+Malaysia,2007,55.7,South-eastern Asia
+Malaysia,2008,55.8,South-eastern Asia
+Malaysia,2009,55.9,South-eastern Asia
+Malaysia,2010,56.3,South-eastern Asia
+Malaysia,2011,61,South-eastern Asia
+Malaysia,2012,65.8,South-eastern Asia
+Malaysia,2013,57.1,South-eastern Asia
+Malaysia,2014,63.7,South-eastern Asia
+Malaysia,2015,71.1,South-eastern Asia
+Malaysia,2016,78.8,South-eastern Asia
+Malaysia,2017,80.1,South-eastern Asia
+Malaysia,2018,81.2,South-eastern Asia
+Malaysia,2019,84.2,South-eastern Asia
+Malaysia,2020,89.6,South-eastern Asia
+Namibia,2000,1.64,Sub-Saharan Africa
+Namibia,2001,2.42,Sub-Saharan Africa
+Namibia,2002,2.63,Sub-Saharan Africa
+Namibia,2003,3.36,Sub-Saharan Africa
+Namibia,2004,3.8,Sub-Saharan Africa
+Namibia,2005,4.01,Sub-Saharan Africa
+Namibia,2006,4.4,Sub-Saharan Africa
+Namibia,2007,4.84,Sub-Saharan Africa
+Namibia,2008,5.33,Sub-Saharan Africa
+Namibia,2009,6.5,Sub-Saharan Africa
+Namibia,2010,11.6,Sub-Saharan Africa
+Namibia,2011,12,Sub-Saharan Africa
+Namibia,2012,12.9,Sub-Saharan Africa
+Namibia,2013,13.9,Sub-Saharan Africa
+Namibia,2014,14.8,Sub-Saharan Africa
+Namibia,2015,25.7,Sub-Saharan Africa
+Namibia,2016,31,Sub-Saharan Africa
+Namibia,2017,36.8,Sub-Saharan Africa
+Namibia,2018,40,Sub-Saharan Africa
+Namibia,2019,44.8,Sub-Saharan Africa
+Namibia,2020,48.8,Sub-Saharan Africa
+New Caledonia,2000,13.9,Melanesia
+New Caledonia,2001,18.2,Melanesia
+New Caledonia,2002,22.4,Melanesia
+New Caledonia,2003,26.4,Melanesia
+New Caledonia,2004,30.3,Melanesia
+New Caledonia,2005,32.4,Melanesia
+New Caledonia,2006,33.5,Melanesia
+New Caledonia,2007,35,Melanesia
+New Caledonia,2008,34.5,Melanesia
+New Caledonia,2009,34,Melanesia
+New Caledonia,2010,42,Melanesia
+New Caledonia,2011,50,Melanesia
+New Caledonia,2012,58,Melanesia
+New Caledonia,2013,66,Melanesia
+New Caledonia,2014,70,Melanesia
+New Caledonia,2015,74,Melanesia
+New Caledonia,2016,NA,Melanesia
+New Caledonia,2017,82,Melanesia
+New Caledonia,2018,NA,Melanesia
+New Caledonia,2019,NA,Melanesia
+New Caledonia,2020,NA,Melanesia
+Niger,2000,0.0363,Sub-Saharan Africa
+Niger,2001,0.105,Sub-Saharan Africa
+Niger,2002,0.127,Sub-Saharan Africa
+Niger,2003,0.156,Sub-Saharan Africa
+Niger,2004,0.19,Sub-Saharan Africa
+Niger,2005,0.221,Sub-Saharan Africa
+Niger,2006,0.294,Sub-Saharan Africa
+Niger,2007,0.39,Sub-Saharan Africa
+Niger,2008,0.7,Sub-Saharan Africa
+Niger,2009,0.76,Sub-Saharan Africa
+Niger,2010,0.83,Sub-Saharan Africa
+Niger,2011,0.9,Sub-Saharan Africa
+Niger,2012,1.05,Sub-Saharan Africa
+Niger,2013,1.15,Sub-Saharan Africa
+Niger,2014,1.25,Sub-Saharan Africa
+Niger,2015,2.48,Sub-Saharan Africa
+Niger,2016,4.32,Sub-Saharan Africa
+Niger,2017,10.2,Sub-Saharan Africa
+Niger,2018,NA,Sub-Saharan Africa
+Niger,2019,16.6,Sub-Saharan Africa
+Niger,2020,21.5,Sub-Saharan Africa
+Nigeria,2000,0.0641,Sub-Saharan Africa
+Nigeria,2001,0.0899,Sub-Saharan Africa
+Nigeria,2002,0.32,Sub-Saharan Africa
+Nigeria,2003,0.559,Sub-Saharan Africa
+Nigeria,2004,1.29,Sub-Saharan Africa
+Nigeria,2005,3.55,Sub-Saharan Africa
+Nigeria,2006,5.55,Sub-Saharan Africa
+Nigeria,2007,6.77,Sub-Saharan Africa
+Nigeria,2008,8,Sub-Saharan Africa
+Nigeria,2009,9.3,Sub-Saharan Africa
+Nigeria,2010,11.5,Sub-Saharan Africa
+Nigeria,2011,13.8,Sub-Saharan Africa
+Nigeria,2012,16.1,Sub-Saharan Africa
+Nigeria,2013,19.1,Sub-Saharan Africa
+Nigeria,2014,21,Sub-Saharan Africa
+Nigeria,2015,24.5,Sub-Saharan Africa
+Nigeria,2016,28.5,Sub-Saharan Africa
+Nigeria,2017,33.2,Sub-Saharan Africa
+Nigeria,2018,38.7,Sub-Saharan Africa
+Nigeria,2019,45,Sub-Saharan Africa
+Nigeria,2020,51.5,Sub-Saharan Africa
+Nicaragua,2000,0.98,Latin America and the Caribbean
+Nicaragua,2001,1.45,Latin America and the Caribbean
+Nicaragua,2002,1.71,Latin America and the Caribbean
+Nicaragua,2003,1.88,Latin America and the Caribbean
+Nicaragua,2004,2.32,Latin America and the Caribbean
+Nicaragua,2005,2.57,Latin America and the Caribbean
+Nicaragua,2006,2.81,Latin America and the Caribbean
+Nicaragua,2007,3.9,Latin America and the Caribbean
+Nicaragua,2008,5.3,Latin America and the Caribbean
+Nicaragua,2009,7.3,Latin America and the Caribbean
+Nicaragua,2010,10,Latin America and the Caribbean
+Nicaragua,2011,10.6,Latin America and the Caribbean
+Nicaragua,2012,13.5,Latin America and the Caribbean
+Nicaragua,2013,15.5,Latin America and the Caribbean
+Nicaragua,2014,17.6,Latin America and the Caribbean
+Nicaragua,2015,19.7,Latin America and the Caribbean
+Nicaragua,2016,24.6,Latin America and the Caribbean
+Nicaragua,2017,30.4,Latin America and the Caribbean
+Nicaragua,2018,37.6,Latin America and the Caribbean
+Nicaragua,2019,44.9,Latin America and the Caribbean
+Nicaragua,2020,53.4,Latin America and the Caribbean
+Netherlands,2000,44,Western Europe
+Netherlands,2001,49.4,Western Europe
+Netherlands,2002,61.3,Western Europe
+Netherlands,2003,64.3,Western Europe
+Netherlands,2004,68.5,Western Europe
+Netherlands,2005,81,Western Europe
+Netherlands,2006,83.7,Western Europe
+Netherlands,2007,85.8,Western Europe
+Netherlands,2008,87.4,Western Europe
+Netherlands,2009,89.6,Western Europe
+Netherlands,2010,90.7,Western Europe
+Netherlands,2011,91.4,Western Europe
+Netherlands,2012,92.9,Western Europe
+Netherlands,2013,94,Western Europe
+Netherlands,2014,91.7,Western Europe
+Netherlands,2015,91.7,Western Europe
+Netherlands,2016,90.4,Western Europe
+Netherlands,2017,93.2,Western Europe
+Netherlands,2018,91.9,Western Europe
+Netherlands,2019,93.3,Western Europe
+Netherlands,2020,91.3,Western Europe
+Curaçao,2000,NA,Latin America and the Caribbean
+Curaçao,2001,NA,Latin America and the Caribbean
+Curaçao,2002,NA,Latin America and the Caribbean
+Curaçao,2003,NA,Latin America and the Caribbean
+Curaçao,2004,NA,Latin America and the Caribbean
+Curaçao,2005,NA,Latin America and the Caribbean
+Curaçao,2006,NA,Latin America and the Caribbean
+Curaçao,2007,NA,Latin America and the Caribbean
+Curaçao,2008,NA,Latin America and the Caribbean
+Curaçao,2009,NA,Latin America and the Caribbean
+Curaçao,2010,NA,Latin America and the Caribbean
+Curaçao,2011,NA,Latin America and the Caribbean
+Curaçao,2012,NA,Latin America and the Caribbean
+Curaçao,2013,NA,Latin America and the Caribbean
+Curaçao,2014,NA,Latin America and the Caribbean
+Curaçao,2015,NA,Latin America and the Caribbean
+Curaçao,2016,61.9,Latin America and the Caribbean
+Curaçao,2017,68.1,Latin America and the Caribbean
+Curaçao,2018,NA,Latin America and the Caribbean
+Curaçao,2019,NA,Latin America and the Caribbean
+Curaçao,2020,NA,Latin America and the Caribbean
+Norway,2000,52,Northern Europe
+Norway,2001,64,Northern Europe
+Norway,2002,72.8,Northern Europe
+Norway,2003,78.1,Northern Europe
+Norway,2004,77.7,Northern Europe
+Norway,2005,82,Northern Europe
+Norway,2006,82.5,Northern Europe
+Norway,2007,86.9,Northern Europe
+Norway,2008,90.6,Northern Europe
+Norway,2009,92.1,Northern Europe
+Norway,2010,93.4,Northern Europe
+Norway,2011,93.5,Northern Europe
+Norway,2012,94.6,Northern Europe
+Norway,2013,95.1,Northern Europe
+Norway,2014,96.3,Northern Europe
+Norway,2015,96.8,Northern Europe
+Norway,2016,97.3,Northern Europe
+Norway,2017,96.4,Northern Europe
+Norway,2018,96.5,Northern Europe
+Norway,2019,98,Northern Europe
+Norway,2020,94.6,Northern Europe
+Nepal,2000,0.205,Southern Asia
+Nepal,2001,0.24,Southern Asia
+Nepal,2002,0.313,Southern Asia
+Nepal,2003,0.383,Southern Asia
+Nepal,2004,0.45,Southern Asia
+Nepal,2005,0.827,Southern Asia
+Nepal,2006,1.14,Southern Asia
+Nepal,2007,1.41,Southern Asia
+Nepal,2008,1.73,Southern Asia
+Nepal,2009,1.97,Southern Asia
+Nepal,2010,7.93,Southern Asia
+Nepal,2011,9,Southern Asia
+Nepal,2012,11.1,Southern Asia
+Nepal,2013,13.3,Southern Asia
+Nepal,2014,15.4,Southern Asia
+Nepal,2015,17.6,Southern Asia
+Nepal,2016,20.7,Southern Asia
+Nepal,2017,24.3,Southern Asia
+Nepal,2018,28.6,Southern Asia
+Nepal,2019,34.8,Southern Asia
+Nepal,2020,45.8,Southern Asia
+Nauru,2000,NA,Micronesia
+Nauru,2001,2.99,Micronesia
+Nauru,2002,NA,Micronesia
+Nauru,2003,NA,Micronesia
+Nauru,2004,NA,Micronesia
+Nauru,2005,NA,Micronesia
+Nauru,2006,NA,Micronesia
+Nauru,2007,NA,Micronesia
+Nauru,2008,NA,Micronesia
+Nauru,2009,NA,Micronesia
+Nauru,2010,NA,Micronesia
+Nauru,2011,54,Micronesia
+Nauru,2012,NA,Micronesia
+Nauru,2013,NA,Micronesia
+Nauru,2014,NA,Micronesia
+Nauru,2015,NA,Micronesia
+Nauru,2016,NA,Micronesia
+Nauru,2017,62.4,Micronesia
+Nauru,2018,NA,Micronesia
+Nauru,2019,74.7,Micronesia
+Nauru,2020,76.7,Micronesia
+New Zealand,2000,47.4,Australia and New Zealand
+New Zealand,2001,53.2,Australia and New Zealand
+New Zealand,2002,59.1,Australia and New Zealand
+New Zealand,2003,61,Australia and New Zealand
+New Zealand,2004,61.8,Australia and New Zealand
+New Zealand,2005,62.7,Australia and New Zealand
+New Zealand,2006,69,Australia and New Zealand
+New Zealand,2007,69.8,Australia and New Zealand
+New Zealand,2008,72,Australia and New Zealand
+New Zealand,2009,79.7,Australia and New Zealand
+New Zealand,2010,80.5,Australia and New Zealand
+New Zealand,2011,81.2,Australia and New Zealand
+New Zealand,2012,81.6,Australia and New Zealand
+New Zealand,2013,82.8,Australia and New Zealand
+New Zealand,2014,84,Australia and New Zealand
+New Zealand,2015,85.2,Australia and New Zealand
+New Zealand,2016,86.5,Australia and New Zealand
+New Zealand,2017,87.7,Australia and New Zealand
+New Zealand,2018,89,Australia and New Zealand
+New Zealand,2019,89.9,Australia and New Zealand
+New Zealand,2020,92.9,Australia and New Zealand
+Oman,2000,3.52,Western Asia
+Oman,2001,5.89,Western Asia
+Oman,2002,6.87,Western Asia
+Oman,2003,7.26,Western Asia
+Oman,2004,6.76,Western Asia
+Oman,2005,6.68,Western Asia
+Oman,2006,8.3,Western Asia
+Oman,2007,16.7,Western Asia
+Oman,2008,20,Western Asia
+Oman,2009,26.8,Western Asia
+Oman,2010,35.8,Western Asia
+Oman,2011,48,Western Asia
+Oman,2012,60,Western Asia
+Oman,2013,66.5,Western Asia
+Oman,2014,70.2,Western Asia
+Oman,2015,73.5,Western Asia
+Oman,2016,76.8,Western Asia
+Oman,2017,80.2,Western Asia
+Oman,2018,85.5,Western Asia
+Oman,2019,90.3,Western Asia
+Oman,2020,95.2,Western Asia
+Pakistan,2000,NA,Southern Asia
+Pakistan,2001,1.32,Southern Asia
+Pakistan,2002,2.58,Southern Asia
+Pakistan,2003,5.04,Southern Asia
+Pakistan,2004,6.16,Southern Asia
+Pakistan,2005,6.33,Southern Asia
+Pakistan,2006,6.5,Southern Asia
+Pakistan,2007,6.8,Southern Asia
+Pakistan,2008,7,Southern Asia
+Pakistan,2009,7.5,Southern Asia
+Pakistan,2010,8,Southern Asia
+Pakistan,2011,8,Southern Asia
+Pakistan,2012,8.1,Southern Asia
+Pakistan,2013,9,Southern Asia
+Pakistan,2014,10,Southern Asia
+Pakistan,2015,11,Southern Asia
+Pakistan,2016,12.4,Southern Asia
+Pakistan,2017,13.8,Southern Asia
+Pakistan,2018,15.3,Southern Asia
+Pakistan,2019,17.1,Southern Asia
+Pakistan,2020,18.9,Southern Asia
+Panama,2000,6.55,Latin America and the Caribbean
+Panama,2001,7.27,Latin America and the Caribbean
+Panama,2002,8.52,Latin America and the Caribbean
+Panama,2003,9.99,Latin America and the Caribbean
+Panama,2004,11.1,Latin America and the Caribbean
+Panama,2005,11.5,Latin America and the Caribbean
+Panama,2006,17.3,Latin America and the Caribbean
+Panama,2007,22.3,Latin America and the Caribbean
+Panama,2008,33.8,Latin America and the Caribbean
+Panama,2009,39.1,Latin America and the Caribbean
+Panama,2010,40.1,Latin America and the Caribbean
+Panama,2011,42.7,Latin America and the Caribbean
+Panama,2012,40.3,Latin America and the Caribbean
+Panama,2013,44,Latin America and the Caribbean
+Panama,2014,44.9,Latin America and the Caribbean
+Panama,2015,51.2,Latin America and the Caribbean
+Panama,2016,54,Latin America and the Caribbean
+Panama,2017,60,Latin America and the Caribbean
+Panama,2018,61.8,Latin America and the Caribbean
+Panama,2019,63.6,Latin America and the Caribbean
+Panama,2020,65.5,Latin America and the Caribbean
+Peru,2000,3.08,Latin America and the Caribbean
+Peru,2001,7.58,Latin America and the Caribbean
+Peru,2002,8.97,Latin America and the Caribbean
+Peru,2003,11.6,Latin America and the Caribbean
+Peru,2004,14.1,Latin America and the Caribbean
+Peru,2005,17.1,Latin America and the Caribbean
+Peru,2006,20.7,Latin America and the Caribbean
+Peru,2007,25.2,Latin America and the Caribbean
+Peru,2008,30.6,Latin America and the Caribbean
+Peru,2009,31.4,Latin America and the Caribbean
+Peru,2010,34.8,Latin America and the Caribbean
+Peru,2011,36,Latin America and the Caribbean
+Peru,2012,38.2,Latin America and the Caribbean
+Peru,2013,39.2,Latin America and the Caribbean
+Peru,2014,40.2,Latin America and the Caribbean
+Peru,2015,40.9,Latin America and the Caribbean
+Peru,2016,45.5,Latin America and the Caribbean
+Peru,2017,50.5,Latin America and the Caribbean
+Peru,2018,55.1,Latin America and the Caribbean
+Peru,2019,60,Latin America and the Caribbean
+Peru,2020,65.3,Latin America and the Caribbean
+Philippines,2000,1.98,South-eastern Asia
+Philippines,2001,2.52,South-eastern Asia
+Philippines,2002,4.33,South-eastern Asia
+Philippines,2003,4.86,South-eastern Asia
+Philippines,2004,5.24,South-eastern Asia
+Philippines,2005,5.4,South-eastern Asia
+Philippines,2006,5.74,South-eastern Asia
+Philippines,2007,5.97,South-eastern Asia
+Philippines,2008,6.22,South-eastern Asia
+Philippines,2009,9,South-eastern Asia
+Philippines,2010,25,South-eastern Asia
+Philippines,2011,29,South-eastern Asia
+Philippines,2012,30.8,South-eastern Asia
+Philippines,2013,32.7,South-eastern Asia
+Philippines,2014,34.7,South-eastern Asia
+Philippines,2015,36.9,South-eastern Asia
+Philippines,2016,39.2,South-eastern Asia
+Philippines,2017,41.6,South-eastern Asia
+Philippines,2018,44.1,South-eastern Asia
+Philippines,2019,43,South-eastern Asia
+Philippines,2020,47.1,South-eastern Asia
+Palau,2000,NA,Micronesia
+Palau,2001,NA,Micronesia
+Palau,2002,20.2,Micronesia
+Palau,2003,21.6,Micronesia
+Palau,2004,27,Micronesia
+Palau,2005,NA,Micronesia
+Palau,2006,NA,Micronesia
+Palau,2007,NA,Micronesia
+Palau,2008,NA,Micronesia
+Palau,2009,NA,Micronesia
+Palau,2010,NA,Micronesia
+Palau,2011,NA,Micronesia
+Palau,2012,NA,Micronesia
+Palau,2013,NA,Micronesia
+Palau,2014,NA,Micronesia
+Palau,2015,NA,Micronesia
+Palau,2016,NA,Micronesia
+Palau,2017,NA,Micronesia
+Palau,2018,NA,Micronesia
+Palau,2019,NA,Micronesia
+Palau,2020,NA,Micronesia
+Papua New Guinea,2000,0.835,Melanesia
+Papua New Guinea,2001,0.904,Melanesia
+Papua New Guinea,2002,1.32,Melanesia
+Papua New Guinea,2003,1.37,Melanesia
+Papua New Guinea,2004,1.51,Melanesia
+Papua New Guinea,2005,1.72,Melanesia
+Papua New Guinea,2006,1.75,Melanesia
+Papua New Guinea,2007,1.79,Melanesia
+Papua New Guinea,2008,1.15,Melanesia
+Papua New Guinea,2009,1.61,Melanesia
+Papua New Guinea,2010,1.28,Melanesia
+Papua New Guinea,2011,2,Melanesia
+Papua New Guinea,2012,3.5,Melanesia
+Papua New Guinea,2013,5.1,Melanesia
+Papua New Guinea,2014,6.5,Melanesia
+Papua New Guinea,2015,7.9,Melanesia
+Papua New Guinea,2016,9.6,Melanesia
+Papua New Guinea,2017,11.2,Melanesia
+Papua New Guinea,2018,NA,Melanesia
+Papua New Guinea,2019,20,Melanesia
+Papua New Guinea,2020,27.7,Melanesia
+Poland,2000,7.29,Eastern Europe
+Poland,2001,9.9,Eastern Europe
+Poland,2002,21.1,Eastern Europe
+Poland,2003,24.9,Eastern Europe
+Poland,2004,32.5,Eastern Europe
+Poland,2005,38.8,Eastern Europe
+Poland,2006,44.6,Eastern Europe
+Poland,2007,48.6,Eastern Europe
+Poland,2008,53.1,Eastern Europe
+Poland,2009,59,Eastern Europe
+Poland,2010,62.3,Eastern Europe
+Poland,2011,62,Eastern Europe
+Poland,2012,62.3,Eastern Europe
+Poland,2013,62.8,Eastern Europe
+Poland,2014,66.6,Eastern Europe
+Poland,2015,68,Eastern Europe
+Poland,2016,73.3,Eastern Europe
+Poland,2017,76,Eastern Europe
+Poland,2018,77.5,Eastern Europe
+Poland,2019,80.4,Eastern Europe
+Poland,2020,83.2,Eastern Europe
+Puerto Rico,2000,10.5,Latin America and the Caribbean
+Puerto Rico,2001,15.6,Latin America and the Caribbean
+Puerto Rico,2002,17.5,Latin America and the Caribbean
+Puerto Rico,2003,19.7,Latin America and the Caribbean
+Puerto Rico,2004,22.1,Latin America and the Caribbean
+Puerto Rico,2005,23.4,Latin America and the Caribbean
+Puerto Rico,2006,25.4,Latin America and the Caribbean
+Puerto Rico,2007,27.9,Latin America and the Caribbean
+Puerto Rico,2008,38,Latin America and the Caribbean
+Puerto Rico,2009,41.5,Latin America and the Caribbean
+Puerto Rico,2010,45.3,Latin America and the Caribbean
+Puerto Rico,2011,48,Latin America and the Caribbean
+Puerto Rico,2012,69,Latin America and the Caribbean
+Puerto Rico,2013,69,Latin America and the Caribbean
+Puerto Rico,2014,69,Latin America and the Caribbean
+Puerto Rico,2015,63.5,Latin America and the Caribbean
+Puerto Rico,2016,68.6,Latin America and the Caribbean
+Puerto Rico,2017,68.7,Latin America and the Caribbean
+Puerto Rico,2018,70.9,Latin America and the Caribbean
+Puerto Rico,2019,77.7,Latin America and the Caribbean
+Puerto Rico,2020,NA,Latin America and the Caribbean
+North Korea,2000,0,Eastern Asia
+North Korea,2001,0,Eastern Asia
+North Korea,2002,0,Eastern Asia
+North Korea,2003,0,Eastern Asia
+North Korea,2004,0,Eastern Asia
+North Korea,2005,0,Eastern Asia
+North Korea,2006,0,Eastern Asia
+North Korea,2007,0,Eastern Asia
+North Korea,2008,0,Eastern Asia
+North Korea,2009,0,Eastern Asia
+North Korea,2010,0,Eastern Asia
+North Korea,2011,0,Eastern Asia
+North Korea,2012,0,Eastern Asia
+North Korea,2013,0,Eastern Asia
+North Korea,2014,NA,Eastern Asia
+North Korea,2015,NA,Eastern Asia
+North Korea,2016,NA,Eastern Asia
+North Korea,2017,NA,Eastern Asia
+North Korea,2018,NA,Eastern Asia
+North Korea,2019,NA,Eastern Asia
+North Korea,2020,NA,Eastern Asia
+Portugal,2000,16.4,Southern Europe
+Portugal,2001,18.1,Southern Europe
+Portugal,2002,19.4,Southern Europe
+Portugal,2003,29.7,Southern Europe
+Portugal,2004,31.8,Southern Europe
+Portugal,2005,35,Southern Europe
+Portugal,2006,38,Southern Europe
+Portugal,2007,42.1,Southern Europe
+Portugal,2008,44.1,Southern Europe
+Portugal,2009,48.3,Southern Europe
+Portugal,2010,53.3,Southern Europe
+Portugal,2011,55.3,Southern Europe
+Portugal,2012,60.3,Southern Europe
+Portugal,2013,62.1,Southern Europe
+Portugal,2014,64.6,Southern Europe
+Portugal,2015,68.6,Southern Europe
+Portugal,2016,70.4,Southern Europe
+Portugal,2017,73.8,Southern Europe
+Portugal,2018,74.7,Southern Europe
+Portugal,2019,75.3,Southern Europe
+Portugal,2020,78.3,Southern Europe
+Paraguay,2000,0.748,Latin America and the Caribbean
+Paraguay,2001,1.1,Latin America and the Caribbean
+Paraguay,2002,1.79,Latin America and the Caribbean
+Paraguay,2003,2.11,Latin America and the Caribbean
+Paraguay,2004,3.45,Latin America and the Caribbean
+Paraguay,2005,7.91,Latin America and the Caribbean
+Paraguay,2006,7.96,Latin America and the Caribbean
+Paraguay,2007,11.2,Latin America and the Caribbean
+Paraguay,2008,14.3,Latin America and the Caribbean
+Paraguay,2009,18.9,Latin America and the Caribbean
+Paraguay,2010,19.8,Latin America and the Caribbean
+Paraguay,2011,24.8,Latin America and the Caribbean
+Paraguay,2012,29.3,Latin America and the Caribbean
+Paraguay,2013,36.9,Latin America and the Caribbean
+Paraguay,2014,43,Latin America and the Caribbean
+Paraguay,2015,49.7,Latin America and the Caribbean
+Paraguay,2016,53.4,Latin America and the Caribbean
+Paraguay,2017,61.1,Latin America and the Caribbean
+Paraguay,2018,65,Latin America and the Caribbean
+Paraguay,2019,68.5,Latin America and the Caribbean
+Paraguay,2020,74,Latin America and the Caribbean
+Palestine,2000,1.11,Western Asia
+Palestine,2001,1.84,Western Asia
+Palestine,2002,3.1,Western Asia
+Palestine,2003,4.13,Western Asia
+Palestine,2004,4.4,Western Asia
+Palestine,2005,16,Western Asia
+Palestine,2006,18.4,Western Asia
+Palestine,2007,21.2,Western Asia
+Palestine,2008,24.4,Western Asia
+Palestine,2009,32.2,Western Asia
+Palestine,2010,37.4,Western Asia
+Palestine,2011,41.1,Western Asia
+Palestine,2012,43.4,Western Asia
+Palestine,2013,46.6,Western Asia
+Palestine,2014,53.7,Western Asia
+Palestine,2015,56.7,Western Asia
+Palestine,2016,59.9,Western Asia
+Palestine,2017,63.3,Western Asia
+Palestine,2018,64.4,Western Asia
+Palestine,2019,70.6,Western Asia
+Palestine,2020,76,Western Asia
+French Polynesia,2000,6.36,Polynesia
+French Polynesia,2001,6.25,Polynesia
+French Polynesia,2002,8.2,Polynesia
+French Polynesia,2003,14.1,Polynesia
+French Polynesia,2004,17.9,Polynesia
+French Polynesia,2005,21.5,Polynesia
+French Polynesia,2006,25.1,Polynesia
+French Polynesia,2007,28.6,Polynesia
+French Polynesia,2008,33.9,Polynesia
+French Polynesia,2009,44.6,Polynesia
+French Polynesia,2010,49,Polynesia
+French Polynesia,2011,49,Polynesia
+French Polynesia,2012,52.9,Polynesia
+French Polynesia,2013,56.8,Polynesia
+French Polynesia,2014,60.7,Polynesia
+French Polynesia,2015,64.6,Polynesia
+French Polynesia,2016,68.4,Polynesia
+French Polynesia,2017,72.7,Polynesia
+French Polynesia,2018,NA,Polynesia
+French Polynesia,2019,NA,Polynesia
+French Polynesia,2020,NA,Polynesia
+Qatar,2000,4.86,Western Asia
+Qatar,2001,6.17,Western Asia
+Qatar,2002,10.2,Western Asia
+Qatar,2003,19.2,Western Asia
+Qatar,2004,20.7,Western Asia
+Qatar,2005,24.7,Western Asia
+Qatar,2006,29,Western Asia
+Qatar,2007,37,Western Asia
+Qatar,2008,44.3,Western Asia
+Qatar,2009,53.1,Western Asia
+Qatar,2010,69,Western Asia
+Qatar,2011,69,Western Asia
+Qatar,2012,69.3,Western Asia
+Qatar,2013,85.3,Western Asia
+Qatar,2014,91.5,Western Asia
+Qatar,2015,92.9,Western Asia
+Qatar,2016,95.1,Western Asia
+Qatar,2017,97.4,Western Asia
+Qatar,2018,99.7,Western Asia
+Qatar,2019,99.7,Western Asia
+Qatar,2020,99.7,Western Asia
+Romania,2000,3.61,Eastern Europe
+Romania,2001,4.54,Eastern Europe
+Romania,2002,6.58,Eastern Europe
+Romania,2003,8.9,Eastern Europe
+Romania,2004,15,Eastern Europe
+Romania,2005,21.5,Eastern Europe
+Romania,2006,24.7,Eastern Europe
+Romania,2007,28.3,Eastern Europe
+Romania,2008,32.4,Eastern Europe
+Romania,2009,36.6,Eastern Europe
+Romania,2010,39.9,Eastern Europe
+Romania,2011,40,Eastern Europe
+Romania,2012,45.9,Eastern Europe
+Romania,2013,49.8,Eastern Europe
+Romania,2014,54.1,Eastern Europe
+Romania,2015,55.8,Eastern Europe
+Romania,2016,59.5,Eastern Europe
+Romania,2017,63.7,Eastern Europe
+Romania,2018,70.7,Eastern Europe
+Romania,2019,73.7,Eastern Europe
+Romania,2020,78.5,Eastern Europe
+Russia,2000,1.98,Eastern Europe
+Russia,2001,2.94,Eastern Europe
+Russia,2002,4.13,Eastern Europe
+Russia,2003,8.3,Eastern Europe
+Russia,2004,12.9,Eastern Europe
+Russia,2005,15.2,Eastern Europe
+Russia,2006,18,Eastern Europe
+Russia,2007,24.7,Eastern Europe
+Russia,2008,32,Eastern Europe
+Russia,2009,42.5,Eastern Europe
+Russia,2010,49,Eastern Europe
+Russia,2011,58,Eastern Europe
+Russia,2012,66,Eastern Europe
+Russia,2013,68,Eastern Europe
+Russia,2014,70.5,Eastern Europe
+Russia,2015,70.1,Eastern Europe
+Russia,2016,73.1,Eastern Europe
+Russia,2017,76,Eastern Europe
+Russia,2018,80.9,Eastern Europe
+Russia,2019,82.6,Eastern Europe
+Russia,2020,85,Eastern Europe
+Rwanda,2000,0.0628,Sub-Saharan Africa
+Rwanda,2001,0.241,Sub-Saharan Africa
+Rwanda,2002,0.293,Sub-Saharan Africa
+Rwanda,2003,0.357,Sub-Saharan Africa
+Rwanda,2004,0.431,Sub-Saharan Africa
+Rwanda,2005,0.556,Sub-Saharan Africa
+Rwanda,2006,NA,Sub-Saharan Africa
+Rwanda,2007,2.12,Sub-Saharan Africa
+Rwanda,2008,4.5,Sub-Saharan Africa
+Rwanda,2009,7.7,Sub-Saharan Africa
+Rwanda,2010,8,Sub-Saharan Africa
+Rwanda,2011,7,Sub-Saharan Africa
+Rwanda,2012,8.02,Sub-Saharan Africa
+Rwanda,2013,9,Sub-Saharan Africa
+Rwanda,2014,10.6,Sub-Saharan Africa
+Rwanda,2015,12.5,Sub-Saharan Africa
+Rwanda,2016,14.6,Sub-Saharan Africa
+Rwanda,2017,17.2,Sub-Saharan Africa
+Rwanda,2018,19.2,Sub-Saharan Africa
+Rwanda,2019,21.4,Sub-Saharan Africa
+Rwanda,2020,23.8,Sub-Saharan Africa
+Saudi Arabia,2000,2.21,Western Asia
+Saudi Arabia,2001,4.68,Western Asia
+Saudi Arabia,2002,6.38,Western Asia
+Saudi Arabia,2003,8,Western Asia
+Saudi Arabia,2004,10.2,Western Asia
+Saudi Arabia,2005,12.7,Western Asia
+Saudi Arabia,2006,19.5,Western Asia
+Saudi Arabia,2007,30,Western Asia
+Saudi Arabia,2008,36,Western Asia
+Saudi Arabia,2009,38,Western Asia
+Saudi Arabia,2010,41,Western Asia
+Saudi Arabia,2011,47.5,Western Asia
+Saudi Arabia,2012,54,Western Asia
+Saudi Arabia,2013,60.5,Western Asia
+Saudi Arabia,2014,64.7,Western Asia
+Saudi Arabia,2015,69.6,Western Asia
+Saudi Arabia,2016,74.9,Western Asia
+Saudi Arabia,2017,94.2,Western Asia
+Saudi Arabia,2018,93.3,Western Asia
+Saudi Arabia,2019,95.7,Western Asia
+Saudi Arabia,2020,97.9,Western Asia
+Sudan,2000,0.0258,Northern Africa
+Sudan,2001,0.14,Northern Africa
+Sudan,2002,0.439,Northern Africa
+Sudan,2003,0.538,Northern Africa
+Sudan,2004,0.792,Northern Africa
+Sudan,2005,1.29,Northern Africa
+Sudan,2006,NA,Northern Africa
+Sudan,2007,8.66,Northern Africa
+Sudan,2008,NA,Northern Africa
+Sudan,2009,NA,Northern Africa
+Sudan,2010,NA,Northern Africa
+Sudan,2011,NA,Northern Africa
+Sudan,2012,NA,Northern Africa
+Sudan,2013,NA,Northern Africa
+Sudan,2014,NA,Northern Africa
+Sudan,2015,NA,Northern Africa
+Sudan,2016,14.1,Northern Africa
+Sudan,2017,18.6,Northern Africa
+Sudan,2018,24.6,Northern Africa
+Sudan,2019,25.9,Northern Africa
+Sudan,2020,28.4,Northern Africa
+Senegal,2000,0.404,Sub-Saharan Africa
+Senegal,2001,0.984,Sub-Saharan Africa
+Senegal,2002,1.01,Sub-Saharan Africa
+Senegal,2003,2.1,Sub-Saharan Africa
+Senegal,2004,4.39,Sub-Saharan Africa
+Senegal,2005,4.79,Sub-Saharan Africa
+Senegal,2006,5.61,Sub-Saharan Africa
+Senegal,2007,6.89,Sub-Saharan Africa
+Senegal,2008,7.12,Sub-Saharan Africa
+Senegal,2009,7.5,Sub-Saharan Africa
+Senegal,2010,8,Sub-Saharan Africa
+Senegal,2011,9.8,Sub-Saharan Africa
+Senegal,2012,10.8,Sub-Saharan Africa
+Senegal,2013,13.1,Sub-Saharan Africa
+Senegal,2014,17.7,Sub-Saharan Africa
+Senegal,2015,21.7,Sub-Saharan Africa
+Senegal,2016,25.7,Sub-Saharan Africa
+Senegal,2017,29.6,Sub-Saharan Africa
+Senegal,2018,35.3,Sub-Saharan Africa
+Senegal,2019,36.2,Sub-Saharan Africa
+Senegal,2020,47.2,Sub-Saharan Africa
+Singapore,2000,36,South-eastern Asia
+Singapore,2001,41.7,South-eastern Asia
+Singapore,2002,47,South-eastern Asia
+Singapore,2003,53.8,South-eastern Asia
+Singapore,2004,62,South-eastern Asia
+Singapore,2005,61,South-eastern Asia
+Singapore,2006,59,South-eastern Asia
+Singapore,2007,69.9,South-eastern Asia
+Singapore,2008,69,South-eastern Asia
+Singapore,2009,69,South-eastern Asia
+Singapore,2010,71,South-eastern Asia
+Singapore,2011,71,South-eastern Asia
+Singapore,2012,72,South-eastern Asia
+Singapore,2013,80.9,South-eastern Asia
+Singapore,2014,82.1,South-eastern Asia
+Singapore,2015,83.2,South-eastern Asia
+Singapore,2016,84.5,South-eastern Asia
+Singapore,2017,84.5,South-eastern Asia
+Singapore,2018,88.2,South-eastern Asia
+Singapore,2019,88.9,South-eastern Asia
+Singapore,2020,92,South-eastern Asia
+Solomon Islands,2000,0.481,Melanesia
+Solomon Islands,2001,0.469,Melanesia
+Solomon Islands,2002,0.502,Melanesia
+Solomon Islands,2003,0.556,Melanesia
+Solomon Islands,2004,0.65,Melanesia
+Solomon Islands,2005,0.844,Melanesia
+Solomon Islands,2006,1.65,Melanesia
+Solomon Islands,2007,2,Melanesia
+Solomon Islands,2008,3,Melanesia
+Solomon Islands,2009,4,Melanesia
+Solomon Islands,2010,5,Melanesia
+Solomon Islands,2011,6,Melanesia
+Solomon Islands,2012,7,Melanesia
+Solomon Islands,2013,8,Melanesia
+Solomon Islands,2014,9,Melanesia
+Solomon Islands,2015,10,Melanesia
+Solomon Islands,2016,11,Melanesia
+Solomon Islands,2017,11.9,Melanesia
+Solomon Islands,2018,NA,Melanesia
+Solomon Islands,2019,28.2,Melanesia
+Solomon Islands,2020,35.9,Melanesia
+Sierra Leone,2000,0.118,Sub-Saharan Africa
+Sierra Leone,2001,0.16,Sub-Saharan Africa
+Sierra Leone,2002,0.176,Sub-Saharan Africa
+Sierra Leone,2003,0.19,Sub-Saharan Africa
+Sierra Leone,2004,0.203,Sub-Saharan Africa
+Sierra Leone,2005,0.215,Sub-Saharan Africa
+Sierra Leone,2006,0.228,Sub-Saharan Africa
+Sierra Leone,2007,0.24,Sub-Saharan Africa
+Sierra Leone,2008,0.25,Sub-Saharan Africa
+Sierra Leone,2009,0.26,Sub-Saharan Africa
+Sierra Leone,2010,0.58,Sub-Saharan Africa
+Sierra Leone,2011,0.9,Sub-Saharan Africa
+Sierra Leone,2012,2.5,Sub-Saharan Africa
+Sierra Leone,2013,4,Sub-Saharan Africa
+Sierra Leone,2014,6.06,Sub-Saharan Africa
+Sierra Leone,2015,6.34,Sub-Saharan Africa
+Sierra Leone,2016,11.8,Sub-Saharan Africa
+Sierra Leone,2017,13.2,Sub-Saharan Africa
+Sierra Leone,2018,15.8,Sub-Saharan Africa
+Sierra Leone,2019,16.8,Sub-Saharan Africa
+Sierra Leone,2020,18,Sub-Saharan Africa
+El Salvador,2000,1.18,Latin America and the Caribbean
+El Salvador,2001,1.5,Latin America and the Caribbean
+El Salvador,2002,1.9,Latin America and the Caribbean
+El Salvador,2003,2.5,Latin America and the Caribbean
+El Salvador,2004,3.2,Latin America and the Caribbean
+El Salvador,2005,4.2,Latin America and the Caribbean
+El Salvador,2006,5.5,Latin America and the Caribbean
+El Salvador,2007,6.11,Latin America and the Caribbean
+El Salvador,2008,10.1,Latin America and the Caribbean
+El Salvador,2009,12.1,Latin America and the Caribbean
+El Salvador,2010,15.9,Latin America and the Caribbean
+El Salvador,2011,18.9,Latin America and the Caribbean
+El Salvador,2012,20.3,Latin America and the Caribbean
+El Salvador,2013,23.1,Latin America and the Caribbean
+El Salvador,2014,24.8,Latin America and the Caribbean
+El Salvador,2015,26.8,Latin America and the Caribbean
+El Salvador,2016,29,Latin America and the Caribbean
+El Salvador,2017,33.8,Latin America and the Caribbean
+El Salvador,2018,43.8,Latin America and the Caribbean
+El Salvador,2019,50.5,Latin America and the Caribbean
+El Salvador,2020,54.6,Latin America and the Caribbean
+San Marino,2000,48.8,Southern Europe
+San Marino,2001,50.3,Southern Europe
+San Marino,2002,50.8,Southern Europe
+San Marino,2003,50,Southern Europe
+San Marino,2004,50.6,Southern Europe
+San Marino,2005,50.3,Southern Europe
+San Marino,2006,50.2,Southern Europe
+San Marino,2007,50.4,Southern Europe
+San Marino,2008,54.5,Southern Europe
+San Marino,2009,54.2,Southern Europe
+San Marino,2010,NA,Southern Europe
+San Marino,2011,49.6,Southern Europe
+San Marino,2012,NA,Southern Europe
+San Marino,2013,NA,Southern Europe
+San Marino,2014,NA,Southern Europe
+San Marino,2015,NA,Southern Europe
+San Marino,2016,NA,Southern Europe
+San Marino,2017,60.2,Southern Europe
+San Marino,2018,NA,Southern Europe
+San Marino,2019,67.9,Southern Europe
+San Marino,2020,70.5,Southern Europe
+Somalia,2000,0.02,Sub-Saharan Africa
+Somalia,2001,0.079,Sub-Saharan Africa
+Somalia,2002,0.116,Sub-Saharan Africa
+Somalia,2003,0.376,Sub-Saharan Africa
+Somalia,2004,1.05,Sub-Saharan Africa
+Somalia,2005,1.08,Sub-Saharan Africa
+Somalia,2006,1.1,Sub-Saharan Africa
+Somalia,2007,1.12,Sub-Saharan Africa
+Somalia,2008,1.14,Sub-Saharan Africa
+Somalia,2009,1.16,Sub-Saharan Africa
+Somalia,2010,NA,Sub-Saharan Africa
+Somalia,2011,1.25,Sub-Saharan Africa
+Somalia,2012,1.38,Sub-Saharan Africa
+Somalia,2013,1.5,Sub-Saharan Africa
+Somalia,2014,1.63,Sub-Saharan Africa
+Somalia,2015,1.76,Sub-Saharan Africa
+Somalia,2016,1.88,Sub-Saharan Africa
+Somalia,2017,2,Sub-Saharan Africa
+Somalia,2018,NA,Sub-Saharan Africa
+Somalia,2019,NA,Sub-Saharan Africa
+Somalia,2020,NA,Sub-Saharan Africa
+Serbia,2000,NA,Southern Europe
+Serbia,2001,NA,Southern Europe
+Serbia,2002,NA,Southern Europe
+Serbia,2003,NA,Southern Europe
+Serbia,2004,23.5,Southern Europe
+Serbia,2005,26.3,Southern Europe
+Serbia,2006,27.2,Southern Europe
+Serbia,2007,33.1,Southern Europe
+Serbia,2008,35.6,Southern Europe
+Serbia,2009,38.1,Southern Europe
+Serbia,2010,40.9,Southern Europe
+Serbia,2011,42.2,Southern Europe
+Serbia,2012,48.1,Southern Europe
+Serbia,2013,53.5,Southern Europe
+Serbia,2014,62.1,Southern Europe
+Serbia,2015,65.3,Southern Europe
+Serbia,2016,67.1,Southern Europe
+Serbia,2017,70.3,Southern Europe
+Serbia,2018,73.4,Southern Europe
+Serbia,2019,77.4,Southern Europe
+Serbia,2020,78.4,Southern Europe
+South Sudan,2000,NA,Sub-Saharan Africa
+South Sudan,2001,NA,Sub-Saharan Africa
+South Sudan,2002,NA,Sub-Saharan Africa
+South Sudan,2003,NA,Sub-Saharan Africa
+South Sudan,2004,NA,Sub-Saharan Africa
+South Sudan,2005,NA,Sub-Saharan Africa
+South Sudan,2006,NA,Sub-Saharan Africa
+South Sudan,2007,NA,Sub-Saharan Africa
+South Sudan,2008,NA,Sub-Saharan Africa
+South Sudan,2009,NA,Sub-Saharan Africa
+South Sudan,2010,NA,Sub-Saharan Africa
+South Sudan,2011,NA,Sub-Saharan Africa
+South Sudan,2012,NA,Sub-Saharan Africa
+South Sudan,2013,2.2,Sub-Saharan Africa
+South Sudan,2014,2.6,Sub-Saharan Africa
+South Sudan,2015,3,Sub-Saharan Africa
+South Sudan,2016,3.5,Sub-Saharan Africa
+South Sudan,2017,4.1,Sub-Saharan Africa
+South Sudan,2018,4.8,Sub-Saharan Africa
+South Sudan,2019,5.6,Sub-Saharan Africa
+South Sudan,2020,6.5,Sub-Saharan Africa
+Sao Tome and Principe,2000,4.64,Sub-Saharan Africa
+Sao Tome and Principe,2001,6.31,Sub-Saharan Africa
+Sao Tome and Principe,2002,7.58,Sub-Saharan Africa
+Sao Tome and Principe,2003,10.2,Sub-Saharan Africa
+Sao Tome and Principe,2004,13.3,Sub-Saharan Africa
+Sao Tome and Principe,2005,13.8,Sub-Saharan Africa
+Sao Tome and Principe,2006,14.2,Sub-Saharan Africa
+Sao Tome and Principe,2007,14.6,Sub-Saharan Africa
+Sao Tome and Principe,2008,15.5,Sub-Saharan Africa
+Sao Tome and Principe,2009,16.4,Sub-Saharan Africa
+Sao Tome and Principe,2010,18.8,Sub-Saharan Africa
+Sao Tome and Principe,2011,20.2,Sub-Saharan Africa
+Sao Tome and Principe,2012,21.6,Sub-Saharan Africa
+Sao Tome and Principe,2013,23,Sub-Saharan Africa
+Sao Tome and Principe,2014,24.4,Sub-Saharan Africa
+Sao Tome and Principe,2015,25.8,Sub-Saharan Africa
+Sao Tome and Principe,2016,28,Sub-Saharan Africa
+Sao Tome and Principe,2017,29.9,Sub-Saharan Africa
+Sao Tome and Principe,2018,30.1,Sub-Saharan Africa
+Sao Tome and Principe,2019,30.2,Sub-Saharan Africa
+Sao Tome and Principe,2020,40.3,Sub-Saharan Africa
+Suriname,2000,2.51,Latin America and the Caribbean
+Suriname,2001,3.06,Latin America and the Caribbean
+Suriname,2002,4.16,Latin America and the Caribbean
+Suriname,2003,4.72,Latin America and the Caribbean
+Suriname,2004,6.08,Latin America and the Caribbean
+Suriname,2005,6.4,Latin America and the Caribbean
+Suriname,2006,9.5,Latin America and the Caribbean
+Suriname,2007,14.1,Latin America and the Caribbean
+Suriname,2008,21.1,Latin America and the Caribbean
+Suriname,2009,31.4,Latin America and the Caribbean
+Suriname,2010,31.6,Latin America and the Caribbean
+Suriname,2011,32,Latin America and the Caribbean
+Suriname,2012,34.7,Latin America and the Caribbean
+Suriname,2013,37.4,Latin America and the Caribbean
+Suriname,2014,40.1,Latin America and the Caribbean
+Suriname,2015,42.8,Latin America and the Caribbean
+Suriname,2016,45.4,Latin America and the Caribbean
+Suriname,2017,48.9,Latin America and the Caribbean
+Suriname,2018,53.8,Latin America and the Caribbean
+Suriname,2019,56.8,Latin America and the Caribbean
+Suriname,2020,62.1,Latin America and the Caribbean
+Slovak Republic,2000,9.43,Eastern Europe
+Slovak Republic,2001,12.5,Eastern Europe
+Slovak Republic,2002,40.1,Eastern Europe
+Slovak Republic,2003,43,Eastern Europe
+Slovak Republic,2004,52.9,Eastern Europe
+Slovak Republic,2005,55.2,Eastern Europe
+Slovak Republic,2006,56.1,Eastern Europe
+Slovak Republic,2007,61.8,Eastern Europe
+Slovak Republic,2008,66,Eastern Europe
+Slovak Republic,2009,70,Eastern Europe
+Slovak Republic,2010,75.7,Eastern Europe
+Slovak Republic,2011,74.4,Eastern Europe
+Slovak Republic,2012,76.7,Eastern Europe
+Slovak Republic,2013,77.9,Eastern Europe
+Slovak Republic,2014,80,Eastern Europe
+Slovak Republic,2015,77.6,Eastern Europe
+Slovak Republic,2016,80.5,Eastern Europe
+Slovak Republic,2017,81.6,Eastern Europe
+Slovak Republic,2018,80.4,Eastern Europe
+Slovak Republic,2019,82.9,Eastern Europe
+Slovak Republic,2020,89.9,Eastern Europe
+Slovenia,2000,15.1,Southern Europe
+Slovenia,2001,30.2,Southern Europe
+Slovenia,2002,27.8,Southern Europe
+Slovenia,2003,31.9,Southern Europe
+Slovenia,2004,40.8,Southern Europe
+Slovenia,2005,46.8,Southern Europe
+Slovenia,2006,54,Southern Europe
+Slovenia,2007,56.7,Southern Europe
+Slovenia,2008,58,Southern Europe
+Slovenia,2009,64,Southern Europe
+Slovenia,2010,70,Southern Europe
+Slovenia,2011,67.3,Southern Europe
+Slovenia,2012,68.3,Southern Europe
+Slovenia,2013,72.7,Southern Europe
+Slovenia,2014,71.6,Southern Europe
+Slovenia,2015,73.1,Southern Europe
+Slovenia,2016,75.5,Southern Europe
+Slovenia,2017,78.9,Southern Europe
+Slovenia,2018,79.7,Southern Europe
+Slovenia,2019,83.1,Southern Europe
+Slovenia,2020,86.6,Southern Europe
+Sweden,2000,45.7,Northern Europe
+Sweden,2001,51.8,Northern Europe
+Sweden,2002,70.6,Northern Europe
+Sweden,2003,79.1,Northern Europe
+Sweden,2004,83.9,Northern Europe
+Sweden,2005,84.8,Northern Europe
+Sweden,2006,87.8,Northern Europe
+Sweden,2007,82,Northern Europe
+Sweden,2008,90,Northern Europe
+Sweden,2009,91,Northern Europe
+Sweden,2010,90,Northern Europe
+Sweden,2011,92.8,Northern Europe
+Sweden,2012,93.2,Northern Europe
+Sweden,2013,94.8,Northern Europe
+Sweden,2014,92.5,Northern Europe
+Sweden,2015,90.6,Northern Europe
+Sweden,2016,89.7,Northern Europe
+Sweden,2017,93,Northern Europe
+Sweden,2018,89.2,Northern Europe
+Sweden,2019,94.5,Northern Europe
+Sweden,2020,94.5,Northern Europe
+Eswatini,2000,0.926,Sub-Saharan Africa
+Eswatini,2001,1.28,Sub-Saharan Africa
+Eswatini,2002,1.82,Sub-Saharan Africa
+Eswatini,2003,2.44,Sub-Saharan Africa
+Eswatini,2004,3.23,Sub-Saharan Africa
+Eswatini,2005,3.7,Sub-Saharan Africa
+Eswatini,2006,3.7,Sub-Saharan Africa
+Eswatini,2007,4.1,Sub-Saharan Africa
+Eswatini,2008,6.85,Sub-Saharan Africa
+Eswatini,2009,8.94,Sub-Saharan Africa
+Eswatini,2010,11,Sub-Saharan Africa
+Eswatini,2011,18.1,Sub-Saharan Africa
+Eswatini,2012,20.8,Sub-Saharan Africa
+Eswatini,2013,24.7,Sub-Saharan Africa
+Eswatini,2014,25,Sub-Saharan Africa
+Eswatini,2015,25.6,Sub-Saharan Africa
+Eswatini,2016,28.6,Sub-Saharan Africa
+Eswatini,2017,35.3,Sub-Saharan Africa
+Eswatini,2018,43.7,Sub-Saharan Africa
+Eswatini,2019,54,Sub-Saharan Africa
+Eswatini,2020,56.4,Sub-Saharan Africa
+Seychelles,2000,7.4,Sub-Saharan Africa
+Seychelles,2001,11,Sub-Saharan Africa
+Seychelles,2002,14.3,Sub-Saharan Africa
+Seychelles,2003,14.6,Sub-Saharan Africa
+Seychelles,2004,24.3,Sub-Saharan Africa
+Seychelles,2005,25.4,Sub-Saharan Africa
+Seychelles,2006,35,Sub-Saharan Africa
+Seychelles,2007,38.4,Sub-Saharan Africa
+Seychelles,2008,40.4,Sub-Saharan Africa
+Seychelles,2009,NA,Sub-Saharan Africa
+Seychelles,2010,41,Sub-Saharan Africa
+Seychelles,2011,43.2,Sub-Saharan Africa
+Seychelles,2012,47.1,Sub-Saharan Africa
+Seychelles,2013,50.4,Sub-Saharan Africa
+Seychelles,2014,51.3,Sub-Saharan Africa
+Seychelles,2015,54.3,Sub-Saharan Africa
+Seychelles,2016,56.5,Sub-Saharan Africa
+Seychelles,2017,58.8,Sub-Saharan Africa
+Seychelles,2018,70.1,Sub-Saharan Africa
+Seychelles,2019,74.8,Sub-Saharan Africa
+Seychelles,2020,75.5,Sub-Saharan Africa
+Syria,2000,0.182,Western Asia
+Syria,2001,0.354,Western Asia
+Syria,2002,2.09,Western Asia
+Syria,2003,3.4,Western Asia
+Syria,2004,4.32,Western Asia
+Syria,2005,5.65,Western Asia
+Syria,2006,7.83,Western Asia
+Syria,2007,11.5,Western Asia
+Syria,2008,14,Western Asia
+Syria,2009,17.3,Western Asia
+Syria,2010,20.7,Western Asia
+Syria,2011,22.5,Western Asia
+Syria,2012,24.3,Western Asia
+Syria,2013,26.2,Western Asia
+Syria,2014,28.1,Western Asia
+Syria,2015,30,Western Asia
+Syria,2016,31.9,Western Asia
+Syria,2017,32.7,Western Asia
+Syria,2018,33.8,Western Asia
+Syria,2019,34.6,Western Asia
+Syria,2020,35.8,Western Asia
+Turks and Caicos Islands,2000,NA,Latin America and the Caribbean
+Turks and Caicos Islands,2001,NA,Latin America and the Caribbean
+Turks and Caicos Islands,2002,NA,Latin America and the Caribbean
+Turks and Caicos Islands,2003,NA,Latin America and the Caribbean
+Turks and Caicos Islands,2004,NA,Latin America and the Caribbean
+Turks and Caicos Islands,2005,NA,Latin America and the Caribbean
+Turks and Caicos Islands,2006,NA,Latin America and the Caribbean
+Turks and Caicos Islands,2007,NA,Latin America and the Caribbean
+Turks and Caicos Islands,2008,NA,Latin America and the Caribbean
+Turks and Caicos Islands,2009,NA,Latin America and the Caribbean
+Turks and Caicos Islands,2010,NA,Latin America and the Caribbean
+Turks and Caicos Islands,2011,NA,Latin America and the Caribbean
+Turks and Caicos Islands,2012,NA,Latin America and the Caribbean
+Turks and Caicos Islands,2013,NA,Latin America and the Caribbean
+Turks and Caicos Islands,2014,NA,Latin America and the Caribbean
+Turks and Caicos Islands,2015,NA,Latin America and the Caribbean
+Turks and Caicos Islands,2016,NA,Latin America and the Caribbean
+Turks and Caicos Islands,2017,NA,Latin America and the Caribbean
+Turks and Caicos Islands,2018,NA,Latin America and the Caribbean
+Turks and Caicos Islands,2019,NA,Latin America and the Caribbean
+Turks and Caicos Islands,2020,NA,Latin America and the Caribbean
+Chad,2000,0.0357,Sub-Saharan Africa
+Chad,2001,0.0459,Sub-Saharan Africa
+Chad,2002,0.166,Sub-Saharan Africa
+Chad,2003,0.32,Sub-Saharan Africa
+Chad,2004,0.361,Sub-Saharan Africa
+Chad,2005,0.399,Sub-Saharan Africa
+Chad,2006,0.581,Sub-Saharan Africa
+Chad,2007,0.847,Sub-Saharan Africa
+Chad,2008,1.19,Sub-Saharan Africa
+Chad,2009,1.5,Sub-Saharan Africa
+Chad,2010,1.7,Sub-Saharan Africa
+Chad,2011,1.9,Sub-Saharan Africa
+Chad,2012,2.1,Sub-Saharan Africa
+Chad,2013,2.5,Sub-Saharan Africa
+Chad,2014,2.9,Sub-Saharan Africa
+Chad,2015,3.5,Sub-Saharan Africa
+Chad,2016,5.8,Sub-Saharan Africa
+Chad,2017,7.4,Sub-Saharan Africa
+Chad,2018,8,Sub-Saharan Africa
+Chad,2019,8.36,Sub-Saharan Africa
+Chad,2020,11.7,Sub-Saharan Africa
+Togo,2000,0.8,Sub-Saharan Africa
+Togo,2001,0.9,Sub-Saharan Africa
+Togo,2002,1,Sub-Saharan Africa
+Togo,2003,1.2,Sub-Saharan Africa
+Togo,2004,1.5,Sub-Saharan Africa
+Togo,2005,1.8,Sub-Saharan Africa
+Togo,2006,2,Sub-Saharan Africa
+Togo,2007,2.2,Sub-Saharan Africa
+Togo,2008,2.4,Sub-Saharan Africa
+Togo,2009,2.6,Sub-Saharan Africa
+Togo,2010,3,Sub-Saharan Africa
+Togo,2011,3.5,Sub-Saharan Africa
+Togo,2012,4,Sub-Saharan Africa
+Togo,2013,4.5,Sub-Saharan Africa
+Togo,2014,5.7,Sub-Saharan Africa
+Togo,2015,7.12,Sub-Saharan Africa
+Togo,2016,11.3,Sub-Saharan Africa
+Togo,2017,12.4,Sub-Saharan Africa
+Togo,2018,15.5,Sub-Saharan Africa
+Togo,2019,20.7,Sub-Saharan Africa
+Togo,2020,29.1,Sub-Saharan Africa
+Thailand,2000,3.69,South-eastern Asia
+Thailand,2001,5.56,South-eastern Asia
+Thailand,2002,7.53,South-eastern Asia
+Thailand,2003,9.3,South-eastern Asia
+Thailand,2004,10.7,South-eastern Asia
+Thailand,2005,15,South-eastern Asia
+Thailand,2006,17.2,South-eastern Asia
+Thailand,2007,20,South-eastern Asia
+Thailand,2008,18.2,South-eastern Asia
+Thailand,2009,20.1,South-eastern Asia
+Thailand,2010,22.4,South-eastern Asia
+Thailand,2011,23.7,South-eastern Asia
+Thailand,2012,26.5,South-eastern Asia
+Thailand,2013,28.9,South-eastern Asia
+Thailand,2014,34.9,South-eastern Asia
+Thailand,2015,39.3,South-eastern Asia
+Thailand,2016,47.5,South-eastern Asia
+Thailand,2017,52.9,South-eastern Asia
+Thailand,2018,56.8,South-eastern Asia
+Thailand,2019,66.7,South-eastern Asia
+Thailand,2020,77.8,South-eastern Asia
+Tajikistan,2000,0.0486,Central Asia
+Tajikistan,2001,0.0513,Central Asia
+Tajikistan,2002,0.0555,Central Asia
+Tajikistan,2003,0.0646,Central Asia
+Tajikistan,2004,0.0775,Central Asia
+Tajikistan,2005,0.299,Central Asia
+Tajikistan,2006,3.77,Central Asia
+Tajikistan,2007,7.2,Central Asia
+Tajikistan,2008,8.78,Central Asia
+Tajikistan,2009,10.1,Central Asia
+Tajikistan,2010,11.6,Central Asia
+Tajikistan,2011,13,Central Asia
+Tajikistan,2012,14.5,Central Asia
+Tajikistan,2013,16,Central Asia
+Tajikistan,2014,17.5,Central Asia
+Tajikistan,2015,19,Central Asia
+Tajikistan,2016,20.5,Central Asia
+Tajikistan,2017,22,Central Asia
+Tajikistan,2018,NA,Central Asia
+Tajikistan,2019,NA,Central Asia
+Tajikistan,2020,NA,Central Asia
+Turkmenistan,2000,0.133,Central Asia
+Turkmenistan,2001,0.175,Central Asia
+Turkmenistan,2002,0.302,Central Asia
+Turkmenistan,2003,0.425,Central Asia
+Turkmenistan,2004,0.754,Central Asia
+Turkmenistan,2005,0.997,Central Asia
+Turkmenistan,2006,1.32,Central Asia
+Turkmenistan,2007,1.41,Central Asia
+Turkmenistan,2008,1.75,Central Asia
+Turkmenistan,2009,1.95,Central Asia
+Turkmenistan,2010,3,Central Asia
+Turkmenistan,2011,5,Central Asia
+Turkmenistan,2012,7.2,Central Asia
+Turkmenistan,2013,9.6,Central Asia
+Turkmenistan,2014,12.2,Central Asia
+Turkmenistan,2015,15,Central Asia
+Turkmenistan,2016,18,Central Asia
+Turkmenistan,2017,21.3,Central Asia
+Turkmenistan,2018,NA,Central Asia
+Turkmenistan,2019,NA,Central Asia
+Turkmenistan,2020,NA,Central Asia
+Timor-Leste,2000,NA,South-eastern Asia
+Timor-Leste,2001,NA,South-eastern Asia
+Timor-Leste,2002,0,South-eastern Asia
+Timor-Leste,2003,0,South-eastern Asia
+Timor-Leste,2004,0,South-eastern Asia
+Timor-Leste,2005,0.099,South-eastern Asia
+Timor-Leste,2006,0.5,South-eastern Asia
+Timor-Leste,2007,1,South-eastern Asia
+Timor-Leste,2008,1.5,South-eastern Asia
+Timor-Leste,2009,2,South-eastern Asia
+Timor-Leste,2010,3,South-eastern Asia
+Timor-Leste,2011,4,South-eastern Asia
+Timor-Leste,2012,7,South-eastern Asia
+Timor-Leste,2013,11,South-eastern Asia
+Timor-Leste,2014,17.5,South-eastern Asia
+Timor-Leste,2015,18.6,South-eastern Asia
+Timor-Leste,2016,21.2,South-eastern Asia
+Timor-Leste,2017,24.2,South-eastern Asia
+Timor-Leste,2018,27.6,South-eastern Asia
+Timor-Leste,2019,28,South-eastern Asia
+Timor-Leste,2020,34.1,South-eastern Asia
+Tonga,2000,2.43,Polynesia
+Tonga,2001,2.83,Polynesia
+Tonga,2002,2.91,Polynesia
+Tonga,2003,2.99,Polynesia
+Tonga,2004,3.95,Polynesia
+Tonga,2005,4.91,Polynesia
+Tonga,2006,5.85,Polynesia
+Tonga,2007,7.18,Polynesia
+Tonga,2008,8.11,Polynesia
+Tonga,2009,10,Polynesia
+Tonga,2010,16,Polynesia
+Tonga,2011,25,Polynesia
+Tonga,2012,30,Polynesia
+Tonga,2013,32.8,Polynesia
+Tonga,2014,36,Polynesia
+Tonga,2015,38.7,Polynesia
+Tonga,2016,40,Polynesia
+Tonga,2017,46.2,Polynesia
+Tonga,2018,53.4,Polynesia
+Tonga,2019,61.8,Polynesia
+Tonga,2020,66.6,Polynesia
+Trinidad and Tobago,2000,7.72,Latin America and the Caribbean
+Trinidad and Tobago,2001,15.4,Latin America and the Caribbean
+Trinidad and Tobago,2002,22,Latin America and the Caribbean
+Trinidad and Tobago,2003,26,Latin America and the Caribbean
+Trinidad and Tobago,2004,27,Latin America and the Caribbean
+Trinidad and Tobago,2005,29,Latin America and the Caribbean
+Trinidad and Tobago,2006,30,Latin America and the Caribbean
+Trinidad and Tobago,2007,32.3,Latin America and the Caribbean
+Trinidad and Tobago,2008,34.8,Latin America and the Caribbean
+Trinidad and Tobago,2009,44.3,Latin America and the Caribbean
+Trinidad and Tobago,2010,48.5,Latin America and the Caribbean
+Trinidad and Tobago,2011,55.2,Latin America and the Caribbean
+Trinidad and Tobago,2012,57.5,Latin America and the Caribbean
+Trinidad and Tobago,2013,59.9,Latin America and the Caribbean
+Trinidad and Tobago,2014,62.4,Latin America and the Caribbean
+Trinidad and Tobago,2015,65.1,Latin America and the Caribbean
+Trinidad and Tobago,2016,67.8,Latin America and the Caribbean
+Trinidad and Tobago,2017,70.6,Latin America and the Caribbean
+Trinidad and Tobago,2018,NA,Latin America and the Caribbean
+Trinidad and Tobago,2019,79,Latin America and the Caribbean
+Trinidad and Tobago,2020,78.7,Latin America and the Caribbean
+Tunisia,2000,2.75,Northern Africa
+Tunisia,2001,4.3,Northern Africa
+Tunisia,2002,5.25,Northern Africa
+Tunisia,2003,6.49,Northern Africa
+Tunisia,2004,8.53,Northern Africa
+Tunisia,2005,9.66,Northern Africa
+Tunisia,2006,13,Northern Africa
+Tunisia,2007,17.1,Northern Africa
+Tunisia,2008,27.5,Northern Africa
+Tunisia,2009,34.1,Northern Africa
+Tunisia,2010,36.8,Northern Africa
+Tunisia,2011,39.1,Northern Africa
+Tunisia,2012,41.4,Northern Africa
+Tunisia,2013,43.8,Northern Africa
+Tunisia,2014,46.2,Northern Africa
+Tunisia,2015,46.5,Northern Africa
+Tunisia,2016,49.6,Northern Africa
+Tunisia,2017,55.5,Northern Africa
+Tunisia,2018,64.2,Northern Africa
+Tunisia,2019,66.7,Northern Africa
+Tunisia,2020,72.8,Northern Africa
+Turkey,2000,3.76,Western Asia
+Turkey,2001,5.19,Western Asia
+Turkey,2002,11.4,Western Asia
+Turkey,2003,12.3,Western Asia
+Turkey,2004,14.6,Western Asia
+Turkey,2005,15.5,Western Asia
+Turkey,2006,18.2,Western Asia
+Turkey,2007,28.6,Western Asia
+Turkey,2008,34.4,Western Asia
+Turkey,2009,36.4,Western Asia
+Turkey,2010,39.8,Western Asia
+Turkey,2011,43.1,Western Asia
+Turkey,2012,45.1,Western Asia
+Turkey,2013,46.3,Western Asia
+Turkey,2014,51,Western Asia
+Turkey,2015,53.7,Western Asia
+Turkey,2016,58.3,Western Asia
+Turkey,2017,64.7,Western Asia
+Turkey,2018,71,Western Asia
+Turkey,2019,74,Western Asia
+Turkey,2020,77.7,Western Asia
+Tuvalu,2000,5.24,Polynesia
+Tuvalu,2001,5.7,Polynesia
+Tuvalu,2002,6.3,Polynesia
+Tuvalu,2003,6.9,Polynesia
+Tuvalu,2004,7.6,Polynesia
+Tuvalu,2005,8.3,Polynesia
+Tuvalu,2006,9.1,Polynesia
+Tuvalu,2007,10,Polynesia
+Tuvalu,2008,11.2,Polynesia
+Tuvalu,2009,12.8,Polynesia
+Tuvalu,2010,14.6,Polynesia
+Tuvalu,2011,16.5,Polynesia
+Tuvalu,2012,18.7,Polynesia
+Tuvalu,2013,21.2,Polynesia
+Tuvalu,2014,24.1,Polynesia
+Tuvalu,2015,27.3,Polynesia
+Tuvalu,2016,31,Polynesia
+Tuvalu,2017,35.2,Polynesia
+Tuvalu,2018,NA,Polynesia
+Tuvalu,2019,NA,Polynesia
+Tuvalu,2020,NA,Polynesia
+Tanzania,2000,0.117,Sub-Saharan Africa
+Tanzania,2001,0.171,Sub-Saharan Africa
+Tanzania,2002,0.222,Sub-Saharan Africa
+Tanzania,2003,0.677,Sub-Saharan Africa
+Tanzania,2004,0.878,Sub-Saharan Africa
+Tanzania,2005,1.1,Sub-Saharan Africa
+Tanzania,2006,1.3,Sub-Saharan Africa
+Tanzania,2007,1.6,Sub-Saharan Africa
+Tanzania,2008,1.9,Sub-Saharan Africa
+Tanzania,2009,2.4,Sub-Saharan Africa
+Tanzania,2010,2.9,Sub-Saharan Africa
+Tanzania,2011,3.2,Sub-Saharan Africa
+Tanzania,2012,3.95,Sub-Saharan Africa
+Tanzania,2013,4.4,Sub-Saharan Africa
+Tanzania,2014,7,Sub-Saharan Africa
+Tanzania,2015,10,Sub-Saharan Africa
+Tanzania,2016,13.5,Sub-Saharan Africa
+Tanzania,2017,16,Sub-Saharan Africa
+Tanzania,2018,17.1,Sub-Saharan Africa
+Tanzania,2019,18.3,Sub-Saharan Africa
+Tanzania,2020,23.4,Sub-Saharan Africa
+Uganda,2000,0.164,Sub-Saharan Africa
+Uganda,2001,0.238,Sub-Saharan Africa
+Uganda,2002,0.384,Sub-Saharan Africa
+Uganda,2003,0.465,Sub-Saharan Africa
+Uganda,2004,0.72,Sub-Saharan Africa
+Uganda,2005,1.74,Sub-Saharan Africa
+Uganda,2006,2.53,Sub-Saharan Africa
+Uganda,2007,3.67,Sub-Saharan Africa
+Uganda,2008,3.88,Sub-Saharan Africa
+Uganda,2009,4.1,Sub-Saharan Africa
+Uganda,2010,4.3,Sub-Saharan Africa
+Uganda,2011,4.6,Sub-Saharan Africa
+Uganda,2012,4.8,Sub-Saharan Africa
+Uganda,2013,5.1,Sub-Saharan Africa
+Uganda,2014,5.4,Sub-Saharan Africa
+Uganda,2015,5.8,Sub-Saharan Africa
+Uganda,2016,5.9,Sub-Saharan Africa
+Uganda,2017,5.9,Sub-Saharan Africa
+Uganda,2018,6,Sub-Saharan Africa
+Uganda,2019,6.02,Sub-Saharan Africa
+Uganda,2020,6.1,Sub-Saharan Africa
+Ukraine,2000,0.716,Eastern Europe
+Ukraine,2001,1.24,Eastern Europe
+Ukraine,2002,1.87,Eastern Europe
+Ukraine,2003,3.15,Eastern Europe
+Ukraine,2004,3.49,Eastern Europe
+Ukraine,2005,3.75,Eastern Europe
+Ukraine,2006,4.51,Eastern Europe
+Ukraine,2007,6.55,Eastern Europe
+Ukraine,2008,11,Eastern Europe
+Ukraine,2009,17.9,Eastern Europe
+Ukraine,2010,23.3,Eastern Europe
+Ukraine,2011,28.7,Eastern Europe
+Ukraine,2012,35.3,Eastern Europe
+Ukraine,2013,41,Eastern Europe
+Ukraine,2014,46.2,Eastern Europe
+Ukraine,2015,48.9,Eastern Europe
+Ukraine,2016,53,Eastern Europe
+Ukraine,2017,58.9,Eastern Europe
+Ukraine,2018,62.6,Eastern Europe
+Ukraine,2019,70.1,Eastern Europe
+Ukraine,2020,75,Eastern Europe
+Uruguay,2000,10.5,Latin America and the Caribbean
+Uruguay,2001,11.1,Latin America and the Caribbean
+Uruguay,2002,11.4,Latin America and the Caribbean
+Uruguay,2003,15.9,Latin America and the Caribbean
+Uruguay,2004,17.1,Latin America and the Caribbean
+Uruguay,2005,20.1,Latin America and the Caribbean
+Uruguay,2006,29.4,Latin America and the Caribbean
+Uruguay,2007,34,Latin America and the Caribbean
+Uruguay,2008,39.3,Latin America and the Caribbean
+Uruguay,2009,41.8,Latin America and the Caribbean
+Uruguay,2010,46.4,Latin America and the Caribbean
+Uruguay,2011,51.4,Latin America and the Caribbean
+Uruguay,2012,54.5,Latin America and the Caribbean
+Uruguay,2013,57.7,Latin America and the Caribbean
+Uruguay,2014,61.5,Latin America and the Caribbean
+Uruguay,2015,64.6,Latin America and the Caribbean
+Uruguay,2016,66.4,Latin America and the Caribbean
+Uruguay,2017,70.3,Latin America and the Caribbean
+Uruguay,2018,80.7,Latin America and the Caribbean
+Uruguay,2019,83.4,Latin America and the Caribbean
+Uruguay,2020,86.3,Latin America and the Caribbean
+USA,2000,43.1,Northern America
+USA,2001,49.1,Northern America
+USA,2002,58.8,Northern America
+USA,2003,61.7,Northern America
+USA,2004,64.8,Northern America
+USA,2005,68,Northern America
+USA,2006,68.9,Northern America
+USA,2007,75,Northern America
+USA,2008,74,Northern America
+USA,2009,71,Northern America
+USA,2010,71.7,Northern America
+USA,2011,69.7,Northern America
+USA,2012,74.7,Northern America
+USA,2013,71.4,Northern America
+USA,2014,73,Northern America
+USA,2015,74.6,Northern America
+USA,2016,85.5,Northern America
+USA,2017,87.3,Northern America
+USA,2018,88.5,Northern America
+USA,2019,89.4,Northern America
+USA,2020,90.6,Northern America
+Uzbekistan,2000,0.484,Central Asia
+Uzbekistan,2001,0.598,Central Asia
+Uzbekistan,2002,1.08,Central Asia
+Uzbekistan,2003,1.91,Central Asia
+Uzbekistan,2004,2.59,Central Asia
+Uzbekistan,2005,3.34,Central Asia
+Uzbekistan,2006,6.39,Central Asia
+Uzbekistan,2007,7.49,Central Asia
+Uzbekistan,2008,9.08,Central Asia
+Uzbekistan,2009,11.9,Central Asia
+Uzbekistan,2010,15.9,Central Asia
+Uzbekistan,2011,18.6,Central Asia
+Uzbekistan,2012,23.6,Central Asia
+Uzbekistan,2013,26.8,Central Asia
+Uzbekistan,2014,35.5,Central Asia
+Uzbekistan,2015,42.8,Central Asia
+Uzbekistan,2016,46.8,Central Asia
+Uzbekistan,2017,48.7,Central Asia
+Uzbekistan,2018,55.2,Central Asia
+Uzbekistan,2019,70.4,Central Asia
+Uzbekistan,2020,71.1,Central Asia
+St. Vincent and the Grenadines,2000,3.25,Latin America and the Caribbean
+St. Vincent and the Grenadines,2001,5.09,Latin America and the Caribbean
+St. Vincent and the Grenadines,2002,5.55,Latin America and the Caribbean
+St. Vincent and the Grenadines,2003,6.46,Latin America and the Caribbean
+St. Vincent and the Grenadines,2004,7.37,Latin America and the Caribbean
+St. Vincent and the Grenadines,2005,9.2,Latin America and the Caribbean
+St. Vincent and the Grenadines,2006,12,Latin America and the Caribbean
+St. Vincent and the Grenadines,2007,16,Latin America and the Caribbean
+St. Vincent and the Grenadines,2008,21,Latin America and the Caribbean
+St. Vincent and the Grenadines,2009,31,Latin America and the Caribbean
+St. Vincent and the Grenadines,2010,33.7,Latin America and the Caribbean
+St. Vincent and the Grenadines,2011,36.7,Latin America and the Caribbean
+St. Vincent and the Grenadines,2012,40,Latin America and the Caribbean
+St. Vincent and the Grenadines,2013,43.5,Latin America and the Caribbean
+St. Vincent and the Grenadines,2014,47.4,Latin America and the Caribbean
+St. Vincent and the Grenadines,2015,49.4,Latin America and the Caribbean
+St. Vincent and the Grenadines,2016,51.5,Latin America and the Caribbean
+St. Vincent and the Grenadines,2017,53.7,Latin America and the Caribbean
+St. Vincent and the Grenadines,2018,56,Latin America and the Caribbean
+St. Vincent and the Grenadines,2019,74,Latin America and the Caribbean
+St. Vincent and the Grenadines,2020,80.4,Latin America and the Caribbean
+Venezuela,2000,3.36,Latin America and the Caribbean
+Venezuela,2001,4.64,Latin America and the Caribbean
+Venezuela,2002,4.91,Latin America and the Caribbean
+Venezuela,2003,7.5,Latin America and the Caribbean
+Venezuela,2004,8.4,Latin America and the Caribbean
+Venezuela,2005,12.6,Latin America and the Caribbean
+Venezuela,2006,15.2,Latin America and the Caribbean
+Venezuela,2007,20.8,Latin America and the Caribbean
+Venezuela,2008,25.9,Latin America and the Caribbean
+Venezuela,2009,32.7,Latin America and the Caribbean
+Venezuela,2010,37.4,Latin America and the Caribbean
+Venezuela,2011,40.2,Latin America and the Caribbean
+Venezuela,2012,49.1,Latin America and the Caribbean
+Venezuela,2013,54.9,Latin America and the Caribbean
+Venezuela,2014,57,Latin America and the Caribbean
+Venezuela,2015,58,Latin America and the Caribbean
+Venezuela,2016,60,Latin America and the Caribbean
+Venezuela,2017,61.6,Latin America and the Caribbean
+Venezuela,2018,NA,Latin America and the Caribbean
+Venezuela,2019,NA,Latin America and the Caribbean
+Venezuela,2020,NA,Latin America and the Caribbean
+British Virgin Islands,2000,NA,Latin America and the Caribbean
+British Virgin Islands,2001,NA,Latin America and the Caribbean
+British Virgin Islands,2002,18.9,Latin America and the Caribbean
+British Virgin Islands,2003,NA,Latin America and the Caribbean
+British Virgin Islands,2004,NA,Latin America and the Caribbean
+British Virgin Islands,2005,NA,Latin America and the Caribbean
+British Virgin Islands,2006,NA,Latin America and the Caribbean
+British Virgin Islands,2007,NA,Latin America and the Caribbean
+British Virgin Islands,2008,NA,Latin America and the Caribbean
+British Virgin Islands,2009,36,Latin America and the Caribbean
+British Virgin Islands,2010,37,Latin America and the Caribbean
+British Virgin Islands,2011,37.4,Latin America and the Caribbean
+British Virgin Islands,2012,37.6,Latin America and the Caribbean
+British Virgin Islands,2013,NA,Latin America and the Caribbean
+British Virgin Islands,2014,NA,Latin America and the Caribbean
+British Virgin Islands,2015,NA,Latin America and the Caribbean
+British Virgin Islands,2016,77.7,Latin America and the Caribbean
+British Virgin Islands,2017,77.7,Latin America and the Caribbean
+British Virgin Islands,2018,NA,Latin America and the Caribbean
+British Virgin Islands,2019,NA,Latin America and the Caribbean
+British Virgin Islands,2020,NA,Latin America and the Caribbean
+Virgin Islands (U.S.),2000,13.8,Latin America and the Caribbean
+Virgin Islands (U.S.),2001,18.4,Latin America and the Caribbean
+Virgin Islands (U.S.),2002,27.5,Latin America and the Caribbean
+Virgin Islands (U.S.),2003,27.4,Latin America and the Caribbean
+Virgin Islands (U.S.),2004,27.4,Latin America and the Caribbean
+Virgin Islands (U.S.),2005,27.3,Latin America and the Caribbean
+Virgin Islands (U.S.),2006,27.3,Latin America and the Caribbean
+Virgin Islands (U.S.),2007,27.3,Latin America and the Caribbean
+Virgin Islands (U.S.),2008,27.4,Latin America and the Caribbean
+Virgin Islands (U.S.),2009,27.4,Latin America and the Caribbean
+Virgin Islands (U.S.),2010,31.2,Latin America and the Caribbean
+Virgin Islands (U.S.),2011,35.6,Latin America and the Caribbean
+Virgin Islands (U.S.),2012,40.5,Latin America and the Caribbean
+Virgin Islands (U.S.),2013,45.3,Latin America and the Caribbean
+Virgin Islands (U.S.),2014,50.1,Latin America and the Caribbean
+Virgin Islands (U.S.),2015,54.8,Latin America and the Caribbean
+Virgin Islands (U.S.),2016,59.6,Latin America and the Caribbean
+Virgin Islands (U.S.),2017,64.4,Latin America and the Caribbean
+Virgin Islands (U.S.),2018,NA,Latin America and the Caribbean
+Virgin Islands (U.S.),2019,NA,Latin America and the Caribbean
+Virgin Islands (U.S.),2020,NA,Latin America and the Caribbean
+Vietnam,2000,0.254,South-eastern Asia
+Vietnam,2001,1.27,South-eastern Asia
+Vietnam,2002,1.85,South-eastern Asia
+Vietnam,2003,3.78,South-eastern Asia
+Vietnam,2004,7.64,South-eastern Asia
+Vietnam,2005,12.7,South-eastern Asia
+Vietnam,2006,17.3,South-eastern Asia
+Vietnam,2007,20.8,South-eastern Asia
+Vietnam,2008,23.9,South-eastern Asia
+Vietnam,2009,26.6,South-eastern Asia
+Vietnam,2010,30.6,South-eastern Asia
+Vietnam,2011,35.1,South-eastern Asia
+Vietnam,2012,36.8,South-eastern Asia
+Vietnam,2013,38.5,South-eastern Asia
+Vietnam,2014,41,South-eastern Asia
+Vietnam,2015,45,South-eastern Asia
+Vietnam,2016,53,South-eastern Asia
+Vietnam,2017,58.1,South-eastern Asia
+Vietnam,2018,69.8,South-eastern Asia
+Vietnam,2019,68.7,South-eastern Asia
+Vietnam,2020,70.3,South-eastern Asia
+Vanuatu,2000,2.11,Melanesia
+Vanuatu,2001,2.83,Melanesia
+Vanuatu,2002,3.51,Melanesia
+Vanuatu,2003,3.9,Melanesia
+Vanuatu,2004,4.75,Melanesia
+Vanuatu,2005,5.08,Melanesia
+Vanuatu,2006,5.85,Melanesia
+Vanuatu,2007,6.8,Melanesia
+Vanuatu,2008,7.27,Melanesia
+Vanuatu,2009,7.5,Melanesia
+Vanuatu,2010,8,Melanesia
+Vanuatu,2011,9.2,Melanesia
+Vanuatu,2012,10.6,Melanesia
+Vanuatu,2013,11.3,Melanesia
+Vanuatu,2014,18.8,Melanesia
+Vanuatu,2015,22.4,Melanesia
+Vanuatu,2016,24,Melanesia
+Vanuatu,2017,30.8,Melanesia
+Vanuatu,2018,39.5,Melanesia
+Vanuatu,2019,50.7,Melanesia
+Vanuatu,2020,53.3,Melanesia
+Samoa,2000,0.566,Polynesia
+Samoa,2001,1.69,Polynesia
+Samoa,2002,2.24,Polynesia
+Samoa,2003,2.8,Polynesia
+Samoa,2004,3.08,Polynesia
+Samoa,2005,3.35,Polynesia
+Samoa,2006,4.47,Polynesia
+Samoa,2007,4.75,Polynesia
+Samoa,2008,5.03,Polynesia
+Samoa,2009,6,Polynesia
+Samoa,2010,7,Polynesia
+Samoa,2011,11,Polynesia
+Samoa,2012,12.9,Polynesia
+Samoa,2013,15.3,Polynesia
+Samoa,2014,21.2,Polynesia
+Samoa,2015,25.4,Polynesia
+Samoa,2016,31.7,Polynesia
+Samoa,2017,39.4,Polynesia
+Samoa,2018,49.1,Polynesia
+Samoa,2019,61.2,Polynesia
+Samoa,2020,69.2,Polynesia
+Yemen,2000,0.0825,Western Asia
+Yemen,2001,0.0908,Western Asia
+Yemen,2002,0.519,Western Asia
+Yemen,2003,0.605,Western Asia
+Yemen,2004,0.881,Western Asia
+Yemen,2005,1.05,Western Asia
+Yemen,2006,1.25,Western Asia
+Yemen,2007,5.01,Western Asia
+Yemen,2008,6.89,Western Asia
+Yemen,2009,9.96,Western Asia
+Yemen,2010,12.3,Western Asia
+Yemen,2011,14.9,Western Asia
+Yemen,2012,17.4,Western Asia
+Yemen,2013,20,Western Asia
+Yemen,2014,22.6,Western Asia
+Yemen,2015,24.1,Western Asia
+Yemen,2016,24.6,Western Asia
+Yemen,2017,26.7,Western Asia
+Yemen,2018,NA,Western Asia
+Yemen,2019,NA,Western Asia
+Yemen,2020,NA,Western Asia
+South Africa,2000,5.35,Sub-Saharan Africa
+South Africa,2001,6.35,Sub-Saharan Africa
+South Africa,2002,6.71,Sub-Saharan Africa
+South Africa,2003,7.01,Sub-Saharan Africa
+South Africa,2004,8.43,Sub-Saharan Africa
+South Africa,2005,7.49,Sub-Saharan Africa
+South Africa,2006,7.61,Sub-Saharan Africa
+South Africa,2007,8.07,Sub-Saharan Africa
+South Africa,2008,8.43,Sub-Saharan Africa
+South Africa,2009,10,Sub-Saharan Africa
+South Africa,2010,24,Sub-Saharan Africa
+South Africa,2011,34,Sub-Saharan Africa
+South Africa,2012,41,Sub-Saharan Africa
+South Africa,2013,46.5,Sub-Saharan Africa
+South Africa,2014,49,Sub-Saharan Africa
+South Africa,2015,51.9,Sub-Saharan Africa
+South Africa,2016,54,Sub-Saharan Africa
+South Africa,2017,56.2,Sub-Saharan Africa
+South Africa,2018,62.4,Sub-Saharan Africa
+South Africa,2019,69.7,Sub-Saharan Africa
+South Africa,2020,70.3,Sub-Saharan Africa
+Zambia,2000,0.191,Sub-Saharan Africa
+Zambia,2001,0.233,Sub-Saharan Africa
+Zambia,2002,0.478,Sub-Saharan Africa
+Zambia,2003,0.98,Sub-Saharan Africa
+Zambia,2004,1.1,Sub-Saharan Africa
+Zambia,2005,1.3,Sub-Saharan Africa
+Zambia,2006,1.6,Sub-Saharan Africa
+Zambia,2007,1.9,Sub-Saharan Africa
+Zambia,2008,2.2,Sub-Saharan Africa
+Zambia,2009,2.5,Sub-Saharan Africa
+Zambia,2010,3,Sub-Saharan Africa
+Zambia,2011,3.5,Sub-Saharan Africa
+Zambia,2012,4.1,Sub-Saharan Africa
+Zambia,2013,4.8,Sub-Saharan Africa
+Zambia,2014,6.5,Sub-Saharan Africa
+Zambia,2015,8.8,Sub-Saharan Africa
+Zambia,2016,10.3,Sub-Saharan Africa
+Zambia,2017,12.2,Sub-Saharan Africa
+Zambia,2018,14.3,Sub-Saharan Africa
+Zambia,2019,16.8,Sub-Saharan Africa
+Zambia,2020,18.1,Sub-Saharan Africa
+Zimbabwe,2000,0.401,Sub-Saharan Africa
+Zimbabwe,2001,0.8,Sub-Saharan Africa
+Zimbabwe,2002,1.1,Sub-Saharan Africa
+Zimbabwe,2003,1.8,Sub-Saharan Africa
+Zimbabwe,2004,2.1,Sub-Saharan Africa
+Zimbabwe,2005,2.4,Sub-Saharan Africa
+Zimbabwe,2006,2.4,Sub-Saharan Africa
+Zimbabwe,2007,3,Sub-Saharan Africa
+Zimbabwe,2008,3.5,Sub-Saharan Africa
+Zimbabwe,2009,4,Sub-Saharan Africa
+Zimbabwe,2010,6.4,Sub-Saharan Africa
+Zimbabwe,2011,8.4,Sub-Saharan Africa
+Zimbabwe,2012,12,Sub-Saharan Africa
+Zimbabwe,2013,15.5,Sub-Saharan Africa
+Zimbabwe,2014,16.4,Sub-Saharan Africa
+Zimbabwe,2015,22.7,Sub-Saharan Africa
+Zimbabwe,2016,23.1,Sub-Saharan Africa
+Zimbabwe,2017,24.4,Sub-Saharan Africa
+Zimbabwe,2018,25,Sub-Saharan Africa
+Zimbabwe,2019,26.6,Sub-Saharan Africa
+Zimbabwe,2020,29.3,Sub-Saharan Africa

@@ -1,0 +1,59 @@
+---
+title: "Report on internet usage"
+format: typst
+execute:
+  echo: false
+params:
+  country: "Ukraine"
+---
+
+```{r}
+#| message: false
+library(dplyr)
+library(ggplot2)
+library(gt)
+library(stringr)
+library(showtext)
+
+font_add_google(name = "Poppins", family = "Poppins")
+showtext_auto()
+
+internet <- readr::read_csv("internet_usage.csv")
+
+```
+
+\
+
+# [`r params$country`]{style="color: #fab420; font-size: 24pt"}
+
+\
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc at lectus neque. Morbi scelerisque quis nibh at ullamcorper. Fusce lacinia lacus vel urna dignissim, a porta quam efficitur. Suspendisse ac volutpat neque. Curabitur hendrerit luctus nulla ac aliquam. Nunc pulvinar felis mi, eu pellentesque nunc posuere nec. Donec faucibus interdum sem vel porttitor. Pellentesque ac vulputate elit. Proin aliquam velit sit amet mi commodo convallis. 
+\
+
+```{r}
+internet |> 
+  filter(country == params$country) |> 
+  ggplot(aes(x = year, y = internet_usage)) + 
+  geom_line(linewidth = 2, color = "#fab420") +
+  scale_y_continuous(limits = c(0, 100),
+                     labels = scales::label_percent(scale = 1)) +
+  labs(title = str_glue("Percentage of internet usage in {params$country}"),
+       subtitle = "between 2010 - 2020",
+       x = NULL, 
+       y = NULL) +
+  theme_classic() +
+  theme(
+    text = element_text(family = "Poppins"),
+    axis.ticks = element_blank()
+    )
+
+```
+
+\
+Nulla nec mollis massa, eu tempus justo. In porttitor nibh sit amet nisl
+lacinia, a pulvinar quam tincidunt. Praesent interdum tincidunt diam, a
+imperdiet diam iaculis at. Sed vel dolor in est tristique fermentum eu
+quis ante. Donec pellentesque hendrerit commodo. Duis at mi vitae orci
+tempor aliquam. Duis aliquam, ante et vestibulum feugiat, diam urna
+efficitur enim, id egestas nibh justo ac mauris. 
